@@ -1,0 +1,17 @@
+# PolyEdge AI — .gitignore
+.env
+*.db
+*.log
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.streamlit/secrets.toml
+notifications.log
+polyedge.log
+polyedge.db
