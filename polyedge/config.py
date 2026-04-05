@@ -15,10 +15,6 @@ POLYMARKET_API_SECRET = os.getenv("POLYMARKET_API_SECRET", "")
 POLYMARKET_API_PASSPHRASE = os.getenv("POLYMARKET_API_PASSPHRASE", "")
 POLYMARKET_FUNDER_ADDRESS = os.getenv("POLYMARKET_FUNDER_ADDRESS", "")
 
-REDDIT_CLIENT_ID = os.getenv("REDDIT_CLIENT_ID", "")
-REDDIT_CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET", "")
-REDDIT_USER_AGENT = os.getenv("REDDIT_USER_AGENT", "PolyEdgeAI/1.0 by u/your_username")
-
 # ─── Network / API Endpoints ──────────────────────────────────────────────────
 GAMMA_API_BASE = "https://gamma-api.polymarket.com"
 CLOB_API_BASE  = "https://clob.polymarket.com"
@@ -43,7 +39,7 @@ NEWS_POLL_INTERVAL_SECONDS = 180    # 3 minutes
 NEWS_SHOCK_WINDOW_SECONDS  = 600    # 10 minutes for shock detection
 NEWS_SHOCK_THRESHOLD       = 3      # 3+ headlines → BREAKING_NEWS_SHOCK
 NEWS_MAX_HEADLINES_PER_MARKET = 5
-REDDIT_SUBREDDITS = ["worldnews", "politics", "CryptoCurrency"]
+REDDIT_SUBREDDITS = []   # Reddit removed — API policy changes made free access unreliable
 
 RSS_FEEDS = [
     "https://feeds.reuters.com/reuters/topNews",
@@ -112,8 +108,6 @@ def validate_config() -> list[str]:
         warnings.append("GROQ_API_KEY is not set — AI analysis will fail.")
     if not POLYMARKET_PRIVATE_KEY:
         warnings.append("POLYMARKET_PRIVATE_KEY not set — trading disabled.")
-    if not REDDIT_CLIENT_ID:
-        warnings.append("Reddit credentials missing — Reddit news source disabled.")
     if DRY_RUN:
         warnings.append("DRY_RUN=True — No real orders will be placed.")
     return warnings

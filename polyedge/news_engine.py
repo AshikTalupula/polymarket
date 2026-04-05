@@ -2,10 +2,21 @@
 PolyEdge AI — News Engine
 Aggregates real-time news from all free sources, scores headlines for
 relevance, and detects breaking-news shock events.
+
+Sources (all 100% free, no API key required):
+  - Reuters, BBC, AP, Al Jazeera RSS
+  - Google News RSS (keyword search — no auth)
+  - Hacker News API (free, no auth)
+  - Wikipedia Recent Changes API
+  - NPR News, The Guardian, Politico RSS
+  - Crypto: CoinDesk, CoinTelegraph RSS
+
+Note: Reddit was originally planned but their 2023/2024 API policy
+changes made free app creation unreliable. HackerNews covers similar
+crowd-sourced signal without any registration requirement.
 """
 import hashlib
 import logging
-import time
 from dataclasses import dataclass, field
 from datetime import datetime, timezone, timedelta
 from typing import Optional
@@ -17,13 +28,6 @@ import requests
 import config
 
 logger = logging.getLogger(__name__)
-
-# Optional PRAW — gracefully degraded if not configured
-try:
-    import praw
-    _PRAW_AVAILABLE = True
-except ImportError:
-    _PRAW_AVAILABLE = False
 
 
 # ─── Data Classes ─────────────────────────────────────────────────────────────
@@ -79,30 +83,26 @@ class NewsContext:
 
 # ─── NewsAggregator ──────────────────────────────────────────────────────────
 
+# Additional free RSS feeds (no auth needed)
+EXTRA_RSS_FEEDS = [
+    "https://feeds.npr.org/1001/rss.xml",                   # NPR Top Stories
+    "https://www.theguardian.com/world/rss",                 # The Guardian World
+    "https://rss.politico.com/politics-news.xml",            # Politico
+    "https://www.coindesk.com/arc/outboundfeeds/rss/",       # CoinDesk (crypto)
+    "https://cointelegraph.com/rss",                         # CoinTelegraph (crypto)
+    "https://www.ft.com/?format=rss",                        # Financial Times
+]
+
+
 class NewsAggregator:
     def __init__(self):
         self._seen_hashes:  set[str] = set()
         self._all_headlines: list[Headline] = []
         self._news_cache:   dict[str, NewsContext] = {}
-        self._reddit: Optional[object] = None
-        self._init_reddit()
-
-    def _init_reddit(self):
-        if not _PRAW_AVAILABLE:
-            return
-        if not config.REDDIT_CLIENT_ID or not config.REDDIT_CLIENT_SECRET:
-            logger.warning("Reddit credentials missing — Reddit source disabled.")
-            return
-        try:
-            self._reddit = praw.Reddit(
-                client_id=config.REDDIT_CLIENT_ID,
-                client_secret=config.REDDIT_CLIENT_SECRET,
-                user_agent=config.REDDIT_USER_AGENT,
-                read_only=True,
-            )
-            logger.info("Reddit client initialised.")
-        except Exception as e:
-            logger.error("Reddit init failed: %s", e)
+        logger.info(
+            "News engine initialised. Sources: RSS feeds, Google News, "
+            "HackerNews, Wikipedia. (Reddit removed — see module docstring)"
+        )
 
     # ── Source Polling ──────────────────────────────────────────────────────
 
@@ -150,29 +150,43 @@ class NewsAggregator:
         )
         return self._fetch_rss(url)
 
-    def _fetch_reddit(self, keywords: list[str]) -> list[Headline]:
-        if not self._reddit:
-            return []
+    def _fetch_hackernews(self, keywords: list[str]) -> list[Headline]:
+        """
+        Hacker News Algolia search API — completely free, no auth required.
+        Searches HN stories matching the market keywords from the last 24h.
+        """
         headlines = []
-        keyword_str = " ".join(keywords[:3]).lower()
-        for sub_name in config.REDDIT_SUBREDDITS:
-            try:
-                sub = self._reddit.subreddit(sub_name)
-                for post in list(sub.new(limit=30)) + list(sub.hot(limit=20)):
-                    title_lower = post.title.lower()
-                    if not any(kw in title_lower for kw in keyword_str.split()):
-                        continue
-                    pub = datetime.fromtimestamp(post.created_utc, tz=timezone.utc)
-                    h = Headline(
-                        title=post.title,
-                        url=f"https://reddit.com{post.permalink}",
-                        source=f"r/{sub_name}",
-                        published=pub,
-                        credibility=config.SOURCE_CREDIBILITY["reddit.com"],
-                    )
-                    headlines.append(h)
-            except Exception as e:
-                logger.debug("Reddit fetch error r/%s: %s", sub_name, e)
+        query = " ".join(keywords[:4])
+        try:
+            url = "https://hn.algolia.com/api/v1/search"
+            params = {
+                "query":        query,
+                "tags":         "story",
+                "numericFilters": f"created_at_i>{int((datetime.now(timezone.utc).timestamp() - 86400))}",
+                "hitsPerPage":  20,
+            }
+            resp = requests.get(url, params=params, timeout=10,
+                                headers={"User-Agent": "PolyEdgeAI/1.0"})
+            resp.raise_for_status()
+            hits = resp.json().get("hits", [])
+            for hit in hits:
+                title = hit.get("title", "")
+                hn_url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID','')}"
+                created = hit.get("created_at", "")
+                try:
+                    pub = datetime.fromisoformat(created.replace("Z", "+00:00"))
+                except Exception:
+                    pub = datetime.now(timezone.utc)
+                h = Headline(
+                    title=title,
+                    url=hn_url,
+                    source="HackerNews",
+                    published=pub,
+                    credibility=0.70,  # HN community = reasonably credible signal
+                )
+                headlines.append(h)
+        except Exception as e:
+            logger.debug("HackerNews API error: %s", e)
         return headlines
 
     def _fetch_wikipedia_recent(self) -> list[Headline]:
@@ -257,8 +271,12 @@ class NewsAggregator:
         logger.info("News engine: refreshing all sources…")
         new_headlines: list[Headline] = []
 
-        # Standard RSS feeds
+        # Core RSS feeds (config)
         for feed_url in config.RSS_FEEDS:
+            new_headlines.extend(self._fetch_rss(feed_url))
+
+        # Extra RSS feeds (politics, crypto, finance)
+        for feed_url in EXTRA_RSS_FEEDS:
             new_headlines.extend(self._fetch_rss(feed_url))
 
         # Wikipedia recent changes
@@ -282,16 +300,16 @@ class NewsAggregator:
     def get_news_for_market(self, market: dict) -> NewsContext:
         """
         Build a NewsContext for a specific market using keyword matching.
-        Also polls Google News and Reddit for market-specific terms.
+        Polls Google News and HackerNews for market-specific terms.
         """
         market_id = market["market_id"]
         question  = market["question"]
         keywords  = self._extract_keywords(question)
 
-        # Fetch market-specific news from Google News + Reddit
+        # Fetch market-specific news from Google News + HackerNews
         google_news = self._fetch_google_news(keywords)
-        reddit_news = self._fetch_reddit(keywords)
-        specific    = self._deduplicate(google_news + reddit_news)
+        hn_news     = self._fetch_hackernews(keywords)
+        specific    = self._deduplicate(google_news + hn_news)
 
         # Combine with global pool, filter by keyword relevance
         kw_lower = [k.lower() for k in keywords]
