@@ -50,29 +50,30 @@ class ShockAnalysisResult:
 # ─── Prompts ──────────────────────────────────────────────────────────────────
 
 STANDARD_PROMPT_TEMPLATE = """\
-You are a professional prediction market analyst. Analyze this market with extreme precision.
+You are a professional prediction market analyst specializing in calibrated probability estimation.
 
 MARKET: {question}
 DESCRIPTION: {description}
 CURRENT MARKET PRICE (YES probability): {price}%
 RESOLUTION DATE: {end_date}
-RECENT NEWS CONTEXT:
+
+{metaculus_section}RECENT NEWS & CONTEXT:
 {news_headlines}
 
 Analyze from THREE perspectives:
 
-[SKEPTIC]: What hard evidence suggests YES is OVERPRICED? List specific reasons.
-[BULL]: What evidence suggests YES is UNDERPRICED? List specific reasons.
-[BASE RATE EXPERT]: Based on historical base rates for this type of event, what is the statistically correct probability?
+[SKEPTIC]: What hard evidence suggests YES is OVERPRICED? List specific facts.
+[BULL]: What evidence suggests YES is UNDERPRICED? List specific facts.
+[BASE RATE EXPERT]: Based on historical base rates for this type of event, what is the statistically correct probability? Reference similar past events if possible.
 
-Then synthesize:
-- TRUE_PROBABILITY: Your best estimate as a single number (0-100)
-- CONFIDENCE: LOW / MEDIUM / HIGH
-- EDGE: TRUE_PROBABILITY minus current market price (positive = market underpricing YES)
-- REASONING: One sentence summary
-- TRADE_DIRECTION: BUY_YES / BUY_NO / NO_TRADE
+Synthesize and provide:
+- TRUE_PROBABILITY: Your best calibrated estimate (0-100). If Metaculus community data is provided above, weight it heavily (it's based on many calibrated forecasters).
+- CONFIDENCE: LOW if you don\'t have enough information | MEDIUM if uncertain | HIGH if evidence is strong
+- EDGE: TRUE_PROBABILITY minus current market price (positive = market underprices YES)
+- REASONING: One precise sentence explaining the key factor
+- TRADE_DIRECTION: BUY_YES (if edge positive and > 5%) / BUY_NO (if edge negative and < -5%) / NO_TRADE
 
-Respond ONLY in this exact JSON format:
+Respond ONLY in this exact JSON:
 {{"true_probability": 67, "confidence": "HIGH", "edge": 12, "reasoning": "...", "trade_direction": "BUY_YES"}}
 """
 
@@ -181,12 +182,33 @@ class PolyAnalyst:
             else "No news available."
         )
 
+        # ── Fetch Metaculus community forecast ───────────────────────────────
+        metaculus_section = ""
+        try:
+            from metaculus import get_metaculus_probability, get_community_summary
+            meta = get_metaculus_probability(market["question"])
+            if meta:
+                pct = round(meta["probability"] * 100, 1)
+                metaculus_section = (
+                    f"METACULUS COMMUNITY FORECAST ({meta['num_predictors']} calibrated forecasters): "
+                    f"{pct}% probability\n"
+                    f"Source: {meta['url']}\n"
+                    f"Similarity to this question: {meta['similarity_score']:.0%}\n"
+                    f"NOTE: Metaculus forecasters are statistically well-calibrated. "
+                    f"Their aggregate should anchor your estimate.\n\n"
+                )
+                logger.info("Metaculus: %.1f%% (n=%d) for '%s'",
+                            pct, meta["num_predictors"], market["question"][:40])
+        except Exception as e:
+            logger.debug("Metaculus lookup skipped: %s", e)
+
         prompt = STANDARD_PROMPT_TEMPLATE.format(
             question=market["question"],
             description=market.get("description", "N/A"),
             price=yes_price_pct,
             end_date=market.get("end_date", "Unknown"),
             news_headlines=headlines_text,
+            metaculus_section=metaculus_section,
         )
 
         try:

@@ -1,0 +1,62 @@
+name: PolyEdge AI — Scan Cycle
+
+on:
+  schedule:
+    # Runs every 10 minutes, 24/7
+    # NOTE: GitHub may delay by up to 15 min during high load — that's fine
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    # Adds a manual "Run workflow" button in GitHub Actions UI
+
+jobs:
+  scan-cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8   # Kill if over 8 min (before next scheduled run)
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scan cycle
+        env:
+          # ── AI ─────────────────────────────────────────────────────
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+
+          # ── Polymarket CLOB ────────────────────────────────────────
+          POLYMARKET_PRIVATE_KEY: ${{ secrets.POLYMARKET_PRIVATE_KEY }}
+          POLYMARKET_FUNDER_ADDRESS: ${{ secrets.POLYMARKET_FUNDER_ADDRESS }}
+          POLYMARKET_API_KEY: ${{ secrets.POLYMARKET_API_KEY }}
+          POLYMARKET_API_SECRET: ${{ secrets.POLYMARKET_API_SECRET }}
+          POLYMARKET_API_PASSPHRASE: ${{ secrets.POLYMARKET_API_PASSPHRASE }}
+          SIGNATURE_TYPE: ${{ secrets.SIGNATURE_TYPE }}
+
+          # ── Optional data sources ──────────────────────────────────
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+
+          # ── Settings ───────────────────────────────────────────────
+          DRY_RUN: "true"
+          STARTING_CAPITAL: "100.0"
+          LOG_LEVEL: "INFO"
+
+        run: |
+          cd polyedge
+          python run_cycle.py
+
+      - name: Upload log artifact on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: polyedge-error-log
+          path: polyedge/polyedge.log
+          retention-days: 3

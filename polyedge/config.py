@@ -15,6 +15,10 @@ POLYMARKET_API_SECRET = os.getenv("POLYMARKET_API_SECRET", "")
 POLYMARKET_API_PASSPHRASE = os.getenv("POLYMARKET_API_PASSPHRASE", "")
 POLYMARKET_FUNDER_ADDRESS = os.getenv("POLYMARKET_FUNDER_ADDRESS", "")
 
+# Optional data source keys (free sign-ups)
+FRED_API_KEY  = os.getenv("FRED_API_KEY", "")    # fred.stlouisfed.org/docs/api/api_key.html
+GNEWS_API_KEY = os.getenv("GNEWS_API_KEY", "")   # gnews.io (100 req/day free)
+
 # ─── Network / API Endpoints ──────────────────────────────────────────────────
 GAMMA_API_BASE = "https://gamma-api.polymarket.com"
 CLOB_API_BASE  = "https://clob.polymarket.com"
@@ -42,24 +46,58 @@ NEWS_MAX_HEADLINES_PER_MARKET = 5
 REDDIT_SUBREDDITS = []   # Reddit removed — API policy changes made free access unreliable
 
 RSS_FEEDS = [
+    # Major news wires
     "https://feeds.reuters.com/reuters/topNews",
     "https://feeds.bbci.co.uk/news/rss.xml",
     "https://feeds.ap.org/rss/apf-topnews",
     "https://www.aljazeera.com/xml/rss/all.xml",
+    # Politics / US
+    "https://rss.politico.com/politics-news.xml",
+    # Finance / Crypto
+    "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    # Reddit public RSS (no API key needed!)
+    "https://www.reddit.com/r/worldnews/.rss",
+    "https://www.reddit.com/r/politics/.rss",
+    "https://www.reddit.com/r/CryptoCurrency/.rss",
+    "https://www.reddit.com/r/Economics/.rss",
+    "https://www.reddit.com/r/geopolitics/.rss",
 ]
 
 SOURCE_CREDIBILITY = {
-    "reuters.com": 1.0,
-    "bbc.co.uk":   0.95,
-    "bbc.com":     0.95,
-    "ap.org":      1.0,
-    "apnews.com":  1.0,
-    "aljazeera.com": 0.85,
-    "google.com":  0.80,
-    "reddit.com":  0.60,
-    "wikipedia.org": 0.70,
-    "default":     0.65,
+    "reuters.com":    1.0,
+    "bbc.co.uk":      0.95,
+    "bbc.com":        0.95,
+    "ap.org":         1.0,
+    "apnews.com":     1.0,
+    "aljazeera.com":  0.85,
+    "politico.com":   0.88,
+    "coindesk.com":   0.82,
+    "google.com":     0.80,
+    "reddit.com":     0.65,
+    "wikipedia.org":  0.70,
+    "hackernews":     0.72,
+    "metaculus.com":  0.95,  # calibrated human forecasters
+    "fred":           1.0,   # Federal Reserve data = ground truth
+    "coingecko":      0.90,
+    "default":        0.65,
 }
+
+# ─── Metaculus Settings ───────────────────────────────────────────────────────
+METACULUS_MIN_FORECASTERS = 5      # skip if fewer than 5 forecasters
+METACULUS_MIN_SIMILARITY  = 0.35   # keyword overlap threshold
+
+# ─── FRED Economic Data ───────────────────────────────────────────────────────
+# Series to fetch for economic markets (empty = feature disabled if no key)
+FRED_SERIES = {
+    "FEDFUNDS":  "Federal Funds Rate",
+    "CPIAUCSL":  "Consumer Price Index (inflation)",
+    "UNRATE":    "US Unemployment Rate",
+    "GDP":       "US GDP",
+}
+
+# ─── CoinGecko Crypto Prices ──────────────────────────────────────────────────
+COINGECKO_COINS = ["bitcoin", "ethereum", "solana", "dogecoin", "ripple"]
+COINGECKO_ENABLED = True  # No API key needed
 
 # ─── Signal Detection Thresholds ────────────────────────────────────────────
 STRONG_BUY_EDGE_THRESHOLD    = 8.0   # % edge for STRONG_BUY
