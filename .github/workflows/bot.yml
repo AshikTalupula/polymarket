@@ -1,14 +1,10 @@
-name: PolyEdge AI — Scan Cycle
+name: PolyEdge AI Bot
 
 on:
   schedule:
-    # Every 10 minutes, 24/7
-    # Note: GitHub may delay up to 15 min during high load — that's fine
     - cron: '*/10 * * * *'
-  workflow_dispatch:
-    # "Run workflow" manual button in GitHub Actions UI
+  workflow_dispatch: {}
 
-# Allow Actions to push data files back to the repo
 permissions:
   contents: write
 
@@ -21,7 +17,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          # Need a token with write access to push data files back
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python 3.11
@@ -36,32 +31,22 @@ jobs:
 
       - name: Run scan cycle
         env:
-          # ── AI ──────────────────────────────────────────────────────
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-
-          # ── Polymarket CLOB ─────────────────────────────────────────
           POLYMARKET_PRIVATE_KEY: ${{ secrets.POLYMARKET_PRIVATE_KEY }}
           POLYMARKET_FUNDER_ADDRESS: ${{ secrets.POLYMARKET_FUNDER_ADDRESS }}
           POLYMARKET_API_KEY: ${{ secrets.POLYMARKET_API_KEY }}
           POLYMARKET_API_SECRET: ${{ secrets.POLYMARKET_API_SECRET }}
           POLYMARKET_API_PASSPHRASE: ${{ secrets.POLYMARKET_API_PASSPHRASE }}
           SIGNATURE_TYPE: ${{ secrets.SIGNATURE_TYPE }}
-
-          # ── Optional data sources ───────────────────────────────────
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
-
-          # ── Settings ────────────────────────────────────────────────
           DRY_RUN: "true"
           STARTING_CAPITAL: "100.0"
           LOG_LEVEL: "INFO"
-
         run: |
           cd polyedge
           python run_cycle.py
 
-      # ── Commit data/ JSON files back to repo ─────────────────────────────
-      # Streamlit Cloud reads these files directly — no external DB needed!
       - name: Commit updated data files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -70,7 +55,6 @@ jobs:
           commit_user_name: "PolyEdge AI Bot"
           commit_user_email: "polyedge-bot@users.noreply.github.com"
 
-      # ── Upload full log on failure for debugging ────────────────────────
       - name: Upload log on failure
         if: failure()
         uses: actions/upload-artifact@v4
