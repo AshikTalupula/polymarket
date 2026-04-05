@@ -111,6 +111,9 @@ def run_one_cycle() -> dict:
                     trader.execute_signal(signal)
                     summary["trades_executed"] += 1
 
+            # Prevent hitting Groq API rate limits (30 req/min free tier)
+            time.sleep(8)
+
         except Exception as e:
             err_msg = f"{market.get('question','?')[:30]}: {e}"
             logger.error("Market analysis error — %s", err_msg)
