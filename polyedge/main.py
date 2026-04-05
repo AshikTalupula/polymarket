@@ -86,7 +86,10 @@ def job_scan_and_analyze(market_scanner, news_agg, ai_analyst, sig_det, trader):
                                 "edge":            sig.edge,
                                 "confidence":      sig.confidence,
                             })
-                            if sig.is_strong:
+                            # DRY_RUN: execute ALL signals so you can see paper trades
+                            # LIVE: only execute STRONG signals (safer)
+                            should_execute = config.DRY_RUN or sig.is_strong
+                            if should_execute:
                                 trader.execute_signal(sig)
                         continue  # Skip standard evaluation for this market
 
@@ -100,7 +103,10 @@ def job_scan_and_analyze(market_scanner, news_agg, ai_analyst, sig_det, trader):
                         "edge":            sig.edge,
                         "confidence":      sig.confidence,
                     })
-                    if sig.is_strong:
+                    # DRY_RUN: execute ALL signals so you can see paper trades
+                    # LIVE: only execute STRONG signals (safer)
+                    should_execute = config.DRY_RUN or sig.is_strong
+                    if should_execute:
                         trader.execute_signal(sig)
 
             except Exception as inner_err:
