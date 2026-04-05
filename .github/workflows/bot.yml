@@ -2,20 +2,27 @@ name: PolyEdge AI — Scan Cycle
 
 on:
   schedule:
-    # Runs every 10 minutes, 24/7
-    # NOTE: GitHub may delay by up to 15 min during high load — that's fine
+    # Every 10 minutes, 24/7
+    # Note: GitHub may delay up to 15 min during high load — that's fine
     - cron: '*/10 * * * *'
   workflow_dispatch:
-    # Adds a manual "Run workflow" button in GitHub Actions UI
+    # "Run workflow" manual button in GitHub Actions UI
+
+# Allow Actions to push data files back to the repo
+permissions:
+  contents: write
 
 jobs:
   scan-cycle:
     runs-on: ubuntu-latest
-    timeout-minutes: 8   # Kill if over 8 min (before next scheduled run)
+    timeout-minutes: 8
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          # Need a token with write access to push data files back
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -29,10 +36,10 @@ jobs:
 
       - name: Run scan cycle
         env:
-          # ── AI ─────────────────────────────────────────────────────
+          # ── AI ──────────────────────────────────────────────────────
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
 
-          # ── Polymarket CLOB ────────────────────────────────────────
+          # ── Polymarket CLOB ─────────────────────────────────────────
           POLYMARKET_PRIVATE_KEY: ${{ secrets.POLYMARKET_PRIVATE_KEY }}
           POLYMARKET_FUNDER_ADDRESS: ${{ secrets.POLYMARKET_FUNDER_ADDRESS }}
           POLYMARKET_API_KEY: ${{ secrets.POLYMARKET_API_KEY }}
@@ -40,11 +47,11 @@ jobs:
           POLYMARKET_API_PASSPHRASE: ${{ secrets.POLYMARKET_API_PASSPHRASE }}
           SIGNATURE_TYPE: ${{ secrets.SIGNATURE_TYPE }}
 
-          # ── Optional data sources ──────────────────────────────────
+          # ── Optional data sources ───────────────────────────────────
           FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
 
-          # ── Settings ───────────────────────────────────────────────
+          # ── Settings ────────────────────────────────────────────────
           DRY_RUN: "true"
           STARTING_CAPITAL: "100.0"
           LOG_LEVEL: "INFO"
@@ -53,7 +60,18 @@ jobs:
           cd polyedge
           python run_cycle.py
 
-      - name: Upload log artifact on failure
+      # ── Commit data/ JSON files back to repo ─────────────────────────────
+      # Streamlit Cloud reads these files directly — no external DB needed!
+      - name: Commit updated data files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "bot: update market data [skip ci]"
+          file_pattern: "data/*.json"
+          commit_user_name: "PolyEdge AI Bot"
+          commit_user_email: "polyedge-bot@users.noreply.github.com"
+
+      # ── Upload full log on failure for debugging ────────────────────────
+      - name: Upload log on failure
         if: failure()
         uses: actions/upload-artifact@v4
         with:

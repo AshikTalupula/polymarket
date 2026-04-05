@@ -124,6 +124,14 @@ def run_one_cycle() -> dict:
         logger.error("Exit check failed: %s", e)
         summary["errors"].append(f"exit: {e}")
 
+    # ── 5. Export JSON for Streamlit Cloud ────────────────────────
+    try:
+        from exporter import export_all
+        export_all()
+        logger.info("Data exported to data/ for Streamlit Cloud")
+    except Exception as e:
+        logger.warning("Data export failed (non-critical): %s", e)
+
     elapsed = round(time.time() - t0, 1)
     logger.info("=" * 55)
     logger.info("  Cycle complete in %.1fs", elapsed)

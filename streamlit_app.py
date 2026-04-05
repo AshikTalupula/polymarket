@@ -1,10 +1,13 @@
 """
 PolyEdge AI — Streamlit Dashboard v2
-Vibrant dark trading dashboard. Reads from SQLite DB.
+Vibrant dark trading dashboard.
+- LOCAL: reads from polyedge/polyedge.db (SQLite)
+- STREAMLIT CLOUD: reads from data/*.json (committed to repo by GitHub Actions)
 Deploy free at streamlit.io/cloud
 """
 import os
 import sqlite3
+import json
 import time
 from datetime import datetime, timezone, date
 
@@ -17,7 +20,10 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # ── Config (no heavy bot imports) ─────────────────────────────────────────────
-DB_PATH          = os.path.join(os.path.dirname(os.path.abspath(__file__)), "polyedge", "polyedge.db")
+_APP_DIR         = os.path.dirname(os.path.abspath(__file__))
+DB_PATH          = os.path.join(_APP_DIR, "polyedge", "polyedge.db")
+DATA_DIR         = os.path.join(_APP_DIR, "data")   # JSON fallback for Streamlit Cloud
+USE_JSON         = not os.path.exists(DB_PATH) and os.path.isdir(DATA_DIR)
 STARTING_CAPITAL = float(os.getenv("STARTING_CAPITAL", "100.0"))
 DRY_RUN          = os.getenv("DRY_RUN", "true").lower() == "true"
 GROQ_MODEL       = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
@@ -168,7 +174,17 @@ div[data-testid="stDataFrame"] {
 """, unsafe_allow_html=True)
 
 
-# ── DB Helpers (raw SQLite, no bot imports) ────────────────────────────────────
+# ── Data Helpers — SQLite primary, JSON fallback for Streamlit Cloud ───────────
+def _load_json(filename: str) -> dict:
+    path = os.path.join(DATA_DIR, filename)
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
 def _conn():
     if not os.path.exists(DB_PATH):
         return None
@@ -189,33 +205,54 @@ def _q(sql, params=()):
         c.close()
 
 def db_ready():
-    return os.path.exists(DB_PATH)
+    """True when either SQLite or JSON data files are present."""
+    return os.path.exists(DB_PATH) or (
+        os.path.isdir(DATA_DIR) and
+        os.path.exists(os.path.join(DATA_DIR, "signals.json"))
+    )
 
 @st.cache_data(ttl=10)
 def get_open_trades():
+    if USE_JSON:
+        return [t for t in _load_json("trades.json").get("records", [])
+                if t.get("status") == "OPEN"]
     return _q("SELECT * FROM trades WHERE status='OPEN' ORDER BY timestamp DESC")
 
 @st.cache_data(ttl=10)
 def get_recent_trades(n=25):
+    if USE_JSON:
+        return _load_json("trades.json").get("records", [])[:n]
     return _q("SELECT * FROM trades ORDER BY timestamp DESC LIMIT ?", (n,))
 
 @st.cache_data(ttl=10)
 def get_recent_signals(n=25):
+    if USE_JSON:
+        return _load_json("signals.json").get("records", [])[:n]
     return _q("SELECT * FROM signals ORDER BY timestamp DESC LIMIT ?", (n,))
 
 @st.cache_data(ttl=20)
 def get_daily_pnl():
+    if USE_JSON:
+        return float(_load_json("portfolio.json").get("today_pnl", 0))
     today = date.today().isoformat()
     rows = _q("SELECT COALESCE(SUM(pnl),0) as t FROM trades WHERE date(timestamp)=? AND status='CLOSED'", (today,))
     return float(rows[0]["t"]) if rows else 0.0
 
 @st.cache_data(ttl=20)
 def get_total_pnl():
+    if USE_JSON:
+        return float(_load_json("portfolio.json").get("total_pnl", 0))
     rows = _q("SELECT COALESCE(SUM(pnl),0) as t FROM trades WHERE status='CLOSED'")
     return float(rows[0]["t"]) if rows else 0.0
 
 @st.cache_data(ttl=20)
 def get_stats():
+    if USE_JSON:
+        p = _load_json("portfolio.json")
+        n = p.get("total_closed", 0)
+        w = p.get("wins", 0)
+        f = float(p.get("total_fees", 0))
+        return {"trades": n, "wins": w, "win_rate": (w / n if n else 0), "fees": f}
     rows = _q("""SELECT COUNT(*) as n,
                         SUM(CASE WHEN pnl>0 THEN 1 ELSE 0 END) as w,
                         COALESCE(SUM(fee_paid),0) as f
@@ -229,16 +266,23 @@ def get_stats():
 
 @st.cache_data(ttl=60)
 def get_closed_trades_for_chart():
+    if USE_JSON:
+        return [t for t in _load_json("trades.json").get("records", [])
+                if t.get("status") == "CLOSED"]
     return _q("SELECT timestamp, pnl FROM trades WHERE status='CLOSED' ORDER BY timestamp")
 
 @st.cache_data(ttl=15)
 def get_market_scan():
+    if USE_JSON:
+        return _load_json("portfolio.json").get("market_scan", [])
     return _q("""SELECT DISTINCT market_question, market_id, MAX(timestamp) as latest,
                         ai_probability, market_price, edge, confidence
                  FROM signals GROUP BY market_id ORDER BY latest DESC LIMIT 15""")
 
 @st.cache_data(ttl=30)
 def get_last_scan_time():
+    if USE_JSON:
+        return _load_json("portfolio.json").get("updated_at")
     rows = _q("SELECT MAX(timestamp) as t FROM signals")
     return rows[0]["t"] if rows and rows[0]["t"] else None
 
