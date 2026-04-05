@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-05T23:32:57.997144+00:00",
+  "updated_at": "2026-04-05T23:53:25.452880+00:00",
   "open_positions": 0,
   "total_closed": 0,
   "wins": null,
@@ -8,13 +8,13 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will the Charlotte Hornets win the 2026 NBA Finals?",
-      "market_id": "0xc58cfb7397c4f3f803f5c20135cafa7f6d2c87cf3bb1e6138042b95d828e1866",
-      "latest": "2026-04-05T23:29:49.434246",
-      "ai_probability": 1.5,
-      "market_price": 1.0999999999999999,
-      "edge": 0.4,
-      "confidence": "MEDIUM"
+      "market_question": "US forces enter Iran by April 30?",
+      "market_id": "0x6d0e09d0f04572d9b1adad84703458b0297bc5603b69dccbde93147ee4443246",
+      "latest": "2026-04-05T23:49:02.696899",
+      "ai_probability": 99.9,
+      "market_price": 99.75,
+      "edge": 0.15,
+      "confidence": "HIGH"
     }
   ]
 }
