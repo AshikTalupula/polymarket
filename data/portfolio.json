@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-06T04:18:17.878916+00:00",
-  "open_positions": 1,
+  "updated_at": "2026-04-06T06:14:04.718791+00:00",
+  "open_positions": 0,
   "total_closed": 0,
   "wins": null,
   "total_pnl": 0.0,
@@ -8,27 +8,9 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Elon Musk win the 2028 Republican presidential nomination?",
-      "market_id": "0xfbb80ea5f8fc02ee7df8bd4f58790e1d04b874078a49a7b7028a74a2075100c9",
-      "latest": "2026-04-06T04:18:09.871864",
-      "ai_probability": 2.0,
-      "market_price": 1.0999999999999999,
-      "edge": -0.9,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Cura\u00e7ao win the 2026 FIFA World Cup?",
-      "market_id": "0xdb4b2f370c3d0e996fbb32213c87aa5402936e3d4882432b6738e2f5661b79a6",
-      "latest": "2026-04-06T04:18:00.567639",
-      "ai_probability": 0.15,
-      "market_price": 0.25,
-      "edge": -0.1,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-06T04:17:50.960321",
+      "latest": "2026-04-06T06:13:54.820101",
       "ai_probability": 15.0,
       "market_price": 13.5,
       "edge": 1.5,
@@ -37,7 +19,7 @@
     {
       "market_question": "Will Stephen Smith win the 2028 US Presidential Election?",
       "market_id": "0x66b906b8205f48a26beb8e553bbb1e7954e87e4f6e1d539823441221d1806e8f",
-      "latest": "2026-04-06T04:17:41.520641",
+      "latest": "2026-04-06T06:13:45.450826",
       "ai_probability": 2.0,
       "market_price": 0.75,
       "edge": -0.73,
@@ -46,37 +28,46 @@
     {
       "market_question": "Will Kim Kardashian win the 2028 US Presidential Election?",
       "market_id": "0x7f695758278e6d4d9e63df862afa88d664d3402a3d26e4d32ae05121cdbddba6",
-      "latest": "2026-04-06T04:17:32.252436",
-      "ai_probability": 0.5,
+      "latest": "2026-04-06T06:13:35.905171",
+      "ai_probability": 0.2,
       "market_price": 0.44999999999999996,
-      "edge": -0.45,
-      "confidence": "LOW"
+      "edge": -0.25,
+      "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Charlotte Hornets win the 2026 NBA Finals?",
       "market_id": "0xc58cfb7397c4f3f803f5c20135cafa7f6d2c87cf3bb1e6138042b95d828e1866",
-      "latest": "2026-04-06T04:17:23.057007",
+      "latest": "2026-04-06T06:13:25.109389",
       "ai_probability": 1.5,
       "market_price": 1.0999999999999999,
       "edge": 0.4,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will Byron Donalds win the 2028 Republican presidential nomination?",
+      "market_id": "0xd1747284d6048b2a3dcfbee489db405f36de18f9590197dd0e5c9f0c246bf050",
+      "latest": "2026-04-06T06:13:15.578163",
+      "ai_probability": 2.0,
+      "market_price": 0.5499999999999999,
+      "edge": -0.53,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Mike Pence win the 2028 Republican presidential nomination?",
       "market_id": "0x41c6341dd79903aca4bb0c29f5a7976946c3774d2fd72f38cbb7de7092144520",
-      "latest": "2026-04-06T04:17:13.696804",
+      "latest": "2026-04-06T06:13:06.086492",
       "ai_probability": 4.0,
       "market_price": 0.5499999999999999,
-      "edge": -51.0,
+      "edge": -0.51,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "US forces enter Iran by April 30?",
       "market_id": "0x6d0e09d0f04572d9b1adad84703458b0297bc5603b69dccbde93147ee4443246",
-      "latest": "2026-04-06T04:17:04.376501",
+      "latest": "2026-04-06T06:12:56.537503",
       "ai_probability": 95.0,
-      "market_price": 99.75,
-      "edge": -4.75,
+      "market_price": 99.65,
+      "edge": -4.65,
       "confidence": "MEDIUM"
     }
   ]
