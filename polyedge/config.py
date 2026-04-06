@@ -31,11 +31,12 @@ GROQ_TEMPERATURE = 0.2
 AI_CACHE_TTL_SECONDS = 480          # 8 minutes — cache AI results per market
 
 # ─── Market Scanner Settings ─────────────────────────────────────────────────
-SCANNER_MARKET_LIMIT = 100          # fetch top 100 from Gamma
-SCANNER_TOP_N = 15                  # Back to 15 as requested
-SCANNER_MIN_VOLUME = 1_000          # USDC — lowered (Gamma API sorts differ)
-SCANNER_MIN_LIQUIDITY = 500         # USDC
-SCANNER_MIN_HOURS_TO_EXPIRY = 24    # ignore markets expiring within 24h
+SCANNER_MARKET_LIMIT = 500          # fetch up to 500 from Gamma per sort order
+SCANNER_TOP_N = 15                  # Return 15 markets
+SCANNER_MIN_VOLUME = 500            # Bare minimum. Scoring handles the rest.
+SCANNER_MIN_LIQUIDITY = 500         # Bare minimum. Scoring handles the rest.
+SCANNER_MIN_HOURS_TO_EXPIRY = 48    # ignore markets expiring within 48h
+SCANNER_MAX_CATEGORY_SHARE = 0.40   # Max 40% of markets from a single category
 TARGET_CATEGORIES = ["Politics", "Crypto", "Economics", "Finance", "Sports"]
 
 # ─── News Engine Settings ────────────────────────────────────────────────────
