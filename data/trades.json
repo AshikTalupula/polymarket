@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-04-06T01:10:00.223915+00:00",
+  "updated_at": "2026-04-06T04:18:17.877096+00:00",
   "count": 1,
   "records": [
     {
       "id": 1,
-      "timestamp": "2026-04-06T01:07:35.921698",
+      "timestamp": "2026-04-06T04:17:13.700158",
       "market_id": "0x41c6341dd79903aca4bb0c29f5a7976946c3774d2fd72f38cbb7de7092144520",
       "market_question": "Will Mike Pence win the 2028 Republican presidential nomination?",
       "direction": "BUY_NO",
       "entry_price": 0.95,
       "size_usdc": 8.0,
-      "order_id": "DRY-1775437655-11478861",
+      "order_id": "DRY-1775449033-11478861",
       "status": "OPEN",
       "exit_price": null,
       "pnl": null,
