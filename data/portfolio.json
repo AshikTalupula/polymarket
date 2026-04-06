@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-06T19:20:39.190373+00:00",
+  "updated_at": "2026-04-06T21:01:26.386336+00:00",
   "open_positions": 0,
   "total_closed": 0,
   "wins": null,
@@ -8,36 +8,36 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
-      "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
-      "latest": "2026-04-06T19:15:11.883494",
-      "ai_probability": 42.0,
-      "market_price": 34.5,
-      "edge": 7.5,
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-04-06T20:57:10.235753",
+      "ai_probability": 12.0,
+      "market_price": 15.950000000000001,
+      "edge": -3.95,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "US x Iran ceasefire by April 15?",
+      "market_id": "0x773abaa5fe55e5cde51a261f444b7921652a4e059ead6b3be9fe56499c2d4609",
+      "latest": "2026-04-06T20:54:46.262533",
+      "ai_probability": 8.0,
+      "market_price": 14.499999999999998,
+      "edge": -6.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall by April 30?",
       "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
-      "latest": "2026-04-06T19:14:17.009355",
+      "latest": "2026-04-06T20:54:42.966129",
       "ai_probability": 5.0,
       "market_price": 3.25,
       "edge": 1.75,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Indian Premier League: Kolkata Knight Riders vs Punjab Kings",
-      "market_id": "0x46f0503609c274bb2a243e4bf037fdef103320350a6f2892eab79c1d1b25dae5",
-      "latest": "2026-04-06T19:14:13.637199",
-      "ai_probability": 55.0,
-      "market_price": 49.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-06T19:14:09.830703",
+      "latest": "2026-04-06T20:54:39.645045",
       "ai_probability": 1.0,
       "market_price": 3.85,
       "edge": -2.85,
@@ -46,7 +46,7 @@
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-06T19:14:06.349346",
+      "latest": "2026-04-06T20:54:36.273997",
       "ai_probability": 25.0,
       "market_price": 12.5,
       "edge": 12.5,
