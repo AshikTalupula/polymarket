@@ -112,7 +112,7 @@ def run_one_cycle() -> dict:
                     summary["trades_executed"] += 1
 
             # Prevent hitting Groq API rate limits (30 req/min free tier)
-            time.sleep(8)
+            time.sleep(2)
 
         except Exception as e:
             err_msg = f"{market.get('question','?')[:30]}: {e}"
