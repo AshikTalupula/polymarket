@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-07T10:39:20.332236+00:00",
+  "updated_at": "2026-04-07T11:43:18.806136+00:00",
   "open_positions": 0,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,36 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-04-07T11:37:11.426093",
+      "ai_probability": 10.0,
+      "market_price": 11.35,
+      "edge": -1.35,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "US x Iran ceasefire by April 15?",
       "market_id": "0x773abaa5fe55e5cde51a261f444b7921652a4e059ead6b3be9fe56499c2d4609",
-      "latest": "2026-04-07T10:32:40.699837",
-      "ai_probability": 12.0,
-      "market_price": 17.5,
-      "edge": -5.5,
+      "latest": "2026-04-07T11:37:07.844835",
+      "ai_probability": 18.0,
+      "market_price": 13.5,
+      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall by April 30?",
       "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
-      "latest": "2026-04-07T10:32:36.953619",
+      "latest": "2026-04-07T11:37:04.220469",
       "ai_probability": 5.0,
-      "market_price": 3.5000000000000004,
-      "edge": 1.5,
+      "market_price": 3.45,
+      "edge": 1.55,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-07T10:32:33.411758",
+      "latest": "2026-04-07T11:37:00.707699",
       "ai_probability": 15.0,
       "market_price": 11.5,
       "edge": 3.5,
@@ -37,7 +46,7 @@
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-07T10:32:29.667652",
+      "latest": "2026-04-07T11:36:57.335507",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
