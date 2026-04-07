@@ -1,22 +1,5 @@
 {
-  "updated_at": "2026-04-07T14:26:58.592796+00:00",
-  "count": 1,
-  "records": [
-    {
-      "id": 1,
-      "timestamp": "2026-04-07T14:22:01.824317",
-      "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
-      "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
-      "direction": "BUY_YES",
-      "entry_price": 0.44,
-      "size_usdc": 8.0,
-      "order_id": "DRY-1775571721-16894424",
-      "status": "OPEN",
-      "exit_price": null,
-      "pnl": null,
-      "fee_paid": 0.16,
-      "token_id": "16894424691858208925745474726543713759924126381815674402361002638388880101929",
-      "category": "Politics"
-    }
-  ]
+  "updated_at": "2026-04-07T17:13:21.075471+00:00",
+  "count": 0,
+  "records": []
 }
