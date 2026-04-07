@@ -87,6 +87,83 @@ def init_db():
         conn.close()
 
 
+def hydrate_from_json():
+    """Restore SQLite from data/*.json if DB is empty. Useful for GitHub Actions."""
+    import os, json
+    # Use path relative to DB_PATH
+    data_dir = os.path.join(os.path.dirname(config.DB_PATH), "..", "data")
+    if not os.path.exists(data_dir):
+        return
+
+    conn = get_connection()
+    try:
+        # Only hydrate if trades table is empty
+        count = conn.execute("SELECT count(*) FROM trades").fetchone()[0]
+        if count > 0:
+            return
+
+        # Hydrate Trades
+        trades_path = os.path.join(data_dir, "trades.json")
+        if os.path.exists(trades_path):
+            with open(trades_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                for t in data.get("records", []):
+                    # safely insert
+                    conn.execute("""
+                        INSERT OR IGNORE INTO trades (id, timestamp, market_id, market_question, direction,
+                                            entry_price, size_usdc, order_id, status, exit_price,
+                                            pnl, fee_paid, token_id, category)
+                        VALUES (:id, :timestamp, :market_id, :market_question, :direction,
+                                :entry_price, :size_usdc, :order_id, :status, :exit_price,
+                                :pnl, :fee_paid, :token_id, :category)
+                    """, {
+                        "id": t.get("id"),
+                        "timestamp": t.get("timestamp"),
+                        "market_id": t.get("market_id"),
+                        "market_question": t.get("market_question"),
+                        "direction": t.get("direction"),
+                        "entry_price": t.get("entry_price"),
+                        "size_usdc": t.get("size_usdc"),
+                        "order_id": t.get("order_id"),
+                        "status": t.get("status", "OPEN"),
+                        "exit_price": t.get("exit_price"),
+                        "pnl": t.get("pnl"),
+                        "fee_paid": t.get("fee_paid"),
+                        "token_id": t.get("token_id", ""),
+                        "category": t.get("category", "")
+                    })
+                    
+        # Hydrate Signals
+        signals_path = os.path.join(data_dir, "signals.json")
+        if os.path.exists(signals_path):
+            with open(signals_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                for s in data.get("records", []):
+                    conn.execute("""
+                        INSERT OR IGNORE INTO signals (id, timestamp, market_question, market_id, ai_probability,
+                                             market_price, edge, confidence, direction, acted_on)
+                        VALUES (:id, :timestamp, :market_question, :market_id, :ai_probability,
+                                :market_price, :edge, :confidence, :direction, :acted_on)
+                    """, {
+                        "id": s.get("id"),
+                        "timestamp": s.get("timestamp"),
+                        "market_question": s.get("market_question"),
+                        "market_id": s.get("market_id"),
+                        "ai_probability": s.get("ai_probability"),
+                        "market_price": s.get("market_price"),
+                        "edge": s.get("edge"),
+                        "confidence": s.get("confidence"),
+                        "direction": s.get("direction"),
+                        "acted_on": s.get("acted_on", 0)
+                    })
+        conn.commit()
+        logger.info("Database hydrated from data/*.json (GitHub Actions persistence mode)")
+    except Exception as e:
+        logger.error("Failed to hydrate DB: %s", e)
+    finally:
+        conn.close()
+
+
 # ─── Signals ─────────────────────────────────────────────────────────────────
 
 def log_signal(market_question: str, market_id: str, ai_probability: float,

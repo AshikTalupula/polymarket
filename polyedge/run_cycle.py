@@ -54,8 +54,9 @@ def run_one_cycle() -> dict:
     for w in warnings:
         logger.warning("CONFIG: %s", w)
 
-    # Initialise DB
+    # Initialise and hydrate DB (persistence for GitHub Actions)
     db.init_db()
+    db.hydrate_from_json()
 
     # Build singletons
     news   = NewsAggregator()
