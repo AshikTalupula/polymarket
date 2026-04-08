@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T10:02:25.624212+00:00",
+  "updated_at": "2026-04-08T11:09:25.900647+00:00",
   "open_positions": 0,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
+      "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
+      "latest": "2026-04-08T11:02:42.123560",
+      "ai_probability": 42.0,
+      "market_price": 35.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-04-08T11:02:31.471769",
+      "ai_probability": 5.0,
+      "market_price": 8.0,
+      "edge": -3.0,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-08T11:02:27.777212",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
+    },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
@@ -24,24 +51,6 @@
       "market_price": 2.0500000000000003,
       "edge": -0.55,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-08T09:55:37.223826",
-      "ai_probability": 15.0,
-      "market_price": 7.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-08T09:55:33.662129",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
@@ -86,15 +95,6 @@
       "ai_probability": 12.0,
       "market_price": 15.950000000000001,
       "edge": -3.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
-      "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
-      "latest": "2026-04-08T07:49:39.033664",
-      "ai_probability": 42.0,
-      "market_price": 36.5,
-      "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {
