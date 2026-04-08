@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-04-08T01:14:16.651788+00:00",
-  "count": 23,
+  "updated_at": "2026-04-08T04:11:21.377062+00:00",
+  "count": 30,
   "records": [
+    {
+      "id": 30,
+      "timestamp": "2026-04-08T04:11:19.373121",
+      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
+      "ai_probability": 1.5,
+      "market_price": 2.1999999999999997,
+      "edge": -0.7,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 29,
+      "timestamp": "2026-04-08T04:09:02.444208",
+      "market_question": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
+      "market_id": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
+      "ai_probability": 65.0,
+      "market_price": 63.5,
+      "edge": 1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 28,
+      "timestamp": "2026-04-08T04:08:57.557061",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 15.0,
+      "market_price": 17.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 27,
+      "timestamp": "2026-04-08T04:08:50.106682",
+      "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
+      "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
+      "ai_probability": 42.0,
+      "market_price": 36.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 26,
+      "timestamp": "2026-04-08T04:08:41.087975",
+      "market_question": "Will the Iranian regime fall by April 30?",
+      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
+      "ai_probability": 5.0,
+      "market_price": 2.25,
+      "edge": 2.75,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 25,
+      "timestamp": "2026-04-08T04:08:37.214873",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 24,
+      "timestamp": "2026-04-08T04:08:33.949784",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 23,
       "timestamp": "2026-04-08T01:09:25.629493",
