@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T07:12:33.952813+00:00",
+  "updated_at": "2026-04-09T08:53:18.925208+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,36 +8,45 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
+      "market_id": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
+      "latest": "2026-04-09T08:47:15.353418",
+      "ai_probability": 65.0,
+      "market_price": 71.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
       "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
-      "latest": "2026-04-09T07:06:24.227763",
+      "latest": "2026-04-09T08:47:10.848872",
       "ai_probability": 32.0,
-      "market_price": 28.499999999999996,
-      "edge": -3.5,
+      "market_price": 27.500000000000004,
+      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall by April 30?",
       "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
-      "latest": "2026-04-09T07:06:20.823850",
+      "latest": "2026-04-09T08:47:07.594023",
       "ai_probability": 5.0,
-      "market_price": 2.65,
-      "edge": 2.35,
+      "market_price": 2.25,
+      "edge": 2.75,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-09T07:06:17.712530",
-      "ai_probability": 7.0,
-      "market_price": 11.5,
+      "latest": "2026-04-09T08:47:04.359058",
+      "ai_probability": 6.0,
+      "market_price": 10.5,
       "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-09T07:06:14.553252",
+      "latest": "2026-04-09T08:47:01.201664",
       "ai_probability": 0.0,
       "market_price": 3.85,
       "edge": -3.85,
@@ -68,15 +77,6 @@
       "ai_probability": 12.0,
       "market_price": 15.5,
       "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
-      "market_id": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
-      "latest": "2026-04-09T05:44:29.590217",
-      "ai_probability": 65.0,
-      "market_price": 71.5,
-      "edge": -6.5,
       "confidence": "MEDIUM"
     },
     {

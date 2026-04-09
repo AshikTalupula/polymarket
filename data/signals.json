@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-04-09T07:12:33.948980+00:00",
-  "count": 99,
+  "updated_at": "2026-04-09T08:53:18.922069+00:00",
+  "count": 100,
   "records": [
+    {
+      "id": 104,
+      "timestamp": "2026-04-09T08:47:15.353418",
+      "market_question": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
+      "market_id": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
+      "ai_probability": 65.0,
+      "market_price": 71.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 103,
+      "timestamp": "2026-04-09T08:47:10.848872",
+      "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
+      "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
+      "ai_probability": 32.0,
+      "market_price": 27.500000000000004,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 102,
+      "timestamp": "2026-04-09T08:47:07.594023",
+      "market_question": "Will the Iranian regime fall by April 30?",
+      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
+      "ai_probability": 5.0,
+      "market_price": 2.25,
+      "edge": 2.75,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 101,
+      "timestamp": "2026-04-09T08:47:04.359058",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 6.0,
+      "market_price": 10.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 100,
+      "timestamp": "2026-04-09T08:47:01.201664",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 0.0,
+      "market_price": 3.85,
+      "edge": -3.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 99,
       "timestamp": "2026-04-09T07:06:24.227763",
@@ -1141,54 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_NO",
       "acted_on": 1
-    },
-    {
-      "id": 4,
-      "timestamp": "2026-04-07T17:10:01.021592",
-      "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
-      "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
-      "ai_probability": 42.0,
-      "market_price": 34.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 3,
-      "timestamp": "2026-04-07T17:09:55.414440",
-      "market_question": "Will the Iranian regime fall by April 30?",
-      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
-      "ai_probability": 6.0,
-      "market_price": 4.65,
-      "edge": 1.35,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 2,
-      "timestamp": "2026-04-07T17:09:51.613344",
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "ai_probability": 10.0,
-      "market_price": 14.000000000000002,
-      "edge": -4.0,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1,
-      "timestamp": "2026-04-07T17:09:48.301085",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
