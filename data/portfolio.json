@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T01:02:35.389782+00:00",
+  "updated_at": "2026-04-09T03:52:36.799352+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,22 +8,58 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-04-09T03:50:08.993603",
+      "ai_probability": 15.0,
+      "market_price": 18.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
       "market_id": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
-      "latest": "2026-04-09T01:00:08.838982",
-      "ai_probability": 71.0,
-      "market_price": 68.5,
+      "latest": "2026-04-09T03:50:00.980918",
+      "ai_probability": 72.0,
+      "market_price": 69.5,
       "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
       "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
-      "latest": "2026-04-09T00:56:12.591361",
-      "ai_probability": 45.0,
-      "market_price": 31.5,
-      "edge": 13.5,
+      "latest": "2026-04-09T03:49:56.396636",
+      "ai_probability": 35.0,
+      "market_price": 30.5,
+      "edge": 4.5,
       "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by April 30?",
+      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
+      "latest": "2026-04-09T03:49:52.845689",
+      "ai_probability": 5.0,
+      "market_price": 2.85,
+      "edge": 2.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-04-09T03:49:49.676182",
+      "ai_probability": 6.0,
+      "market_price": 10.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-09T03:49:46.356234",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
     },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
@@ -33,33 +69,6 @@
       "market_price": 11.35,
       "edge": -1.35,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by April 30?",
-      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
-      "latest": "2026-04-09T00:56:05.945537",
-      "ai_probability": 5.0,
-      "market_price": 2.9000000000000004,
-      "edge": 2.1,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-09T00:56:02.607773",
-      "ai_probability": 8.0,
-      "market_price": 11.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-09T00:55:59.314354",
-      "ai_probability": 1.0,
-      "market_price": 3.85,
-      "edge": -2.85,
-      "confidence": "LOW"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
@@ -86,15 +95,6 @@
       "ai_probability": 8.0,
       "market_price": 9.049999999999999,
       "edge": -1.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-04-08T07:49:56.655899",
-      "ai_probability": 15.0,
-      "market_price": 17.5,
-      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
