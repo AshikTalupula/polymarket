@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-09T16:03:52.006755+00:00",
+  "updated_at": "2026-04-09T17:24:38.748395+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,6 +8,42 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
+      "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
+      "latest": "2026-04-09T17:17:57.051843",
+      "ai_probability": 35.0,
+      "market_price": 30.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
+      "market_id": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
+      "latest": "2026-04-09T17:17:53.737444",
+      "ai_probability": 65.0,
+      "market_price": 68.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by April 30?",
+      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
+      "latest": "2026-04-09T17:17:50.199137",
+      "ai_probability": 5.0,
+      "market_price": 2.0500000000000003,
+      "edge": 2.95,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-09T17:17:46.541979",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
+    },
+    {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
       "latest": "2026-04-09T15:58:19.920590",
@@ -15,33 +51,6 @@
       "market_price": 8.5,
       "edge": -3.5,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
-      "market_id": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
-      "latest": "2026-04-09T15:58:14.398094",
-      "ai_probability": 65.0,
-      "market_price": 68.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the next Prime Minister of Hungary be Viktor Orb\u00e1n?",
-      "market_id": "0x5ec80dc407457301f282a2b44341947afc700dfaa7923d14c8894e04bc63b03f",
-      "latest": "2026-04-09T15:58:10.916008",
-      "ai_probability": 40.0,
-      "market_price": 30.5,
-      "edge": 9.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-09T15:58:06.104884",
-      "ai_probability": 0.0,
-      "market_price": 3.85,
-      "edge": -3.85,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Will Brazil win the 2026 FIFA World Cup?",
@@ -77,15 +86,6 @@
       "ai_probability": 8.0,
       "market_price": 11.35,
       "edge": -3.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by April 30?",
-      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
-      "latest": "2026-04-09T14:13:58.774811",
-      "ai_probability": 5.0,
-      "market_price": 2.35,
-      "edge": 2.65,
       "confidence": "MEDIUM"
     },
     {
