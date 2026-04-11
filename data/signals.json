@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-04-11T13:14:18.453160+00:00",
+  "updated_at": "2026-04-11T15:01:24.742796+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 230,
+      "timestamp": "2026-04-11T14:54:09.539386",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 229,
+      "timestamp": "2026-04-11T14:54:06.262720",
+      "market_question": "Will the Iranian regime fall by April 30?",
+      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
+      "ai_probability": 1.0,
+      "market_price": 2.25,
+      "edge": -1.25,
+      "confidence": "LOW",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 228,
+      "timestamp": "2026-04-11T14:54:03.011795",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 227,
       "timestamp": "2026-04-11T13:07:38.150648",
@@ -1162,42 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 2.0500000000000003,
       "edge": 2.95,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 130,
-      "timestamp": "2026-04-09T17:17:46.541979",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 129,
-      "timestamp": "2026-04-09T15:58:19.920590",
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 128,
-      "timestamp": "2026-04-09T15:58:14.398094",
-      "market_question": "Will the next Prime Minister of Hungary be P\u00e9ter Magyar?",
-      "market_id": "0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14",
-      "ai_probability": 65.0,
-      "market_price": 68.5,
-      "edge": -3.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
