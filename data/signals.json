@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-04-12T14:30:32.050324+00:00",
+  "updated_at": "2026-04-12T15:14:20.752753+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 274,
+      "timestamp": "2026-04-12T15:08:17.598968",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 15.0,
+      "market_price": 10.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 273,
+      "timestamp": "2026-04-12T15:07:01.863356",
+      "market_question": "Will the Iranian regime fall by April 30?",
+      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
+      "ai_probability": 5.0,
+      "market_price": 2.9499999999999997,
+      "edge": 2.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 272,
+      "timestamp": "2026-04-12T15:06:58.537188",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 0.0,
+      "market_price": 3.85,
+      "edge": -3.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 271,
       "timestamp": "2026-04-12T14:29:17.871717",
@@ -1162,42 +1198,6 @@
       "ai_probability": 12.0,
       "market_price": 8.5,
       "edge": 3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 174,
-      "timestamp": "2026-04-10T07:08:37.940679",
-      "market_question": "Will the Iranian regime fall by April 30?",
-      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
-      "ai_probability": 1.0,
-      "market_price": 2.65,
-      "edge": -1.65,
-      "confidence": "LOW",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 173,
-      "timestamp": "2026-04-10T07:08:34.722904",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 172,
-      "timestamp": "2026-04-10T05:30:20.088011",
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "ai_probability": 5.0,
-      "market_price": 7.85,
-      "edge": -2.85,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
