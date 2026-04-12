@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-12T09:12:37.505178+00:00",
+  "updated_at": "2026-04-12T10:06:27.786620+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 260,
+      "timestamp": "2026-04-12T09:59:11.082295",
+      "market_question": "Will the Iranian regime fall by April 30?",
+      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
+      "ai_probability": 2.0,
+      "market_price": 3.05,
+      "edge": -1.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 259,
+      "timestamp": "2026-04-12T09:59:07.964624",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 258,
       "timestamp": "2026-04-12T09:05:21.684052",
@@ -1177,30 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 160,
-      "timestamp": "2026-04-10T02:55:48.247315",
-      "market_question": "Will there be no change in Fed interest rates after the April 2026 meeting?",
-      "market_id": "0x36e8ca24d2a13435f519f15580d42b45cdbe3bc425fb39a7c2733260357af0fa",
-      "ai_probability": 98.0,
-      "market_price": 97.75,
-      "edge": 0.25,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 159,
-      "timestamp": "2026-04-10T02:55:45.116353",
-      "market_question": "Russia x Ukraine ceasefire by end of 2026?",
-      "market_id": "0xaeea5f917fc5746387b5f9c0a4263dba035dbb3f0ac6ad72bf92183d21e26739",
-      "ai_probability": 35.0,
-      "market_price": 29.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
