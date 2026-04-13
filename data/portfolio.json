@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T14:58:35.512252+00:00",
+  "updated_at": "2026-04-13T16:24:21.416606+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,27 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Manchester City win the 2025\u201326 English Premier League?",
-      "market_id": "0xfb1835b887c33862f5749c619e612d1244ab6e66115f0ef43d373485dc3a1573",
-      "latest": "2026-04-13T14:53:34.592454",
-      "ai_probability": 55.0,
-      "market_price": 40.5,
-      "edge": 14.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-13T14:53:31.050918",
+      "latest": "2026-04-13T16:18:15.979471",
       "ai_probability": 15.0,
       "market_price": 10.5,
       "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will Manchester City win the 2025\u201326 English Premier League?",
+      "market_id": "0xfb1835b887c33862f5749c619e612d1244ab6e66115f0ef43d373485dc3a1573",
+      "latest": "2026-04-13T16:18:10.274451",
+      "ai_probability": 45.0,
+      "market_price": 40.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-13T14:53:27.523282",
+      "latest": "2026-04-13T16:18:06.676148",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
@@ -37,10 +37,10 @@
     {
       "market_question": "Will the Iranian regime fall by April 30?",
       "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
-      "latest": "2026-04-13T14:53:24.118836",
+      "latest": "2026-04-13T16:18:02.837089",
       "ai_probability": 5.0,
-      "market_price": 2.25,
-      "edge": 2.75,
+      "market_price": 2.35,
+      "edge": 2.65,
       "confidence": "MEDIUM"
     },
     {
