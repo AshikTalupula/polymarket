@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T22:07:43.073926+00:00",
+  "updated_at": "2026-04-14T23:09:31.636479+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-04-14T23:07:03.558394",
+      "ai_probability": 5.0,
+      "market_price": 8.7,
+      "edge": -3.7,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-04-14T22:01:02.830874",
+      "latest": "2026-04-14T23:03:04.532464",
       "ai_probability": 8.0,
       "market_price": 11.05,
       "edge": -3.05,
@@ -19,7 +28,7 @@
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-14T22:00:59.288900",
+      "latest": "2026-04-14T23:03:00.792910",
       "ai_probability": 5.0,
       "market_price": 8.5,
       "edge": -3.5,
@@ -28,7 +37,7 @@
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-14T22:00:56.035071",
+      "latest": "2026-04-14T23:02:57.100742",
       "ai_probability": 15.0,
       "market_price": 17.150000000000002,
       "edge": -2.15,
@@ -37,7 +46,7 @@
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-14T22:00:52.236915",
+      "latest": "2026-04-14T23:02:53.219223",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
@@ -86,15 +95,6 @@
       "ai_probability": 25.0,
       "market_price": 18.5,
       "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-04-14T08:59:48.175067",
-      "ai_probability": 5.0,
-      "market_price": 8.7,
-      "edge": -3.7,
       "confidence": "MEDIUM"
     },
     {
