@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-04-13T23:08:49.938258+00:00",
+  "updated_at": "2026-04-14T00:04:19.827318+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 344,
+      "timestamp": "2026-04-13T23:57:39.128421",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 15.0,
+      "market_price": 17.45,
+      "edge": -2.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 343,
+      "timestamp": "2026-04-13T23:57:35.546139",
+      "market_question": "Will Manchester City win the 2025\u201326 English Premier League?",
+      "market_id": "0xfb1835b887c33862f5749c619e612d1244ab6e66115f0ef43d373485dc3a1573",
+      "ai_probability": 42.0,
+      "market_price": 39.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 342,
+      "timestamp": "2026-04-13T23:57:32.045363",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 341,
+      "timestamp": "2026-04-13T23:57:28.647657",
+      "market_question": "Will the Iranian regime fall by April 30?",
+      "market_id": "0xe443dab97ad8b7f58558cc7a6a3932d156031e962a451e0461e9a4578d78fe84",
+      "ai_probability": 5.0,
+      "market_price": 2.25,
+      "edge": 2.75,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 340,
       "timestamp": "2026-04-13T23:02:09.600995",
@@ -1150,54 +1198,6 @@
       "ai_probability": 32.0,
       "market_price": 27.400000000000002,
       "edge": 4.6,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 244,
-      "timestamp": "2026-04-12T03:45:56.877990",
-      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
-      "ai_probability": 1.5,
-      "market_price": 2.1999999999999997,
-      "edge": -0.7,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 243,
-      "timestamp": "2026-04-12T03:45:53.761354",
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "ai_probability": 5.0,
-      "market_price": 9.049999999999999,
-      "edge": -4.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 242,
-      "timestamp": "2026-04-12T03:45:50.849684",
-      "market_question": "Russia x Ukraine ceasefire by end of 2026?",
-      "market_id": "0xaeea5f917fc5746387b5f9c0a4263dba035dbb3f0ac6ad72bf92183d21e26739",
-      "ai_probability": 20.0,
-      "market_price": 29.5,
-      "edge": -15.0,
-      "confidence": "HIGH",
-      "direction": "SHOCK_TRADE",
-      "acted_on": 1
-    },
-    {
-      "id": 241,
-      "timestamp": "2026-04-12T03:45:47.263706",
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "ai_probability": 9.0,
-      "market_price": 8.55,
-      "edge": 0.45,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
