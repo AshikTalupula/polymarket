@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T14:28:39.601146+00:00",
+  "updated_at": "2026-04-15T15:55:16.544250+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,16 +10,16 @@
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-15T14:21:19.584075",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
+      "latest": "2026-04-15T15:48:34.636684",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-15T14:21:14.472678",
+      "latest": "2026-04-15T15:48:28.975761",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
