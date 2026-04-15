@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-04-15T18:02:37.525411+00:00",
+  "updated_at": "2026-04-15T19:32:26.332134+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 488,
+      "timestamp": "2026-04-15T19:25:33.408335",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 487,
       "timestamp": "2026-04-15T17:56:20.757192",
@@ -1189,18 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_NO",
       "acted_on": 1
-    },
-    {
-      "id": 388,
-      "timestamp": "2026-04-14T10:23:38.037606",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
