@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T03:34:11.027507+00:00",
+  "updated_at": "2026-04-15T05:51:22.404536+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,45 +8,27 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
-      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
-      "latest": "2026-04-15T03:34:09.019087",
-      "ai_probability": 32.0,
-      "market_price": 27.250000000000004,
-      "edge": 4.75,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
       "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
-      "latest": "2026-04-15T03:34:05.609287",
+      "latest": "2026-04-15T05:50:44.285663",
       "ai_probability": 1.5,
       "market_price": 2.15,
       "edge": -0.65,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Russia x Ukraine ceasefire by end of 2026?",
-      "market_id": "0xaeea5f917fc5746387b5f9c0a4263dba035dbb3f0ac6ad72bf92183d21e26739",
-      "latest": "2026-04-15T03:34:02.128412",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-04-15T05:50:40.803001",
       "ai_probability": 35.0,
       "market_price": 29.5,
       "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-15T03:33:58.755552",
-      "ai_probability": 35.0,
-      "market_price": 23.5,
-      "edge": 11.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-04-15T03:33:55.243623",
+      "latest": "2026-04-15T05:50:37.089983",
       "ai_probability": 5.0,
       "market_price": 8.7,
       "edge": -3.7,
@@ -55,7 +37,7 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-04-15T03:33:51.742878",
+      "latest": "2026-04-15T05:50:33.678185",
       "ai_probability": 15.0,
       "market_price": 17.5,
       "edge": -2.5,
@@ -64,16 +46,25 @@
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-04-15T03:33:48.619447",
+      "latest": "2026-04-15T05:50:30.252655",
       "ai_probability": 15.0,
       "market_price": 16.55,
       "edge": -1.55,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "latest": "2026-04-15T05:50:26.871144",
+      "ai_probability": 42.0,
+      "market_price": 24.5,
+      "edge": 17.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-04-15T03:33:45.053377",
+      "latest": "2026-04-15T05:50:23.457578",
       "ai_probability": 9.0,
       "market_price": 8.85,
       "edge": 0.15,
@@ -82,7 +73,7 @@
     {
       "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
       "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-04-15T03:33:41.440383",
+      "latest": "2026-04-15T05:50:20.232860",
       "ai_probability": 4.0,
       "market_price": 3.25,
       "edge": 0.75,
@@ -91,25 +82,25 @@
     {
       "market_question": "Will Norway win the 2026 FIFA World Cup?",
       "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-04-15T03:33:37.911774",
+      "latest": "2026-04-15T05:50:16.897672",
       "ai_probability": 1.5,
-      "market_price": 2.15,
-      "edge": -0.65,
+      "market_price": 2.25,
+      "edge": -0.75,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Brazil win the 2026 FIFA World Cup?",
       "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-15T03:33:34.603449",
-      "ai_probability": 9.0,
-      "market_price": 8.450000000000001,
-      "edge": 0.55,
+      "latest": "2026-04-15T05:50:13.699999",
+      "ai_probability": 6.0,
+      "market_price": 8.55,
+      "edge": -2.55,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-04-15T03:33:30.940505",
+      "latest": "2026-04-15T05:50:10.094990",
       "ai_probability": 8.0,
       "market_price": 11.05,
       "edge": -3.05,
@@ -118,16 +109,16 @@
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-15T03:33:27.250247",
+      "latest": "2026-04-15T05:50:06.548533",
       "ai_probability": 5.0,
-      "market_price": 9.5,
-      "edge": -4.5,
+      "market_price": 8.5,
+      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-15T03:33:23.553982",
+      "latest": "2026-04-15T05:50:03.179802",
       "ai_probability": 15.0,
       "market_price": 17.25,
       "edge": -2.25,
@@ -136,11 +127,20 @@
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-15T03:33:20.280809",
+      "latest": "2026-04-15T05:49:59.799563",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
+      "latest": "2026-04-15T03:34:09.019087",
+      "ai_probability": 32.0,
+      "market_price": 27.250000000000004,
+      "edge": 4.75,
+      "confidence": "MEDIUM"
     }
   ]
 }
