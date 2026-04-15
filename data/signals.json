@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-04-15T10:29:58.784630+00:00",
+  "updated_at": "2026-04-15T11:42:41.773264+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 475,
+      "timestamp": "2026-04-15T11:35:23.271596",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 474,
       "timestamp": "2026-04-15T10:24:31.935194",
@@ -1186,18 +1198,6 @@
       "ai_probability": 15.0,
       "market_price": 16.55,
       "edge": -1.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 375,
-      "timestamp": "2026-04-14T07:14:39.953381",
-      "market_question": "Will Manchester City win the 2025\u201326 English Premier League?",
-      "market_id": "0xfb1835b887c33862f5749c619e612d1244ab6e66115f0ef43d373485dc3a1573",
-      "ai_probability": 42.0,
-      "market_price": 39.5,
-      "edge": 2.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
