@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-16T19:41:54.864809+00:00",
+  "updated_at": "2026-04-16T22:16:13.088949+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 542,
+      "timestamp": "2026-04-16T22:10:09.245071",
+      "market_question": "Will Manchester City win the 2025\u201326 English Premier League?",
+      "market_id": "0xfb1835b887c33862f5749c619e612d1244ab6e66115f0ef43d373485dc3a1573",
+      "ai_probability": 45.0,
+      "market_price": 40.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 541,
+      "timestamp": "2026-04-16T22:08:51.499468",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 540,
       "timestamp": "2026-04-16T19:35:43.433815",
@@ -1175,30 +1199,6 @@
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 442,
-      "timestamp": "2026-04-15T03:34:09.019087",
-      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
-      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
-      "ai_probability": 32.0,
-      "market_price": 27.250000000000004,
-      "edge": 4.75,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 441,
-      "timestamp": "2026-04-15T03:34:05.609287",
-      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
-      "ai_probability": 1.5,
-      "market_price": 2.15,
-      "edge": -0.65,
-      "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
