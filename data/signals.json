@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-16T18:06:46.608992+00:00",
+  "updated_at": "2026-04-16T19:41:54.864809+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 540,
+      "timestamp": "2026-04-16T19:35:43.433815",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 40.0,
+      "market_price": 25.5,
+      "edge": 14.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 539,
+      "timestamp": "2026-04-16T19:35:37.588307",
+      "market_question": "Will Manchester City win the 2025\u201326 English Premier League?",
+      "market_id": "0xfb1835b887c33862f5749c619e612d1244ab6e66115f0ef43d373485dc3a1573",
+      "ai_probability": 45.0,
+      "market_price": 40.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 538,
       "timestamp": "2026-04-16T18:00:05.622237",
@@ -1177,30 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 440,
-      "timestamp": "2026-04-15T03:34:02.128412",
-      "market_question": "Russia x Ukraine ceasefire by end of 2026?",
-      "market_id": "0xaeea5f917fc5746387b5f9c0a4263dba035dbb3f0ac6ad72bf92183d21e26739",
-      "ai_probability": 35.0,
-      "market_price": 29.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 439,
-      "timestamp": "2026-04-15T03:33:58.755552",
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "ai_probability": 35.0,
-      "market_price": 23.5,
-      "edge": 11.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
