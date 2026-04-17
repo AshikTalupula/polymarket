@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-04-16T22:16:13.088949+00:00",
+  "updated_at": "2026-04-17T00:03:38.909377+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 546,
+      "timestamp": "2026-04-16T23:56:56.214698",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 42.0,
+      "market_price": 27.500000000000004,
+      "edge": 14.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 545,
+      "timestamp": "2026-04-16T23:56:52.775627",
+      "market_question": "Will Manchester City win the 2025\u201326 English Premier League?",
+      "market_id": "0xfb1835b887c33862f5749c619e612d1244ab6e66115f0ef43d373485dc3a1573",
+      "ai_probability": 45.0,
+      "market_price": 40.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 544,
+      "timestamp": "2026-04-16T23:56:48.998316",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 15.0,
+      "market_price": 17.150000000000002,
+      "edge": -2.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 543,
+      "timestamp": "2026-04-16T23:56:45.611727",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 542,
       "timestamp": "2026-04-16T22:10:09.245071",
@@ -1151,54 +1199,6 @@
       "market_price": 8.55,
       "edge": -2.55,
       "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 446,
-      "timestamp": "2026-04-15T05:50:10.094990",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 8.0,
-      "market_price": 11.05,
-      "edge": -3.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 445,
-      "timestamp": "2026-04-15T05:50:06.548533",
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 444,
-      "timestamp": "2026-04-15T05:50:03.179802",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 15.0,
-      "market_price": 17.25,
-      "edge": -2.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 443,
-      "timestamp": "2026-04-15T05:49:59.799563",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
