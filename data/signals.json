@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-17T03:28:44.231626+00:00",
+  "updated_at": "2026-04-17T05:46:09.187900+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 562,
+      "timestamp": "2026-04-17T05:41:07.363732",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 561,
+      "timestamp": "2026-04-17T05:41:03.450115",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 42.0,
+      "market_price": 26.5,
+      "edge": 15.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 560,
       "timestamp": "2026-04-17T03:28:42.227076",
@@ -1175,30 +1199,6 @@
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 462,
-      "timestamp": "2026-04-15T07:21:42.761482",
-      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
-      "ai_probability": 1.5,
-      "market_price": 2.25,
-      "edge": -0.75,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 461,
-      "timestamp": "2026-04-15T07:16:49.260533",
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "ai_probability": 6.0,
-      "market_price": 8.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
