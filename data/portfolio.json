@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T19:31:29.982336+00:00",
+  "updated_at": "2026-04-19T21:00:30.019041+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-04-19T19:24:50.986605",
-      "ai_probability": 4.0,
-      "market_price": 3.25,
-      "edge": 0.75,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Brazil win the 2026 FIFA World Cup?",
       "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-19T19:24:42.074888",
-      "ai_probability": 12.0,
+      "latest": "2026-04-19T20:53:14.277985",
+      "ai_probability": 9.0,
       "market_price": 8.450000000000001,
-      "edge": 3.55,
+      "edge": 0.55,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-19T19:24:38.517140",
+      "latest": "2026-04-19T20:53:10.854876",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
@@ -37,10 +28,19 @@
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-19T19:24:35.131490",
+      "latest": "2026-04-19T20:53:06.993720",
       "ai_probability": 12.0,
       "market_price": 15.950000000000001,
       "edge": -3.95,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "latest": "2026-04-19T19:24:50.986605",
+      "ai_probability": 4.0,
+      "market_price": 3.25,
+      "edge": 0.75,
       "confidence": "MEDIUM"
     },
     {
