@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T14:37:46.394739+00:00",
+  "updated_at": "2026-04-19T16:59:46.827673+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-04-19T16:52:32.196874",
+      "ai_probability": 9.0,
+      "market_price": 8.450000000000001,
+      "edge": 0.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-19T16:52:28.755790",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-04-19T16:52:25.572004",
+      "ai_probability": 12.0,
+      "market_price": 15.950000000000001,
+      "edge": -3.95,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Jesus Christ return before GTA VI?",
       "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
@@ -26,39 +53,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-19T14:30:40.109036",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-19T14:30:36.945279",
-      "ai_probability": 12.0,
-      "market_price": 15.950000000000001,
-      "edge": -3.95,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
       "latest": "2026-04-19T13:46:49.646543",
       "ai_probability": 11.0,
       "market_price": 10.95,
       "edge": 0.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-19T13:46:00.133660",
-      "ai_probability": 9.0,
-      "market_price": 8.450000000000001,
-      "edge": 0.55,
       "confidence": "MEDIUM"
     },
     {
