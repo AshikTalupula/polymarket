@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-18T19:15:57.565964+00:00",
+  "updated_at": "2026-04-19T03:50:54.944991+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,11 +10,56 @@
     {
       "market_question": "Will Arsenal win the 2025\u201326 English Premier League?",
       "market_id": "0xcba24842ceac7a40d2a8b9adde1f4407999b6505193b9fd68156ae76fbffa706",
-      "latest": "2026-04-18T19:14:42.219290",
+      "latest": "2026-04-19T03:49:41.173365",
       "ai_probability": 62.0,
       "market_price": 59.5,
       "edge": 2.5,
       "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-04-19T03:49:37.709024",
+      "ai_probability": 5.0,
+      "market_price": 8.7,
+      "edge": -3.7,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-04-19T03:49:34.191141",
+      "ai_probability": 15.0,
+      "market_price": 21.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by April 22, 2026?",
+      "market_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
+      "latest": "2026-04-19T03:49:24.628191",
+      "ai_probability": 22.0,
+      "market_price": 18.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "latest": "2026-04-19T03:49:18.129806",
+      "ai_probability": 15.0,
+      "market_price": 21.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-19T03:49:12.347719",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
     },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
@@ -44,24 +89,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-18T19:08:55.841011",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by April 22, 2026?",
-      "market_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
-      "latest": "2026-04-18T14:34:39.784755",
-      "ai_probability": 18.0,
-      "market_price": 24.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
       "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
       "latest": "2026-04-18T09:29:03.310070",
@@ -71,30 +98,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-18T09:26:53.497478",
-      "ai_probability": 73.0,
-      "market_price": 36.5,
-      "edge": 36.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
       "latest": "2026-04-18T07:39:29.817797",
       "ai_probability": 4.0,
       "market_price": 6.5,
       "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-04-18T05:01:45.031314",
-      "ai_probability": 5.0,
-      "market_price": 8.7,
-      "edge": -3.7,
       "confidence": "MEDIUM"
     },
     {
@@ -122,15 +131,6 @@
       "ai_probability": 9.0,
       "market_price": 8.55,
       "edge": 0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-04-18T02:46:28.479565",
-      "ai_probability": 15.0,
-      "market_price": 18.5,
-      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
