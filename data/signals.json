@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-04-19T09:36:24.909599+00:00",
+  "updated_at": "2026-04-19T13:52:53.664483+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 689,
+      "timestamp": "2026-04-19T13:46:49.646543",
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "ai_probability": 11.0,
+      "market_price": 10.95,
+      "edge": 0.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 688,
+      "timestamp": "2026-04-19T13:46:00.133660",
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "ai_probability": 9.0,
+      "market_price": 8.450000000000001,
+      "edge": 0.55,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 687,
+      "timestamp": "2026-04-19T13:45:56.612773",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 6.0,
+      "market_price": 8.75,
+      "edge": -2.75,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 686,
+      "timestamp": "2026-04-19T13:45:52.995017",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 685,
+      "timestamp": "2026-04-19T13:45:49.641102",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 12.0,
+      "market_price": 15.950000000000001,
+      "edge": -3.95,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 684,
       "timestamp": "2026-04-19T09:29:46.211045",
@@ -1139,66 +1199,6 @@
       "market_price": 8.55,
       "edge": 0.45,
       "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 589,
-      "timestamp": "2026-04-17T15:32:33.851669",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 8.0,
-      "market_price": 10.95,
-      "edge": -2.95,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 588,
-      "timestamp": "2026-04-17T15:32:30.410485",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 6.0,
-      "market_price": 8.85,
-      "edge": -2.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 587,
-      "timestamp": "2026-04-17T15:32:26.738552",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 15.0,
-      "market_price": 17.150000000000002,
-      "edge": -2.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 586,
-      "timestamp": "2026-04-17T15:32:23.039697",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 585,
-      "timestamp": "2026-04-17T14:12:17.607645",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
