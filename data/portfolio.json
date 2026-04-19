@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T07:32:23.348713+00:00",
+  "updated_at": "2026-04-19T08:40:23.359868+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,36 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-19T07:26:14.350328",
-      "ai_probability": 35.0,
-      "market_price": 20.5,
-      "edge": 14.5,
+      "market_question": "US x Iran permanent peace deal by April 22, 2026?",
+      "market_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
+      "latest": "2026-04-19T08:33:44.070758",
+      "ai_probability": 8.0,
+      "market_price": 13.5,
+      "edge": -5.5,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "US x Iran permanent peace deal by April 22, 2026?",
-      "market_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
-      "latest": "2026-04-19T07:26:11.239048",
-      "ai_probability": 22.0,
-      "market_price": 15.5,
-      "edge": 6.5,
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "latest": "2026-04-19T08:33:40.443452",
+      "ai_probability": 35.0,
+      "market_price": 21.5,
+      "edge": -13.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-04-19T08:33:37.109477",
+      "ai_probability": 12.0,
+      "market_price": 15.950000000000001,
+      "edge": -3.95,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-19T07:26:06.412652",
+      "latest": "2026-04-19T08:33:33.718057",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
@@ -86,15 +95,6 @@
       "ai_probability": 6.0,
       "market_price": 8.75,
       "edge": -2.75,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-19T05:51:58.720915",
-      "ai_probability": 12.0,
-      "market_price": 15.950000000000001,
-      "edge": -3.95,
       "confidence": "MEDIUM"
     },
     {
