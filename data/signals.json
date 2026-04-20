@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-20T04:34:06.004607+00:00",
+  "updated_at": "2026-04-20T06:43:32.025028+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 730,
+      "timestamp": "2026-04-20T06:36:44.178818",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 729,
+      "timestamp": "2026-04-20T06:36:37.848077",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 35.0,
+      "market_price": 25.5,
+      "edge": -9.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 728,
       "timestamp": "2026-04-20T04:34:03.999654",
@@ -1175,30 +1199,6 @@
       "market_price": 3.85,
       "edge": -3.85,
       "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 630,
-      "timestamp": "2026-04-18T05:01:45.031314",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 5.0,
-      "market_price": 8.7,
-      "edge": -3.7,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 629,
-      "timestamp": "2026-04-18T04:59:17.479021",
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
