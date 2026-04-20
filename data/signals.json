@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-20T14:19:36.513219+00:00",
+  "updated_at": "2026-04-20T15:55:10.386728+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 752,
+      "timestamp": "2026-04-20T15:48:23.112825",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 751,
+      "timestamp": "2026-04-20T15:48:19.743865",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 42.0,
+      "market_price": 38.0,
+      "edge": 4.0,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 750,
       "timestamp": "2026-04-20T14:13:21.878805",
@@ -1175,30 +1199,6 @@
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 652,
-      "timestamp": "2026-04-18T15:55:43.290033",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 6.0,
-      "market_price": 8.75,
-      "edge": -2.75,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 651,
-      "timestamp": "2026-04-18T15:55:39.906868",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 12.0,
-      "market_price": 15.950000000000001,
-      "edge": -3.95,
-      "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
