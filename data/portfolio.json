@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T16:57:37.685030+00:00",
+  "updated_at": "2026-04-20T17:55:48.434475+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,22 +8,40 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-04-20T17:48:50.559150",
+      "ai_probability": 9.0,
+      "market_price": 8.450000000000001,
+      "edge": 0.55,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
       "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-20T16:50:19.602913",
+      "latest": "2026-04-20T17:48:47.095247",
       "ai_probability": 35.0,
-      "market_price": 29.5,
-      "edge": -5.5,
+      "market_price": 28.499999999999996,
+      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-20T16:50:00.807744",
+      "latest": "2026-04-20T17:48:43.845017",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-04-20T17:48:40.290573",
+      "ai_probability": 15.0,
+      "market_price": 16.05,
+      "edge": -1.05,
+      "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Germany win the 2026 FIFA World Cup?",
@@ -32,24 +50,6 @@
       "ai_probability": 4.0,
       "market_price": 5.25,
       "edge": -1.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-20T12:10:02.403003",
-      "ai_probability": 9.0,
-      "market_price": 8.450000000000001,
-      "edge": 0.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-20T12:09:51.322767",
-      "ai_probability": 15.0,
-      "market_price": 16.05,
-      "edge": -1.05,
       "confidence": "MEDIUM"
     },
     {
