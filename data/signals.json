@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-20T12:16:17.809663+00:00",
+  "updated_at": "2026-04-20T14:19:36.513219+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 750,
+      "timestamp": "2026-04-20T14:13:21.878805",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 749,
+      "timestamp": "2026-04-20T14:13:16.083601",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 45.0,
+      "market_price": 30.5,
+      "edge": 14.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 748,
       "timestamp": "2026-04-20T12:13:13.540501",
@@ -1174,30 +1198,6 @@
       "ai_probability": 12.0,
       "market_price": 15.950000000000001,
       "edge": -3.95,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 650,
-      "timestamp": "2026-04-18T15:55:36.373061",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 649,
-      "timestamp": "2026-04-18T15:10:27.966781",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 15.0,
-      "market_price": 16.05,
-      "edge": -1.05,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
