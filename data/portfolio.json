@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T22:04:30.494289+00:00",
+  "updated_at": "2026-04-21T22:58:10.981321+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-21T21:57:43.448822",
-      "ai_probability": 12.0,
-      "market_price": 8.450000000000001,
-      "edge": 3.55,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-21T21:57:39.668439",
+      "latest": "2026-04-21T22:50:53.489665",
       "ai_probability": 15.0,
-      "market_price": 16.150000000000002,
-      "edge": -1.15,
+      "market_price": 16.25,
+      "edge": -1.25,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-21T21:57:36.091616",
+      "latest": "2026-04-21T22:50:49.957177",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
@@ -37,10 +28,19 @@
     {
       "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
       "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-21T21:57:32.644893",
-      "ai_probability": 8.0,
-      "market_price": 14.499999999999998,
-      "edge": -6.5,
+      "latest": "2026-04-21T22:50:46.684672",
+      "ai_probability": 25.0,
+      "market_price": 12.5,
+      "edge": -12.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-04-21T21:57:43.448822",
+      "ai_probability": 12.0,
+      "market_price": 8.450000000000001,
+      "edge": 3.55,
       "confidence": "MEDIUM"
     },
     {
