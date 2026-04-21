@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-21T08:05:25.991162+00:00",
+  "updated_at": "2026-04-21T09:54:29.375363+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 792,
+      "timestamp": "2026-04-21T09:48:23.144734",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 791,
+      "timestamp": "2026-04-21T09:48:18.183444",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 35.0,
+      "market_price": 29.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 790,
       "timestamp": "2026-04-21T07:59:48.409306",
@@ -1175,30 +1199,6 @@
       "market_price": 48.5,
       "edge": -3.5,
       "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 692,
-      "timestamp": "2026-04-19T14:30:43.410629",
-      "market_question": "US x Iran permanent peace deal by April 22, 2026?",
-      "market_id": "0xbbc6689d0f6d57ea42168836712237c7308b3e0118c8914d31b6126d0f3254c5",
-      "ai_probability": 18.0,
-      "market_price": 22.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 691,
-      "timestamp": "2026-04-19T14:30:40.109036",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
