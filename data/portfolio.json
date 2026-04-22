@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T10:02:02.892343+00:00",
+  "updated_at": "2026-04-22T11:17:52.993908+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,54 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "latest": "2026-04-22T11:11:43.641921",
+      "ai_probability": 4.0,
+      "market_price": 3.35,
+      "edge": 0.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-04-22T11:11:40.147170",
+      "ai_probability": 6.0,
+      "market_price": 8.85,
+      "edge": -2.85,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-04-22T11:11:36.781657",
+      "ai_probability": 9.0,
+      "market_price": 8.5,
+      "edge": 0.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-04-22T11:11:33.086752",
+      "ai_probability": 15.0,
+      "market_price": 16.25,
+      "edge": -1.25,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
       "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-22T09:55:54.986750",
+      "latest": "2026-04-22T11:11:29.727204",
       "ai_probability": 15.0,
-      "market_price": 10.5,
-      "edge": -4.5,
+      "market_price": 9.5,
+      "edge": -5.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-22T09:55:49.341360",
+      "latest": "2026-04-22T11:11:26.299308",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
@@ -89,48 +125,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-04-22T04:17:01.691557",
-      "ai_probability": 9.0,
-      "market_price": 8.9,
-      "edge": 0.1,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-04-22T04:16:58.250762",
-      "ai_probability": 4.0,
-      "market_price": 3.35,
-      "edge": 0.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-22T04:16:51.701531",
-      "ai_probability": 9.0,
-      "market_price": 8.5,
-      "edge": 0.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Manchester City win the 2025\u201326 English Premier League?",
       "market_id": "0xfb1835b887c33862f5749c619e612d1244ab6e66115f0ef43d373485dc3a1573",
       "latest": "2026-04-22T04:16:48.165777",
       "ai_probability": 62.0,
       "market_price": 57.49999999999999,
       "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-22T04:16:44.342778",
-      "ai_probability": 15.0,
-      "market_price": 16.25,
-      "edge": -1.25,
       "confidence": "MEDIUM"
     },
     {
