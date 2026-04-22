@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-04-22T04:18:00.509178+00:00",
+  "updated_at": "2026-04-22T06:20:22.609697+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 851,
+      "timestamp": "2026-04-22T06:15:31.851571",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 15.0,
+      "market_price": 20.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 850,
+      "timestamp": "2026-04-22T06:15:21.876781",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 849,
+      "timestamp": "2026-04-22T06:15:18.537769",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 5.0,
+      "market_price": 11.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 848,
       "timestamp": "2026-04-22T04:17:22.197583",
@@ -1165,42 +1201,6 @@
       "confidence": "HIGH",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 751,
-      "timestamp": "2026-04-20T15:48:19.743865",
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "ai_probability": 42.0,
-      "market_price": 38.0,
-      "edge": 4.0,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 750,
-      "timestamp": "2026-04-20T14:13:21.878805",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 749,
-      "timestamp": "2026-04-20T14:13:16.083601",
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "ai_probability": 45.0,
-      "market_price": 30.5,
-      "edge": 14.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
