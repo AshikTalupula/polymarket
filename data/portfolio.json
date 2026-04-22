@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T15:50:31.265415+00:00",
+  "updated_at": "2026-04-22T18:59:10.727705+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,51 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-04-22T18:57:20.076773",
+      "ai_probability": 5.0,
+      "market_price": 7.449999999999999,
+      "edge": -2.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-04-22T18:53:02.752280",
+      "ai_probability": 9.0,
+      "market_price": 8.5,
+      "edge": 0.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-04-22T18:52:59.413920",
+      "ai_probability": 15.0,
+      "market_price": 16.05,
+      "edge": -1.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "latest": "2026-04-22T18:52:56.071499",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-22T18:52:52.839181",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
+    },
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
@@ -24,42 +69,6 @@
       "market_price": 3.35,
       "edge": 0.65,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-22T15:44:51.890105",
-      "ai_probability": 9.0,
-      "market_price": 8.5,
-      "edge": 0.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-22T15:44:48.493516",
-      "ai_probability": 18.0,
-      "market_price": 16.25,
-      "edge": 1.75,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-22T15:44:44.787033",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-22T15:44:41.164105",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Will Manchester City win the 2025\u201326 English Premier League?",
@@ -131,15 +140,6 @@
       "ai_probability": 45.0,
       "market_price": 42.5,
       "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Germany win the 2026 FIFA World Cup?",
-      "market_id": "0x1595b4818eeb1ea1e0bec5de6f057218e557feee9b405a0e930d290384fa1d16",
-      "latest": "2026-04-21T17:49:48.451008",
-      "ai_probability": 4.0,
-      "market_price": 5.35,
-      "edge": -1.35,
       "confidence": "MEDIUM"
     }
   ]
