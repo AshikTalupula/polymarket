@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T08:06:13.240381+00:00",
+  "updated_at": "2026-04-23T10:01:06.025942+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "latest": "2026-04-23T09:55:35.378619",
+      "ai_probability": 8.0,
+      "market_price": 14.499999999999998,
+      "edge": -6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "latest": "2026-04-23T09:55:30.948868",
+      "ai_probability": 2.0,
+      "market_price": 3.55,
+      "edge": -1.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-23T09:55:27.629467",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
+    },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
@@ -62,39 +89,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
-      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "latest": "2026-04-23T08:02:48.272278",
-      "ai_probability": 5.0,
-      "market_price": 15.5,
-      "edge": -10.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
       "latest": "2026-04-23T08:02:44.712347",
       "ai_probability": 12.0,
       "market_price": 15.950000000000001,
       "edge": -3.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-23T08:02:41.111896",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-23T08:02:37.263654",
-      "ai_probability": 2.0,
-      "market_price": 4.5,
-      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
