@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T21:14:49.187580+00:00",
+  "updated_at": "2026-04-23T22:08:37.050429+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,39 +8,39 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-23T21:12:22.830544",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "US x Iran permanent peace deal by April 30, 2026?",
       "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "latest": "2026-04-23T21:08:05.555900",
+      "latest": "2026-04-23T22:01:20.413755",
       "ai_probability": 5.0,
       "market_price": 7.5,
       "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "latest": "2026-04-23T22:01:17.020859",
+      "ai_probability": 5.0,
+      "market_price": 2.75,
+      "edge": -2.75,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-23T21:08:02.232592",
+      "latest": "2026-04-23T22:01:13.596794",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH"
     },
     {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-23T21:07:58.935203",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-04-23T21:12:22.830544",
       "ai_probability": 5.0,
-      "market_price": 2.65,
-      "edge": -2.35,
+      "market_price": 8.5,
+      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
