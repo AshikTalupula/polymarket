@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-04-23T17:56:04.021596+00:00",
+  "updated_at": "2026-04-23T19:00:57.678563+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 949,
+      "timestamp": "2026-04-23T18:54:15.836725",
+      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
+      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
+      "ai_probability": 2.5,
+      "market_price": 2.0500000000000003,
+      "edge": 0.55,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 948,
+      "timestamp": "2026-04-23T18:54:12.321975",
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "ai_probability": 6.0,
+      "market_price": 8.450000000000001,
+      "edge": -2.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 947,
+      "timestamp": "2026-04-23T18:54:08.852801",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 946,
+      "timestamp": "2026-04-23T18:54:05.538389",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 5.0,
+      "market_price": 2.85,
+      "edge": -2.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 945,
       "timestamp": "2026-04-23T17:50:36.477114",
@@ -1151,54 +1199,6 @@
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 849,
-      "timestamp": "2026-04-22T06:15:18.537769",
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "ai_probability": 5.0,
-      "market_price": 11.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 848,
-      "timestamp": "2026-04-22T04:17:22.197583",
-      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
-      "ai_probability": 1.5,
-      "market_price": 2.25,
-      "edge": -0.75,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 847,
-      "timestamp": "2026-04-22T04:17:18.849897",
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 846,
-      "timestamp": "2026-04-22T04:17:15.550483",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 15.0,
-      "market_price": 16.05,
-      "edge": -1.05,
-      "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
