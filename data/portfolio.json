@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T10:01:06.025942+00:00",
+  "updated_at": "2026-04-23T11:20:43.256576+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,31 +8,58 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
-      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "latest": "2026-04-23T09:55:35.378619",
-      "ai_probability": 8.0,
-      "market_price": 14.499999999999998,
-      "edge": -6.5,
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-04-23T11:17:40.485619",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-23T09:55:30.948868",
-      "ai_probability": 2.0,
-      "market_price": 3.55,
-      "edge": -1.55,
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-04-23T11:14:23.655740",
+      "ai_probability": 9.0,
+      "market_price": 8.55,
+      "edge": 0.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "latest": "2026-04-23T11:14:20.183678",
+      "ai_probability": 8.0,
+      "market_price": 13.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-04-23T11:14:16.628169",
+      "ai_probability": 18.0,
+      "market_price": 15.85,
+      "edge": 2.15,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-23T09:55:27.629467",
+      "latest": "2026-04-23T11:14:13.025542",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "latest": "2026-04-23T11:14:09.211905",
+      "ai_probability": 5.0,
+      "market_price": 3.15,
+      "edge": -1.85,
+      "confidence": "MEDIUM"
     },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
@@ -80,39 +107,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-23T08:02:51.874021",
-      "ai_probability": 9.0,
-      "market_price": 8.5,
-      "edge": 0.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-23T08:02:44.712347",
-      "ai_probability": 12.0,
-      "market_price": 15.950000000000001,
-      "edge": -3.95,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
       "latest": "2026-04-23T05:55:08.635964",
       "ai_probability": 15.0,
       "market_price": 20.5,
       "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-23T05:55:05.537871",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
-      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
