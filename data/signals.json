@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-04-24T08:22:42.068481+00:00",
+  "updated_at": "2026-04-24T10:04:08.848071+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 983,
+      "timestamp": "2026-04-24T09:58:36.938709",
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 982,
+      "timestamp": "2026-04-24T09:58:33.616942",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "ai_probability": 5.0,
+      "market_price": 2.85,
+      "edge": -2.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 981,
+      "timestamp": "2026-04-24T09:58:30.369236",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 980,
       "timestamp": "2026-04-24T08:19:39.694848",
@@ -1163,42 +1199,6 @@
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 883,
-      "timestamp": "2026-04-22T21:09:19.163125",
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 882,
-      "timestamp": "2026-04-22T18:57:20.076773",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 5.0,
-      "market_price": 7.449999999999999,
-      "edge": -2.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 881,
-      "timestamp": "2026-04-22T18:53:02.752280",
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "ai_probability": 9.0,
-      "market_price": 8.5,
-      "edge": 0.5,
-      "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
