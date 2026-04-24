@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T15:44:45.298364+00:00",
+  "updated_at": "2026-04-24T19:41:12.348532+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,30 +8,48 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
-      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "latest": "2026-04-24T15:38:29.861362",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-04-24T19:34:28.404669",
+      "ai_probability": 12.0,
+      "market_price": 8.55,
+      "edge": 3.45,
       "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
+      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
+      "latest": "2026-04-24T19:34:19.504332",
+      "ai_probability": 2.5,
+      "market_price": 2.0500000000000003,
+      "edge": 0.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
+      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
+      "latest": "2026-04-24T19:34:15.839691",
+      "ai_probability": 1.0,
+      "market_price": 2.45,
+      "edge": -1.45,
+      "confidence": "LOW"
     },
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-24T15:38:26.217689",
+      "latest": "2026-04-24T19:34:12.322255",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH"
     },
     {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "latest": "2026-04-24T14:08:35.640259",
-      "ai_probability": 5.0,
-      "market_price": 2.85,
-      "edge": -2.15,
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "latest": "2026-04-24T15:38:29.861362",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -44,30 +62,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-24T11:16:32.387483",
-      "ai_probability": 9.0,
-      "market_price": 8.55,
-      "edge": 0.45,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
       "latest": "2026-04-24T08:19:36.343244",
       "ai_probability": 8.0,
       "market_price": 11.05,
       "edge": -3.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
-      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
-      "latest": "2026-04-24T08:19:33.045369",
-      "ai_probability": 2.5,
-      "market_price": 2.0500000000000003,
-      "edge": 0.55,
       "confidence": "MEDIUM"
     },
     {
