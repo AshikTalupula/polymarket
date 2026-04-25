@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-04-25T09:12:15.244466+00:00",
+  "updated_at": "2026-04-25T10:10:37.828421+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1026,
+      "timestamp": "2026-04-25T10:03:58.555889",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 18.0,
+      "market_price": 15.55,
+      "edge": 2.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1025,
+      "timestamp": "2026-04-25T10:03:40.035635",
+      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
+      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
+      "ai_probability": 2.5,
+      "market_price": 2.0500000000000003,
+      "edge": 0.55,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1024,
+      "timestamp": "2026-04-25T10:03:36.688793",
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": -7.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 1023,
+      "timestamp": "2026-04-25T10:03:33.247737",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1022,
       "timestamp": "2026-04-25T09:04:57.289492",
@@ -1150,54 +1198,6 @@
       "ai_probability": 18.0,
       "market_price": 15.85,
       "edge": 2.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 926,
-      "timestamp": "2026-04-23T11:14:13.025542",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 925,
-      "timestamp": "2026-04-23T11:14:09.211905",
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "ai_probability": 5.0,
-      "market_price": 3.15,
-      "edge": -1.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 924,
-      "timestamp": "2026-04-23T09:55:35.378619",
-      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
-      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "ai_probability": 8.0,
-      "market_price": 14.499999999999998,
-      "edge": -6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 923,
-      "timestamp": "2026-04-23T09:55:30.948868",
-      "market_question": "Strait of Hormuz traffic returns to normal by end of April?",
-      "market_id": "0x924a2942747dd75703321a7c8d809c68f6a514c3b0f2a2e64274e02310634669",
-      "ai_probability": 2.0,
-      "market_price": 3.55,
-      "edge": -1.55,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0

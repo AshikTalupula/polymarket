@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T09:12:15.248159+00:00",
+  "updated_at": "2026-04-25T10:10:37.832127+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,40 +8,40 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
-      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "latest": "2026-04-25T09:04:57.289492",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-25T09:04:53.667665",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH"
-    },
-    {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-25T07:57:28.813930",
-      "ai_probability": 12.0,
-      "market_price": 15.65,
-      "edge": -3.65,
+      "latest": "2026-04-25T10:03:58.555889",
+      "ai_probability": 18.0,
+      "market_price": 15.55,
+      "edge": 2.45,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Belgium win the 2026 FIFA World Cup?",
       "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
-      "latest": "2026-04-25T07:57:25.504632",
-      "ai_probability": 1.8,
+      "latest": "2026-04-25T10:03:40.035635",
+      "ai_probability": 2.5,
       "market_price": 2.0500000000000003,
-      "edge": -0.25,
+      "edge": 0.55,
       "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "latest": "2026-04-25T10:03:36.688793",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": -7.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-25T10:03:33.247737",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
     },
     {
       "market_question": "Trump announces end of military operations against Iran by April 30th?",
