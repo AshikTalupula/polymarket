@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-04-25T06:54:14.245491+00:00",
+  "updated_at": "2026-04-25T08:04:32.731974+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1020,
+      "timestamp": "2026-04-25T07:57:53.202507",
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "ai_probability": 5.0,
+      "market_price": 8.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1019,
+      "timestamp": "2026-04-25T07:57:28.813930",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 12.0,
+      "market_price": 15.65,
+      "edge": -3.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1018,
+      "timestamp": "2026-04-25T07:57:25.504632",
+      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
+      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
+      "ai_probability": 1.8,
+      "market_price": 2.0500000000000003,
+      "edge": -0.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1017,
+      "timestamp": "2026-04-25T07:57:22.037221",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1016,
       "timestamp": "2026-04-25T06:54:12.240632",
@@ -1150,54 +1198,6 @@
       "ai_probability": 15.0,
       "market_price": 16.650000000000002,
       "edge": -1.65,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 920,
-      "timestamp": "2026-04-23T08:03:06.294951",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 8.0,
-      "market_price": 11.05,
-      "edge": -3.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 919,
-      "timestamp": "2026-04-23T08:03:02.894521",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 6.0,
-      "market_price": 8.9,
-      "edge": -2.9,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 918,
-      "timestamp": "2026-04-23T08:02:59.071650",
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "ai_probability": 4.0,
-      "market_price": 3.35,
-      "edge": 0.65,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 917,
-      "timestamp": "2026-04-23T08:02:55.579040",
-      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
-      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
-      "ai_probability": 3.0,
-      "market_price": 2.0500000000000003,
-      "edge": -0.95,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
