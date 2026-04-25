@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-04-25T10:10:37.828421+00:00",
+  "updated_at": "2026-04-25T11:59:55.605608+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1028,
+      "timestamp": "2026-04-25T11:52:38.919515",
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1027,
+      "timestamp": "2026-04-25T11:52:35.726951",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1026,
       "timestamp": "2026-04-25T10:03:58.555889",
@@ -1174,30 +1198,6 @@
       "ai_probability": 9.0,
       "market_price": 8.55,
       "edge": 0.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 928,
-      "timestamp": "2026-04-23T11:14:20.183678",
-      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
-      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "ai_probability": 8.0,
-      "market_price": 13.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 927,
-      "timestamp": "2026-04-23T11:14:16.628169",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 18.0,
-      "market_price": 15.85,
-      "edge": 2.15,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
