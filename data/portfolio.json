@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T08:04:32.735653+00:00",
+  "updated_at": "2026-04-25T09:12:15.248159+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,11 +10,20 @@
     {
       "market_question": "US x Iran permanent peace deal by April 30, 2026?",
       "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "latest": "2026-04-25T07:57:53.202507",
-      "ai_probability": 5.0,
+      "latest": "2026-04-25T09:04:57.289492",
+      "ai_probability": 15.0,
       "market_price": 8.5,
-      "edge": -3.5,
+      "edge": -6.5,
       "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-25T09:04:53.667665",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
@@ -33,15 +42,6 @@
       "market_price": 2.0500000000000003,
       "edge": -0.25,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-25T07:57:22.037221",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Trump announces end of military operations against Iran by April 30th?",
