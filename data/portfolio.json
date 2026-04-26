@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T03:25:47.776379+00:00",
+  "updated_at": "2026-04-26T06:00:00.051864+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,21 +8,48 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
+      "latest": "2026-04-26T05:59:21.810304",
+      "ai_probability": 1.5,
+      "market_price": 2.15,
+      "edge": -0.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-04-26T05:56:38.685036",
+      "ai_probability": 5.0,
+      "market_price": 8.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "latest": "2026-04-26T05:56:28.533181",
+      "ai_probability": 1.0,
+      "market_price": 2.65,
+      "edge": -1.65,
+      "confidence": "LOW"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-26T05:56:25.103064",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
+    },
+    {
       "market_question": "Trump announces end of military operations against Iran by April 30th?",
       "market_id": "0xfa59099fbda1e0f0058ed3cbd57e939fe90ab6d9b57d53bd488bcadf75c191d4",
       "latest": "2026-04-26T03:25:45.768097",
       "ai_probability": 7.0,
       "market_price": 4.7,
       "edge": -2.3,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
-      "latest": "2026-04-26T03:25:42.403498",
-      "ai_probability": 1.5,
-      "market_price": 2.15,
-      "edge": -0.65,
       "confidence": "MEDIUM"
     },
     {
@@ -59,15 +86,6 @@
       "ai_probability": 15.0,
       "market_price": 16.650000000000002,
       "edge": -1.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-26T03:25:25.805134",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
@@ -123,24 +141,6 @@
       "market_price": 15.55,
       "edge": -3.55,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
-      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "latest": "2026-04-26T03:25:02.076970",
-      "ai_probability": 1.0,
-      "market_price": 2.75,
-      "edge": -1.75,
-      "confidence": "LOW"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-26T03:24:58.597770",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH"
     }
   ]
 }
