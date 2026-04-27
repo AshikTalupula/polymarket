@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T08:45:16.744064+00:00",
+  "updated_at": "2026-04-27T10:55:42.713932+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-04-27T10:50:12.862607",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-04-27T10:50:07.766727",
+      "ai_probability": 2.0,
+      "market_price": 3.85,
+      "edge": -1.85,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
+      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
+      "latest": "2026-04-27T10:50:04.681202",
+      "ai_probability": 5.0,
+      "market_price": 2.15,
+      "edge": 2.85,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
@@ -62,15 +89,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-27T08:43:27.252673",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
       "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
       "latest": "2026-04-27T08:43:23.722362",
@@ -104,24 +122,6 @@
       "ai_probability": 2.0,
       "market_price": 2.0500000000000003,
       "edge": -0.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-27T08:43:10.147238",
-      "ai_probability": 2.0,
-      "market_price": 3.85,
-      "edge": -1.85,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by April 30, 2026?",
-      "market_id": "0xceb6dfaa2cf5abc9d47ebc867b984a7715104944249274e8a483a2e17473e5f5",
-      "latest": "2026-04-27T08:43:06.485084",
-      "ai_probability": 5.0,
-      "market_price": 2.0500000000000003,
-      "edge": -2.95,
       "confidence": "MEDIUM"
     },
     {
