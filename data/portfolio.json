@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T21:38:20.317422+00:00",
+  "updated_at": "2026-04-28T01:28:04.105667+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,36 +8,54 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-04-27T21:35:16.875834",
-      "ai_probability": 8.0,
-      "market_price": 11.05,
-      "edge": -3.05,
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-04-28T01:25:37.176784",
+      "ai_probability": 29.0,
+      "market_price": 33.5,
+      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-27T21:31:28.094534",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-04-28T01:22:15.302272",
       "ai_probability": 9.0,
-      "market_price": 8.5,
-      "edge": 0.5,
+      "market_price": 8.85,
+      "edge": 0.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-04-28T01:22:11.816735",
+      "ai_probability": 12.0,
+      "market_price": 15.4,
+      "edge": -3.4,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-04-27T21:31:24.633051",
+      "latest": "2026-04-28T01:22:08.527466",
       "ai_probability": 5.0,
       "market_price": 7.5,
       "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-04-28T01:22:04.970647",
+      "ai_probability": 9.0,
+      "market_price": 8.55,
+      "edge": 0.45,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Belgium win the 2026 FIFA World Cup?",
       "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
-      "latest": "2026-04-27T21:31:21.125074",
+      "latest": "2026-04-28T01:22:01.326350",
       "ai_probability": 2.5,
       "market_price": 2.0500000000000003,
       "edge": 0.55,
@@ -46,19 +64,19 @@
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-27T21:31:17.637688",
+      "latest": "2026-04-28T01:21:58.044491",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
       "confidence": "HIGH"
     },
     {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-27T19:00:17.937942",
-      "ai_probability": 12.0,
-      "market_price": 15.35,
-      "edge": -3.35,
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-04-27T21:35:16.875834",
+      "ai_probability": 8.0,
+      "market_price": 11.05,
+      "edge": -3.05,
       "confidence": "MEDIUM"
     },
     {
@@ -80,15 +98,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-04-27T16:12:26.828179",
-      "ai_probability": 6.0,
-      "market_price": 8.85,
-      "edge": -2.85,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Trump announces end of military operations against Iran by April 30th?",
       "market_id": "0xfa59099fbda1e0f0058ed3cbd57e939fe90ab6d9b57d53bd488bcadf75c191d4",
       "latest": "2026-04-27T12:22:26.763986",
@@ -104,15 +113,6 @@
       "ai_probability": 5.0,
       "market_price": 2.15,
       "edge": 2.85,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-04-27T08:44:02.443327",
-      "ai_probability": 45.0,
-      "market_price": 33.5,
-      "edge": 11.5,
       "confidence": "MEDIUM"
     },
     {
