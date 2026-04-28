@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T20:00:42.421899+00:00",
+  "updated_at": "2026-04-28T21:18:06.759278+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-04-28T21:12:03.147042",
+      "ai_probability": 12.0,
+      "market_price": 15.35,
+      "edge": -3.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "latest": "2026-04-28T21:11:16.968470",
+      "ai_probability": 12.0,
+      "market_price": 15.85,
+      "edge": -3.85,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+      "latest": "2026-04-28T21:11:13.609576",
+      "ai_probability": 12.0,
+      "market_price": 16.45,
+      "edge": -4.45,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the Boston Celtics win the 2026 NBA Finals?",
       "market_id": "0x13e1cc703a120883a709d3bb29707097952845d61ca6793ea2b4328bae2a7451",
@@ -44,39 +71,12 @@
       "confidence": "HIGH"
     },
     {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-28T19:56:06.714589",
-      "ai_probability": 12.0,
-      "market_price": 15.35,
-      "edge": -3.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-04-28T19:56:03.028614",
-      "ai_probability": 12.0,
-      "market_price": 15.55,
-      "edge": -3.55,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Atletico Madrid win the 2025\u201326 Champions League?",
       "market_id": "0xcb06319aa9e029904c93c1df7d10b7ce7d6aab2b25b8f661e0cf57ea048a1567",
       "latest": "2026-04-28T19:55:59.283348",
       "ai_probability": 9.0,
       "market_price": 11.450000000000001,
       "edge": -2.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
-      "latest": "2026-04-28T19:55:55.597512",
-      "ai_probability": 12.0,
-      "market_price": 16.45,
-      "edge": -4.45,
       "confidence": "MEDIUM"
     },
     {
