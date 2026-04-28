@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-04-28T12:02:16.066869+00:00",
+  "updated_at": "2026-04-28T14:40:26.812141+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1209,
+      "timestamp": "2026-04-28T14:36:04.140440",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 45.0,
+      "market_price": 33.5,
+      "edge": 11.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 1208,
+      "timestamp": "2026-04-28T14:36:00.233819",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.55,
+      "edge": -1.55,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1207,
+      "timestamp": "2026-04-28T14:35:54.587929",
+      "market_question": "Will Atletico Madrid win the 2025\u201326 Champions League?",
+      "market_id": "0xcb06319aa9e029904c93c1df7d10b7ce7d6aab2b25b8f661e0cf57ea048a1567",
+      "ai_probability": 8.0,
+      "market_price": 11.85,
+      "edge": -3.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1206,
       "timestamp": "2026-04-28T11:57:58.012490",
@@ -1165,42 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 1109,
-      "timestamp": "2026-04-27T06:17:23.745088",
-      "market_question": "Trump announces end of military operations against Iran by April 30th?",
-      "market_id": "0xfa59099fbda1e0f0058ed3cbd57e939fe90ab6d9b57d53bd488bcadf75c191d4",
-      "ai_probability": 6.0,
-      "market_price": 4.1000000000000005,
-      "edge": -1.9,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1108,
-      "timestamp": "2026-04-27T06:17:20.559561",
-      "market_question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
-      "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
-      "ai_probability": 58.0,
-      "market_price": 62.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1107,
-      "timestamp": "2026-04-27T06:17:17.085412",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 45.0,
-      "market_price": 33.5,
-      "edge": 11.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
