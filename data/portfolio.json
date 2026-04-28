@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T10:03:59.182313+00:00",
+  "updated_at": "2026-04-28T12:02:16.070609+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,78 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Trump announces end of military operations against Iran by April 30th?",
+      "market_id": "0xfa59099fbda1e0f0058ed3cbd57e939fe90ab6d9b57d53bd488bcadf75c191d4",
+      "latest": "2026-04-28T11:57:58.012490",
+      "ai_probability": 5.0,
+      "market_price": 2.0500000000000003,
+      "edge": -3.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "UFC Fight Night: Carlos Prates vs. Jack Della Maddalena (Welterweight, Main Card)",
+      "market_id": "0xc9a2ab57fb58a54a26acc74b53ba4457a5dec5cdde863f77b9c5bfc9edb7ea8f",
+      "latest": "2026-04-28T11:57:54.337017",
+      "ai_probability": 55.0,
+      "market_price": 51.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Elon Musk post 260-279 tweets from April 24 to May 1, 2026?",
+      "market_id": "0xf1a5ce360f72c05609d1d13d89edc8c214dd8a496c28e65427099e70d2bf05e0",
+      "latest": "2026-04-28T11:57:50.887598",
+      "ai_probability": 25.0,
+      "market_price": 20.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Elon Musk post 200-219 tweets from April 24 to May 1, 2026?",
+      "market_id": "0x21432981a418c8b9f5693f48894f811d73a02168e03d5b8dcd9da6bad094c7b9",
+      "latest": "2026-04-28T11:57:46.815516",
+      "ai_probability": 15.0,
+      "market_price": 11.0,
+      "edge": 4.0,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Elon Musk post 180-199 tweets from April 24 to May 1, 2026?",
+      "market_id": "0xa7edf95bf27a464dd6126e977eaffccb1afacdc0e4f9506cc97b1d6d28c7bc6f",
+      "latest": "2026-04-28T11:57:43.606620",
+      "ai_probability": 6.0,
+      "market_price": 4.3,
+      "edge": -1.7,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Cleveland Cavaliers win the NBA Eastern Conference Finals?",
+      "market_id": "0x85f3e001ffe2a24f985b939460d0cc22041d47107ed8c681f75abb6a5bd1d1d7",
+      "latest": "2026-04-28T11:57:40.363375",
+      "ai_probability": 25.0,
+      "market_price": 21.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Russia x Ukraine ceasefire by end of 2026?",
+      "market_id": "0xaeea5f917fc5746387b5f9c0a4263dba035dbb3f0ac6ad72bf92183d21e26739",
+      "latest": "2026-04-28T11:57:36.537332",
+      "ai_probability": 30.0,
+      "market_price": 25.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-04-28T11:57:32.915332",
+      "ai_probability": 5.0,
+      "market_price": 7.449999999999999,
+      "edge": -2.45,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
@@ -53,15 +125,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-04-28T07:37:18.927579",
-      "ai_probability": 5.0,
-      "market_price": 7.449999999999999,
-      "edge": -2.45,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
       "latest": "2026-04-28T07:37:15.437190",
@@ -77,69 +140,6 @@
       "ai_probability": 2.5,
       "market_price": 3.55,
       "edge": -1.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-04-28T07:37:08.372647",
-      "ai_probability": 1.5,
-      "market_price": 2.25,
-      "edge": -0.75,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-04-28T07:37:04.865820",
-      "ai_probability": 12.0,
-      "market_price": 15.35,
-      "edge": -3.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-04-28T07:37:01.406769",
-      "ai_probability": 8.0,
-      "market_price": 8.85,
-      "edge": -0.85,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-28T07:36:50.821926",
-      "ai_probability": 6.0,
-      "market_price": 8.55,
-      "edge": -2.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
-      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
-      "latest": "2026-04-28T07:36:47.191368",
-      "ai_probability": 4.0,
-      "market_price": 2.0500000000000003,
-      "edge": -1.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
-      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
-      "latest": "2026-04-28T04:59:15.822026",
-      "ai_probability": 32.0,
-      "market_price": 26.85,
-      "edge": 5.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Trump announces end of military operations against Iran by April 30th?",
-      "market_id": "0xfa59099fbda1e0f0058ed3cbd57e939fe90ab6d9b57d53bd488bcadf75c191d4",
-      "latest": "2026-04-28T04:59:12.478298",
-      "ai_probability": 5.0,
-      "market_price": 2.35,
-      "edge": -2.65,
       "confidence": "MEDIUM"
     }
   ]
