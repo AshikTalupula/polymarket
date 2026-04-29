@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-04-29T06:40:25.246821+00:00",
+  "updated_at": "2026-04-29T09:06:00.173417+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1259,
+      "timestamp": "2026-04-29T09:00:22.913382",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 3.55,
+      "edge": -1.55,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1258,
       "timestamp": "2026-04-29T06:37:57.807132",
@@ -1186,18 +1198,6 @@
       "ai_probability": 8.0,
       "market_price": 11.05,
       "edge": -3.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1159,
-      "timestamp": "2026-04-27T21:31:28.094534",
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "ai_probability": 9.0,
-      "market_price": 8.5,
-      "edge": 0.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
