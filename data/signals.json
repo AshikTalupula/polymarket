@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-04-28T21:18:06.755367+00:00",
+  "updated_at": "2026-04-29T00:18:49.459943+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1239,
+      "timestamp": "2026-04-29T00:11:27.913197",
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "ai_probability": 18.0,
+      "market_price": 15.950000000000001,
+      "edge": 2.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1238,
+      "timestamp": "2026-04-29T00:11:23.974583",
+      "market_question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+      "ai_probability": 15.0,
+      "market_price": 16.45,
+      "edge": -1.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1237,
+      "timestamp": "2026-04-29T00:11:19.817305",
+      "market_question": "Will Atletico Madrid win the 2025\u201326 Champions League?",
+      "market_id": "0xcb06319aa9e029904c93c1df7d10b7ce7d6aab2b25b8f661e0cf57ea048a1567",
+      "ai_probability": 9.0,
+      "market_price": 11.25,
+      "edge": -2.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1236,
       "timestamp": "2026-04-28T21:12:03.147042",
@@ -1162,42 +1198,6 @@
       "ai_probability": 12.0,
       "market_price": 15.45,
       "edge": -3.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1139,
-      "timestamp": "2026-04-27T16:12:19.480030",
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1138,
-      "timestamp": "2026-04-27T16:12:15.839005",
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "ai_probability": 9.0,
-      "market_price": 8.55,
-      "edge": 0.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1137,
-      "timestamp": "2026-04-27T16:12:11.967978",
-      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
-      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
-      "ai_probability": 3.0,
-      "market_price": 2.0500000000000003,
-      "edge": 0.95,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
