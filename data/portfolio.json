@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T23:21:37.720827+00:00",
+  "updated_at": "2026-04-30T00:18:58.492799+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Germany win the 2026 FIFA World Cup?",
+      "market_id": "0x1595b4818eeb1ea1e0bec5de6f057218e557feee9b405a0e930d290384fa1d16",
+      "latest": "2026-04-30T00:14:07.526014",
+      "ai_probability": 4.5,
+      "market_price": 5.1499999999999995,
+      "edge": -0.65,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-04-29T23:15:31.322870",
+      "latest": "2026-04-30T00:11:38.568986",
       "ai_probability": 8.0,
       "market_price": 11.05,
       "edge": -3.05,
@@ -19,16 +28,16 @@
     {
       "market_question": "Will Norway win the 2026 FIFA World Cup?",
       "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-04-29T23:14:50.739260",
-      "ai_probability": 2.0,
+      "latest": "2026-04-30T00:11:34.942332",
+      "ai_probability": 1.5,
       "market_price": 2.35,
-      "edge": -0.35,
+      "edge": -0.85,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Brazil win the 2026 FIFA World Cup?",
       "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-04-29T23:14:47.219961",
+      "latest": "2026-04-30T00:11:31.642272",
       "ai_probability": 9.0,
       "market_price": 8.55,
       "edge": 0.45,
@@ -37,7 +46,7 @@
     {
       "market_question": "Will Jesus Christ return before 2027?",
       "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-04-29T23:14:43.720493",
+      "latest": "2026-04-30T00:11:28.367873",
       "ai_probability": 2.0,
       "market_price": 3.55,
       "edge": -1.55,
@@ -68,15 +77,6 @@
       "ai_probability": 12.0,
       "market_price": 15.35,
       "edge": -3.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Germany win the 2026 FIFA World Cup?",
-      "market_id": "0x1595b4818eeb1ea1e0bec5de6f057218e557feee9b405a0e930d290384fa1d16",
-      "latest": "2026-04-29T12:53:05.045641",
-      "ai_probability": 4.5,
-      "market_price": 5.1499999999999995,
-      "edge": -0.65,
       "confidence": "MEDIUM"
     },
     {
