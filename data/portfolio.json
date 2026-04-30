@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T15:16:48.373659+00:00",
+  "updated_at": "2026-04-30T16:58:20.527902+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-04-30T16:55:51.028288",
+      "ai_probability": 15.0,
+      "market_price": 18.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
@@ -95,15 +104,6 @@
       "ai_probability": 9.0,
       "market_price": 8.55,
       "edge": 0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-04-30T09:06:54.852673",
-      "ai_probability": 15.0,
-      "market_price": 17.5,
-      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
