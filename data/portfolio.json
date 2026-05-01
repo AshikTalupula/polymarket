@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T07:11:13.029114+00:00",
+  "updated_at": "2026-05-01T09:16:35.907612+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,24 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-05-01T09:14:08.086584",
+      "ai_probability": 2.0,
+      "market_price": 3.55,
+      "edge": -1.55,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-01T09:10:17.940179",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Trump out as President before 2027?",
       "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
@@ -44,30 +62,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-05-01T07:10:20.500613",
-      "ai_probability": 2.0,
-      "market_price": 3.55,
-      "edge": -1.55,
-      "confidence": "HIGH"
-    },
-    {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
       "latest": "2026-05-01T07:10:17.167177",
       "ai_probability": 15.0,
       "market_price": 17.5,
       "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-01T07:10:13.796354",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
