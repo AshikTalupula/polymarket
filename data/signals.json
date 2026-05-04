@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-04T11:33:16.530768+00:00",
+  "updated_at": "2026-05-04T13:15:25.724475+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1524,
+      "timestamp": "2026-05-04T13:09:58.589816",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1523,
       "timestamp": "2026-05-04T09:39:00.538522",
@@ -1186,18 +1198,6 @@
       "ai_probability": 10.0,
       "market_price": 11.05,
       "edge": -1.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1424,
-      "timestamp": "2026-05-02T05:57:39.486131",
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "ai_probability": 4.0,
-      "market_price": 3.35,
-      "edge": 0.65,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0

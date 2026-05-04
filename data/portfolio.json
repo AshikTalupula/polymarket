@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T11:33:16.534500+00:00",
+  "updated_at": "2026-05-04T13:15:25.728328+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-04T13:09:58.589816",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
@@ -23,15 +32,6 @@
       "ai_probability": 42.0,
       "market_price": 30.5,
       "edge": 11.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-04T09:38:07.220041",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
       "confidence": "MEDIUM"
     },
     {
