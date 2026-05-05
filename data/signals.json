@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-04T22:46:21.815436+00:00",
+  "updated_at": "2026-05-05T04:33:45.040626+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1563,
+      "timestamp": "2026-05-05T04:33:43.036215",
+      "market_question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+      "market_id": "0x909659c9436228e2be56d5582ba6188166f2f8bf3c596335512c8f2e380d01ec",
+      "ai_probability": 5.0,
+      "market_price": 7.85,
+      "edge": -2.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1562,
+      "timestamp": "2026-05-05T04:31:00.762346",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 2.45,
+      "edge": -0.45,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1561,
+      "timestamp": "2026-05-05T04:30:56.125767",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 8.0,
+      "market_price": 5.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1560,
+      "timestamp": "2026-05-05T04:30:49.372356",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 42.0,
+      "market_price": 30.5,
+      "edge": 11.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 1559,
       "timestamp": "2026-05-04T22:45:43.356098",
@@ -1150,54 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 2.55,
       "edge": 2.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1463,
-      "timestamp": "2026-05-03T06:17:33.414381",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 35.0,
-      "market_price": 29.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 1462,
-      "timestamp": "2026-05-03T06:17:25.578878",
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1461,
-      "timestamp": "2026-05-03T03:38:14.195591",
-      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-      "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
-      "ai_probability": 97.0,
-      "market_price": 95.5,
-      "edge": 1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1460,
-      "timestamp": "2026-05-03T03:38:10.925464",
-      "market_question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
-      "ai_probability": 18.0,
-      "market_price": 21.95,
-      "edge": -3.95,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
