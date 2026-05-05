@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T04:33:45.044565+00:00",
+  "updated_at": "2026-05-05T09:05:42.573973+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall by May 31?",
+      "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
+      "latest": "2026-05-05T09:01:16.085293",
+      "ai_probability": 4.0,
+      "market_price": 2.55,
+      "edge": -1.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-05-05T09:00:51.358623",
+      "ai_probability": 42.0,
+      "market_price": 30.5,
+      "edge": 11.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-05T09:00:44.373308",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
       "market_id": "0x909659c9436228e2be56d5582ba6188166f2f8bf3c596335512c8f2e380d01ec",
@@ -24,24 +51,6 @@
       "market_price": 2.45,
       "edge": -0.45,
       "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-05T04:30:56.125767",
-      "ai_probability": 8.0,
-      "market_price": 5.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-05-05T04:30:49.372356",
-      "ai_probability": 42.0,
-      "market_price": 30.5,
-      "edge": 11.5,
-      "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
@@ -131,15 +140,6 @@
       "ai_probability": 35.0,
       "market_price": 32.85,
       "edge": 2.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Trump out as President before 2027?",
-      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "latest": "2026-05-04T07:23:37.865153",
-      "ai_probability": 15.0,
-      "market_price": 13.5,
-      "edge": 1.5,
       "confidence": "MEDIUM"
     }
   ]

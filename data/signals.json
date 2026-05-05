@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-05-05T04:33:45.040626+00:00",
+  "updated_at": "2026-05-05T09:05:42.570171+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1566,
+      "timestamp": "2026-05-05T09:01:16.085293",
+      "market_question": "Will the Iranian regime fall by May 31?",
+      "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
+      "ai_probability": 4.0,
+      "market_price": 2.55,
+      "edge": -1.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1565,
+      "timestamp": "2026-05-05T09:00:51.358623",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 42.0,
+      "market_price": 30.5,
+      "edge": 11.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 1564,
+      "timestamp": "2026-05-05T09:00:44.373308",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1563,
       "timestamp": "2026-05-05T04:33:43.036215",
@@ -1162,42 +1198,6 @@
       "ai_probability": 4.0,
       "market_price": 6.5,
       "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1466,
-      "timestamp": "2026-05-03T06:17:52.225253",
-      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-      "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
-      "ai_probability": 97.0,
-      "market_price": 95.5,
-      "edge": 1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1465,
-      "timestamp": "2026-05-03T06:17:49.074177",
-      "market_question": "Strait of Hormuz traffic returns to normal by end of May?",
-      "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
-      "ai_probability": 25.0,
-      "market_price": 18.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 1464,
-      "timestamp": "2026-05-03T06:17:36.724441",
-      "market_question": "Will the Iranian regime fall by May 31?",
-      "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
-      "ai_probability": 5.0,
-      "market_price": 2.55,
-      "edge": 2.45,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
