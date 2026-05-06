@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T16:23:14.645871+00:00",
+  "updated_at": "2026-05-06T18:02:48.720518+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-06T17:56:39.272546",
+      "ai_probability": 7.0,
+      "market_price": 4.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
@@ -23,15 +32,6 @@
       "ai_probability": 5.0,
       "market_price": 2.25,
       "edge": 2.75,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-06T16:18:16.274926",
-      "ai_probability": 7.0,
-      "market_price": 4.5,
-      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
