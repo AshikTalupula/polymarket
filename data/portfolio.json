@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T19:59:15.870225+00:00",
+  "updated_at": "2026-05-06T21:20:56.747787+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,51 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-05-06T21:14:51.877247",
+      "ai_probability": 8.0,
+      "market_price": 11.05,
+      "edge": -3.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-05-06T21:14:48.317067",
+      "ai_probability": 6.0,
+      "market_price": 8.649999999999999,
+      "edge": -2.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "latest": "2026-05-06T21:14:44.436475",
+      "ai_probability": 2.5,
+      "market_price": 3.35,
+      "edge": -0.85,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-05-06T21:14:41.019970",
+      "ai_probability": 9.0,
+      "market_price": 8.55,
+      "edge": 0.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Norway win the 2026 FIFA World Cup?",
+      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
+      "latest": "2026-05-06T21:14:37.432806",
+      "ai_probability": 1.5,
+      "market_price": 2.25,
+      "edge": -0.75,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
       "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
@@ -26,57 +71,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-05-06T16:18:23.224119",
-      "ai_probability": 10.0,
-      "market_price": 11.05,
-      "edge": -1.05,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the Iranian regime fall by May 31?",
       "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
       "latest": "2026-05-06T16:18:19.797482",
       "ai_probability": 5.0,
       "market_price": 2.25,
       "edge": 2.75,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-05-06T16:18:12.688378",
-      "ai_probability": 6.0,
-      "market_price": 8.649999999999999,
-      "edge": -2.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-05-06T16:18:08.967250",
-      "ai_probability": 3.0,
-      "market_price": 3.35,
-      "edge": -0.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-05-06T16:18:05.254994",
-      "ai_probability": 9.0,
-      "market_price": 8.55,
-      "edge": 0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-05-06T16:18:01.817982",
-      "ai_probability": 1.8,
-      "market_price": 2.25,
-      "edge": -0.45,
       "confidence": "MEDIUM"
     },
     {

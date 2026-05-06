@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-05-06T19:59:15.867078+00:00",
+  "updated_at": "2026-05-06T21:20:56.743791+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1674,
+      "timestamp": "2026-05-06T21:14:51.877247",
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "ai_probability": 8.0,
+      "market_price": 11.05,
+      "edge": -3.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1673,
+      "timestamp": "2026-05-06T21:14:48.317067",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 6.0,
+      "market_price": 8.649999999999999,
+      "edge": -2.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1672,
+      "timestamp": "2026-05-06T21:14:44.436475",
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "ai_probability": 2.5,
+      "market_price": 3.35,
+      "edge": -0.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1671,
+      "timestamp": "2026-05-06T21:14:41.019970",
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "ai_probability": 9.0,
+      "market_price": 8.55,
+      "edge": 0.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1670,
+      "timestamp": "2026-05-06T21:14:37.432806",
+      "market_question": "Will Norway win the 2026 FIFA World Cup?",
+      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
+      "ai_probability": 1.5,
+      "market_price": 2.25,
+      "edge": -0.75,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1669,
       "timestamp": "2026-05-06T19:58:37.255250",
@@ -1139,66 +1199,6 @@
       "market_price": 2.35,
       "edge": -0.35,
       "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1574,
-      "timestamp": "2026-05-05T10:54:44.517072",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 42.0,
-      "market_price": 30.5,
-      "edge": 11.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 1573,
-      "timestamp": "2026-05-05T10:54:41.051618",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 12.0,
-      "market_price": 15.35,
-      "edge": -3.35,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1572,
-      "timestamp": "2026-05-05T10:54:37.644133",
-      "market_question": "Will the Iranian regime fall by May 31?",
-      "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
-      "ai_probability": 4.0,
-      "market_price": 2.55,
-      "edge": -1.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1571,
-      "timestamp": "2026-05-05T10:54:34.446555",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 10.0,
-      "market_price": 11.05,
-      "edge": -1.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1570,
-      "timestamp": "2026-05-05T10:54:31.053025",
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "ai_probability": 4.0,
-      "market_price": 3.35,
-      "edge": 0.65,
-      "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
