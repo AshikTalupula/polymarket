@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T12:04:37.920308+00:00",
+  "updated_at": "2026-05-06T14:39:11.131368+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,12 +8,111 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
+      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "latest": "2026-05-06T14:37:20.665852",
+      "ai_probability": 35.0,
+      "market_price": 24.5,
+      "edge": 10.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-05-06T14:37:17.245794",
+      "ai_probability": 15.0,
+      "market_price": 20.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-05-06T14:37:14.063890",
+      "ai_probability": 5.0,
+      "market_price": 7.449999999999999,
+      "edge": -2.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Germany win the 2026 FIFA World Cup?",
+      "market_id": "0x1595b4818eeb1ea1e0bec5de6f057218e557feee9b405a0e930d290384fa1d16",
+      "latest": "2026-05-06T14:37:10.537643",
+      "ai_probability": 4.5,
+      "market_price": 5.1499999999999995,
+      "edge": -0.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-05-06T14:37:07.207089",
+      "ai_probability": 12.0,
+      "market_price": 15.35,
+      "edge": -3.35,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-06T11:58:20.789434",
+      "latest": "2026-05-06T14:37:03.700948",
       "ai_probability": 2.0,
       "market_price": 4.5,
       "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by May 31?",
+      "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
+      "latest": "2026-05-06T14:37:00.412265",
+      "ai_probability": 5.0,
+      "market_price": 2.25,
+      "edge": 2.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-05-06T14:36:56.956447",
+      "ai_probability": 8.0,
+      "market_price": 11.05,
+      "edge": -3.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-05-06T14:36:53.363771",
+      "ai_probability": 6.0,
+      "market_price": 8.649999999999999,
+      "edge": -2.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "latest": "2026-05-06T14:36:49.822513",
+      "ai_probability": 4.0,
+      "market_price": 3.35,
+      "edge": 0.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-05-06T14:36:46.450081",
+      "ai_probability": 9.0,
+      "market_price": 8.55,
+      "edge": 0.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Norway win the 2026 FIFA World Cup?",
+      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
+      "latest": "2026-05-06T14:36:42.826217",
+      "ai_probability": 1.8,
+      "market_price": 2.25,
+      "edge": -0.45,
       "confidence": "MEDIUM"
     },
     {
@@ -26,24 +125,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-05-06T09:59:04.714035",
-      "ai_probability": 4.0,
-      "market_price": 19.5,
-      "edge": -15.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-05-06T09:59:01.240606",
-      "ai_probability": 5.0,
-      "market_price": 7.449999999999999,
-      "edge": -2.45,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
       "latest": "2026-05-06T09:58:58.000766",
@@ -53,93 +134,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Germany win the 2026 FIFA World Cup?",
-      "market_id": "0x1595b4818eeb1ea1e0bec5de6f057218e557feee9b405a0e930d290384fa1d16",
-      "latest": "2026-05-06T09:58:54.638551",
-      "ai_probability": 4.0,
-      "market_price": 5.1499999999999995,
-      "edge": -1.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by May 31?",
-      "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
-      "latest": "2026-05-06T09:58:51.336091",
-      "ai_probability": 4.0,
-      "market_price": 2.35,
-      "edge": -1.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-05-06T09:58:44.660141",
-      "ai_probability": 12.0,
-      "market_price": 15.35,
-      "edge": -3.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-05-06T09:58:41.080628",
-      "ai_probability": 8.0,
-      "market_price": 11.05,
-      "edge": -3.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-05-06T09:58:37.609426",
-      "ai_probability": 4.0,
-      "market_price": 3.35,
-      "edge": 0.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-05-06T09:58:34.211946",
-      "ai_probability": 6.0,
-      "market_price": 8.649999999999999,
-      "edge": -2.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-05-06T09:58:30.889702",
-      "ai_probability": 9.0,
-      "market_price": 8.55,
-      "edge": 0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-05-06T09:58:27.402410",
-      "ai_probability": 1.5,
-      "market_price": 2.25,
-      "edge": -0.75,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Strait of Hormuz traffic returns to normal by end of May?",
       "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
       "latest": "2026-05-06T04:46:55.465997",
       "ai_probability": 25.0,
       "market_price": 16.5,
       "edge": -8.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
-      "market_id": "0x909659c9436228e2be56d5582ba6188166f2f8bf3c596335512c8f2e380d01ec",
-      "latest": "2026-05-05T14:24:38.551224",
-      "ai_probability": 15.0,
-      "market_price": 7.9,
-      "edge": 7.1,
       "confidence": "MEDIUM"
     }
   ]
