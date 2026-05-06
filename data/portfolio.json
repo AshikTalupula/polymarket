@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T10:01:32.880403+00:00",
+  "updated_at": "2026-05-06T12:04:37.920308+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-06T11:58:20.789434",
+      "ai_probability": 2.0,
+      "market_price": 4.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Finland win Eurovision 2026?",
       "market_id": "0xc6ddb19f848ac363330d0a690cfe6818d4c51e837161a41d42675eda27767ed0",
@@ -59,15 +68,6 @@
       "ai_probability": 4.0,
       "market_price": 2.35,
       "edge": -1.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-06T09:58:47.963423",
-      "ai_probability": 3.0,
-      "market_price": 5.5,
-      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
