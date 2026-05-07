@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-07T21:49:07.255922+00:00",
+  "updated_at": "2026-05-07T23:46:17.381636+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1738,
+      "timestamp": "2026-05-07T23:39:00.183922",
+      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
+      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+      "ai_probability": 45.0,
+      "market_price": 42.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1737,
+      "timestamp": "2026-05-07T23:38:56.779107",
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1736,
       "timestamp": "2026-05-07T21:43:35.260574",
@@ -1174,30 +1198,6 @@
       "ai_probability": 8.0,
       "market_price": 11.05,
       "edge": -3.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1638,
-      "timestamp": "2026-05-06T09:58:37.609426",
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "ai_probability": 4.0,
-      "market_price": 3.35,
-      "edge": 0.65,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1637,
-      "timestamp": "2026-05-06T09:58:34.211946",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 6.0,
-      "market_price": 8.649999999999999,
-      "edge": -2.65,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
