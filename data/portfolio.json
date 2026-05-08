@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T17:54:36.788072+00:00",
+  "updated_at": "2026-05-08T21:37:52.764092+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,27 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Norway win the 2026 FIFA World Cup?",
+      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
+      "latest": "2026-05-08T21:31:11.683994",
+      "ai_probability": 1.5,
+      "market_price": 2.25,
+      "edge": -0.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
+      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "latest": "2026-05-08T21:31:07.889862",
+      "ai_probability": 25.0,
+      "market_price": 35.5,
+      "edge": -10.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
       "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
-      "latest": "2026-05-08T17:48:13.623389",
+      "latest": "2026-05-08T21:31:04.517677",
       "ai_probability": 45.0,
       "market_price": 42.5,
       "edge": 2.5,
@@ -86,24 +104,6 @@
       "ai_probability": 4.0,
       "market_price": 2.15,
       "edge": -1.85,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-05-08T14:53:50.062394",
-      "ai_probability": 1.8,
-      "market_price": 2.25,
-      "edge": -0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
-      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "latest": "2026-05-08T09:54:43.850884",
-      "ai_probability": 25.0,
-      "market_price": 34.5,
-      "edge": -9.5,
       "confidence": "MEDIUM"
     },
     {
