@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T21:37:52.764092+00:00",
+  "updated_at": "2026-05-09T01:28:37.268770+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,24 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
+      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+      "latest": "2026-05-09T01:22:07.149962",
+      "ai_probability": 45.0,
+      "market_price": 42.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-09T01:22:03.557595",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Norway win the 2026 FIFA World Cup?",
       "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
@@ -23,24 +41,6 @@
       "ai_probability": 25.0,
       "market_price": 35.5,
       "edge": -10.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
-      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
-      "latest": "2026-05-08T21:31:04.517677",
-      "ai_probability": 45.0,
-      "market_price": 42.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-08T17:48:09.219619",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
