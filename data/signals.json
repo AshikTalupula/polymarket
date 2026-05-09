@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-05-09T07:14:09.427515+00:00",
+  "updated_at": "2026-05-09T08:59:00.575018+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1814,
+      "timestamp": "2026-05-09T08:53:32.578042",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 6.0,
+      "market_price": 4.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1813,
+      "timestamp": "2026-05-09T08:53:24.438228",
+      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
+      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+      "ai_probability": 45.0,
+      "market_price": 42.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1812,
+      "timestamp": "2026-05-09T08:53:20.827883",
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1811,
       "timestamp": "2026-05-09T07:11:06.405325",
@@ -1162,42 +1198,6 @@
       "ai_probability": 2.0,
       "market_price": 4.5,
       "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1714,
-      "timestamp": "2026-05-07T15:40:39.415496",
-      "market_question": "Will the Iranian regime fall by May 31?",
-      "market_id": "0x789c947a9415600d30d56a4aae88d4111996679b0caed166d0c96242fdce92a2",
-      "ai_probability": 4.0,
-      "market_price": 2.0500000000000003,
-      "edge": -1.95,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1713,
-      "timestamp": "2026-05-07T15:40:34.069409",
-      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
-      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
-      "ai_probability": 45.0,
-      "market_price": 42.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1712,
-      "timestamp": "2026-05-07T15:40:30.615578",
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
