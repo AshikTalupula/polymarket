@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T04:13:04.351721+00:00",
+  "updated_at": "2026-05-10T07:10:01.777497+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,51 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
+      "latest": "2026-05-10T07:09:23.698820",
+      "ai_probability": 1.5,
+      "market_price": 2.0500000000000003,
+      "edge": -0.55,
+      "confidence": "LOW"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-05-10T07:09:17.197243",
+      "ai_probability": 15.0,
+      "market_price": 17.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-05-10T07:09:13.888914",
+      "ai_probability": 35.0,
+      "market_price": 20.5,
+      "edge": 14.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-10T07:09:04.017759",
+      "ai_probability": 8.0,
+      "market_price": 4.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-10T07:08:55.603326",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
       "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
@@ -26,30 +71,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-05-10T04:12:51.528706",
-      "ai_probability": 35.0,
-      "market_price": 21.5,
-      "edge": 13.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "US x Iran permanent peace deal by May 15, 2026?",
       "market_id": "0x1db02ba50e2312a62b4104de691cc7a76065d8d0da40decf93eb1b914a3217b7",
       "latest": "2026-05-10T04:12:48.142873",
       "ai_probability": 8.0,
       "market_price": 14.05,
       "edge": -6.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-10T04:12:39.974511",
-      "ai_probability": 7.0,
-      "market_price": 4.5,
-      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -68,15 +95,6 @@
       "ai_probability": 45.0,
       "market_price": 42.5,
       "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-09T21:25:19.266581",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
@@ -122,24 +140,6 @@
       "ai_probability": 4.0,
       "market_price": 2.0500000000000003,
       "edge": -1.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-05-09T07:10:56.902113",
-      "ai_probability": 4.0,
-      "market_price": 3.45,
-      "edge": 0.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
-      "latest": "2026-05-09T04:51:40.891335",
-      "ai_probability": 1.5,
-      "market_price": 2.0500000000000003,
-      "edge": -0.55,
       "confidence": "MEDIUM"
     }
   ]
