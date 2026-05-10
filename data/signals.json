@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-10T11:38:20.956258+00:00",
+  "updated_at": "2026-05-10T14:15:18.570927+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1850,
+      "timestamp": "2026-05-10T14:08:31.507625",
+      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
+      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+      "ai_probability": 45.0,
+      "market_price": 42.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1849,
+      "timestamp": "2026-05-10T14:08:27.935753",
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1848,
       "timestamp": "2026-05-10T11:31:03.471553",
@@ -1174,30 +1198,6 @@
       "ai_probability": 7.0,
       "market_price": 4.5,
       "edge": 2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1750,
-      "timestamp": "2026-05-08T04:39:22.556581",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 8.0,
-      "market_price": 11.05,
-      "edge": -3.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1749,
-      "timestamp": "2026-05-08T04:39:19.204449",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 6.0,
-      "market_price": 8.649999999999999,
-      "edge": -2.65,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
