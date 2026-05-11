@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-11T11:40:23.188222+00:00",
+  "updated_at": "2026-05-11T16:49:32.818548+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1895,
+      "timestamp": "2026-05-11T16:47:36.410959",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 32.0,
+      "market_price": 26.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 1894,
+      "timestamp": "2026-05-11T16:47:31.343103",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 8.0,
+      "market_price": 5.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1893,
+      "timestamp": "2026-05-11T16:47:16.074186",
+      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
+      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+      "ai_probability": 45.0,
+      "market_price": 42.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 1892,
+      "timestamp": "2026-05-11T16:47:12.236981",
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1891,
       "timestamp": "2026-05-11T11:40:10.656846",
@@ -1150,54 +1198,6 @@
       "ai_probability": 8.0,
       "market_price": 11.05,
       "edge": -3.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1795,
-      "timestamp": "2026-05-09T04:51:16.069451",
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "ai_probability": 4.0,
-      "market_price": 3.45,
-      "edge": 0.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1794,
-      "timestamp": "2026-05-09T04:51:12.376526",
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "ai_probability": 6.0,
-      "market_price": 4.5,
-      "edge": 1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1793,
-      "timestamp": "2026-05-09T04:51:08.901863",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 9.0,
-      "market_price": 8.649999999999999,
-      "edge": 0.35,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1792,
-      "timestamp": "2026-05-09T04:51:05.372372",
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "ai_probability": 9.0,
-      "market_price": 8.55,
-      "edge": 0.45,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
