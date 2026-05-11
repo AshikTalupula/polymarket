@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T20:26:32.844097+00:00",
+  "updated_at": "2026-05-11T21:57:21.481787+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,24 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-11T21:51:54.584664",
+      "ai_probability": 8.0,
+      "market_price": 5.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-11T21:50:08.571498",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Strait of Hormuz traffic returns to normal by end of May?",
       "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
@@ -23,15 +41,6 @@
       "ai_probability": 4.0,
       "market_price": 3.45,
       "edge": 0.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-11T20:21:20.643367",
-      "ai_probability": 8.0,
-      "market_price": 5.5,
-      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -68,15 +77,6 @@
       "ai_probability": 1.8,
       "market_price": 2.25,
       "edge": -0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-11T20:21:03.499441",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
