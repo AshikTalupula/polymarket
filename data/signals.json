@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-11T16:49:32.818548+00:00",
+  "updated_at": "2026-05-11T18:36:40.825173+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 1896,
+      "timestamp": "2026-05-11T18:29:50.888434",
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 1895,
       "timestamp": "2026-05-11T16:47:36.410959",
@@ -1186,18 +1198,6 @@
       "ai_probability": 35.0,
       "market_price": 30.5,
       "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1796,
-      "timestamp": "2026-05-09T04:51:19.504285",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 8.0,
-      "market_price": 11.05,
-      "edge": -3.05,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
