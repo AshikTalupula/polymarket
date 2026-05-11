@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T22:52:01.482578+00:00",
+  "updated_at": "2026-05-11T23:51:03.435001+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
+      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "latest": "2026-05-11T23:43:44.327132",
+      "ai_probability": 12.0,
+      "market_price": 17.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Norway win the 2026 FIFA World Cup?",
+      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
+      "latest": "2026-05-11T23:43:40.743614",
+      "ai_probability": 1.5,
+      "market_price": 2.25,
+      "edge": -0.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-11T23:43:37.278946",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
@@ -23,24 +50,6 @@
       "ai_probability": 9.0,
       "market_price": 8.649999999999999,
       "edge": 0.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-05-11T22:44:57.442452",
-      "ai_probability": 1.5,
-      "market_price": 2.25,
-      "edge": -0.75,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-11T22:44:53.707479",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
@@ -77,15 +86,6 @@
       "ai_probability": 12.0,
       "market_price": 8.85,
       "edge": 3.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
-      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "latest": "2026-05-11T20:21:13.930383",
-      "ai_probability": 15.0,
-      "market_price": 19.5,
-      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
