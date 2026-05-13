@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T13:32:49.800748+00:00",
+  "updated_at": "2026-05-13T16:10:41.622157+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,36 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-05-13T16:08:13.027862",
+      "ai_probability": 2.0,
+      "market_price": 2.25,
+      "edge": -0.25,
+      "confidence": "HIGH"
+    },
+    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-05-13T13:29:02.841447",
-      "ai_probability": 35.0,
+      "latest": "2026-05-13T16:05:47.211272",
+      "ai_probability": 32.0,
       "market_price": 28.499999999999996,
-      "edge": 6.5,
+      "edge": 3.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-13T13:28:55.279344",
-      "ai_probability": 2.0,
+      "latest": "2026-05-13T16:05:43.861882",
+      "ai_probability": 3.0,
       "market_price": 4.5,
-      "edge": -2.5,
+      "edge": -1.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will PSG win the 2025\u201326 Champions League?",
       "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-13T13:28:49.666029",
+      "latest": "2026-05-13T16:05:35.203755",
       "ai_probability": 62.0,
       "market_price": 57.49999999999999,
       "edge": 4.5,
@@ -69,15 +78,6 @@
       "market_price": 5.1499999999999995,
       "edge": -1.15,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-05-13T11:08:59.116411",
-      "ai_probability": 2.0,
-      "market_price": 2.3,
-      "edge": -0.3,
-      "confidence": "HIGH"
     },
     {
       "market_question": "US x Iran permanent peace deal by June 30, 2026?",

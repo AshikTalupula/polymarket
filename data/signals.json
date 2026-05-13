@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-13T13:32:49.797547+00:00",
+  "updated_at": "2026-05-13T16:10:41.618393+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 2050,
+      "timestamp": "2026-05-13T16:08:13.027862",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 2.25,
+      "edge": -0.25,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 2049,
+      "timestamp": "2026-05-13T16:05:47.211272",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 32.0,
+      "market_price": 28.499999999999996,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 2048,
+      "timestamp": "2026-05-13T16:05:43.861882",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 3.0,
+      "market_price": 4.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 2047,
+      "timestamp": "2026-05-13T16:05:35.203755",
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 2046,
       "timestamp": "2026-05-13T13:29:02.841447",
@@ -1151,54 +1199,6 @@
       "market_price": 35.0,
       "edge": -3.0,
       "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1950,
-      "timestamp": "2026-05-12T08:05:10.794104",
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "ai_probability": 15.0,
-      "market_price": 18.55,
-      "edge": -3.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1949,
-      "timestamp": "2026-05-12T08:05:07.298146",
-      "market_question": "Will Japan win the 2026 FIFA World Cup?",
-      "market_id": "0x0189df05ed7bf84d799213b01a79571e305c03b2ac5359cfbb3a323448ba20fa",
-      "ai_probability": 1.8,
-      "market_price": 2.0500000000000003,
-      "edge": -0.25,
-      "confidence": "LOW",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1948,
-      "timestamp": "2026-05-12T08:05:03.983289",
-      "market_question": "Will Germany win the 2026 FIFA World Cup?",
-      "market_id": "0x1595b4818eeb1ea1e0bec5de6f057218e557feee9b405a0e930d290384fa1d16",
-      "ai_probability": 4.5,
-      "market_price": 5.1499999999999995,
-      "edge": -0.65,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 1947,
-      "timestamp": "2026-05-12T08:05:00.556573",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 2.0500000000000003,
-      "edge": -0.05,
-      "confidence": "HIGH",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
