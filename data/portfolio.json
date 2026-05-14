@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T21:54:20.465874+00:00",
+  "updated_at": "2026-05-14T00:11:56.471255+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-14T00:04:36.050171",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
       "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
@@ -50,15 +59,6 @@
       "ai_probability": 8.0,
       "market_price": 13.5,
       "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-13T21:48:36.658630",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
