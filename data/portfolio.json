@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T14:28:34.098538+00:00",
+  "updated_at": "2026-05-14T16:35:12.793922+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,24 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-05-14T16:28:46.559777",
+      "ai_probability": 32.0,
+      "market_price": 27.500000000000004,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-14T16:28:34.838646",
+      "ai_probability": 62.0,
+      "market_price": 58.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
@@ -32,15 +50,6 @@
       "ai_probability": 25.0,
       "market_price": 33.5,
       "edge": -8.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-14T14:25:05.670719",
-      "ai_probability": 62.0,
-      "market_price": 58.5,
-      "edge": 3.5,
       "confidence": "MEDIUM"
     },
     {
@@ -122,15 +131,6 @@
       "ai_probability": 15.0,
       "market_price": 18.65,
       "edge": -3.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-05-13T20:14:04.372068",
-      "ai_probability": 35.0,
-      "market_price": 28.499999999999996,
-      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {

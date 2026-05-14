@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-14T14:28:34.094881+00:00",
+  "updated_at": "2026-05-14T16:35:12.790121+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 2111,
+      "timestamp": "2026-05-14T16:28:46.559777",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 32.0,
+      "market_price": 27.500000000000004,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 2110,
+      "timestamp": "2026-05-14T16:28:34.838646",
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "ai_probability": 62.0,
+      "market_price": 58.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 2109,
       "timestamp": "2026-05-14T14:25:25.377694",
@@ -1175,30 +1199,6 @@
       "market_price": 16.35,
       "edge": -1.35,
       "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 2011,
-      "timestamp": "2026-05-13T05:31:32.477220",
-      "market_question": "Will Japan win the 2026 FIFA World Cup?",
-      "market_id": "0x0189df05ed7bf84d799213b01a79571e305c03b2ac5359cfbb3a323448ba20fa",
-      "ai_probability": 1.8,
-      "market_price": 2.0500000000000003,
-      "edge": -0.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 2010,
-      "timestamp": "2026-05-13T05:31:29.246519",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 2.0,
-      "market_price": 2.15,
-      "edge": -0.15,
-      "confidence": "HIGH",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
