@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-05-15T15:33:51.709697+00:00",
+  "updated_at": "2026-05-15T17:19:45.680828+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 2181,
+      "timestamp": "2026-05-15T17:14:11.227718",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 2.15,
+      "edge": -0.15,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 2180,
+      "timestamp": "2026-05-15T17:12:46.698892",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 6.0,
+      "market_price": 4.5,
+      "edge": 1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 2179,
       "timestamp": "2026-05-15T15:28:23.378284",
@@ -1177,30 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 2081,
-      "timestamp": "2026-05-14T04:11:22.772472",
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "ai_probability": 1.0,
-      "market_price": 2.15,
-      "edge": -1.15,
-      "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 2080,
-      "timestamp": "2026-05-14T04:11:16.058244",
-      "market_question": "US x Iran permanent peace deal by June 30, 2026?",
-      "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
-      "ai_probability": 25.0,
-      "market_price": 33.5,
-      "edge": -8.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
     }
   ]
 }
