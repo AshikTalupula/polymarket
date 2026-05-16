@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T19:55:48.597673+00:00",
+  "updated_at": "2026-05-16T21:39:22.531011+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,27 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-05-16T21:32:40.752732",
+      "ai_probability": 8.0,
+      "market_price": 11.35,
+      "edge": -3.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-05-16T21:32:32.209975",
+      "ai_probability": 8.0,
+      "market_price": 9.15,
+      "edge": -1.15,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Norway win the 2026 FIFA World Cup?",
       "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-05-16T19:48:32.317394",
+      "latest": "2026-05-16T21:32:28.733734",
       "ai_probability": 1.5,
       "market_price": 2.25,
       "edge": -0.75,
@@ -19,28 +37,10 @@
     {
       "market_question": "US x Iran permanent peace deal by May 31, 2026?",
       "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "latest": "2026-05-16T19:48:29.039035",
+      "latest": "2026-05-16T21:32:25.128555",
       "ai_probability": 6.0,
       "market_price": 10.5,
       "edge": -4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-05-16T18:40:12.753292",
-      "ai_probability": 10.0,
-      "market_price": 11.35,
-      "edge": -1.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-05-16T18:40:09.201664",
-      "ai_probability": 8.0,
-      "market_price": 9.15,
-      "edge": -1.15,
       "confidence": "MEDIUM"
     },
     {
