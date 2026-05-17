@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T17:21:36.766391+00:00",
+  "updated_at": "2026-05-17T19:47:26.580460+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
+      "latest": "2026-05-17T19:46:48.446278",
+      "ai_probability": 98.0,
+      "market_price": 97.95,
+      "edge": 0.05,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
+      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "latest": "2026-05-17T19:40:55.362566",
+      "ai_probability": 4.0,
+      "market_price": 7.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-17T19:40:51.985960",
+      "ai_probability": 62.0,
+      "market_price": 58.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Hantavirus pandemic in 2026?",
       "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
@@ -23,24 +50,6 @@
       "ai_probability": 12.0,
       "market_price": 9.15,
       "edge": 2.85,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
-      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "latest": "2026-05-17T17:14:31.009319",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-17T17:14:27.435333",
-      "ai_probability": 62.0,
-      "market_price": 58.5,
-      "edge": 3.5,
       "confidence": "MEDIUM"
     },
     {
@@ -132,15 +141,6 @@
       "market_price": 2.0500000000000003,
       "edge": -0.25,
       "confidence": "LOW"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by June 30, 2026?",
-      "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
-      "latest": "2026-05-17T08:00:45.950982",
-      "ai_probability": 22.0,
-      "market_price": 26.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM"
     }
   ]
 }
