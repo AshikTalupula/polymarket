@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-16T21:39:22.527866+00:00",
+  "updated_at": "2026-05-17T01:35:35.149601+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 2250,
+      "timestamp": "2026-05-17T01:30:06.922498",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 1.0,
+      "market_price": 2.15,
+      "edge": -1.15,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 2249,
       "timestamp": "2026-05-16T21:32:40.752732",
@@ -1186,18 +1198,6 @@
       "ai_probability": 6.0,
       "market_price": 4.5,
       "edge": 1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 2150,
-      "timestamp": "2026-05-15T08:32:08.785807",
-      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
-      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "ai_probability": 5.0,
-      "market_price": 9.5,
-      "edge": -4.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0

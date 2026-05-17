@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T21:39:22.531011+00:00",
+  "updated_at": "2026-05-17T01:35:35.153431+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-05-17T01:30:06.922498",
+      "ai_probability": 1.0,
+      "market_price": 2.15,
+      "edge": -1.15,
+      "confidence": "HIGH"
+    },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
@@ -51,15 +60,6 @@
       "market_price": 58.5,
       "edge": 3.5,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-05-16T10:38:27.357112",
-      "ai_probability": 2.0,
-      "market_price": 2.15,
-      "edge": -0.15,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Will the Iranian regime fall by June 30?",
