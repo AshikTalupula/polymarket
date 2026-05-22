@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T18:24:30.198070+00:00",
+  "updated_at": "2026-05-22T20:22:46.124874+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-22T20:17:52.324685",
+      "ai_probability": 5.0,
+      "market_price": 3.9,
+      "edge": 1.1,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will PSG win the 2025\u201326 Champions League?",
       "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
@@ -41,15 +50,6 @@
       "ai_probability": 2.0,
       "market_price": 2.45,
       "edge": -0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-22T16:28:31.833273",
-      "ai_probability": 5.0,
-      "market_price": 3.6999999999999997,
-      "edge": 1.3,
       "confidence": "MEDIUM"
     },
     {
