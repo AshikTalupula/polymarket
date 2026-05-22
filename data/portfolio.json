@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T13:56:20.156683+00:00",
+  "updated_at": "2026-05-22T16:34:28.233229+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-22T16:28:31.833273",
+      "ai_probability": 5.0,
+      "market_price": 3.6999999999999997,
+      "edge": 1.3,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
       "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
@@ -23,15 +32,6 @@
       "ai_probability": 45.0,
       "market_price": 42.5,
       "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-22T13:54:20.033480",
-      "ai_probability": 5.0,
-      "market_price": 3.55,
-      "edge": 1.45,
       "confidence": "MEDIUM"
     },
     {
