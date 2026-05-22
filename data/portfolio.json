@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T11:21:50.787922+00:00",
+  "updated_at": "2026-05-22T13:56:20.156683+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,6 +8,42 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
+      "latest": "2026-05-22T13:54:34.242994",
+      "ai_probability": 95.0,
+      "market_price": 97.75,
+      "edge": -2.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
+      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
+      "latest": "2026-05-22T13:54:23.597440",
+      "ai_probability": 45.0,
+      "market_price": 42.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-22T13:54:20.033480",
+      "ai_probability": 5.0,
+      "market_price": 3.55,
+      "edge": 1.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-22T13:54:13.181909",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
       "latest": "2026-05-22T11:21:48.779579",
@@ -15,15 +51,6 @@
       "market_price": 21.7,
       "edge": 3.3,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-      "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
-      "latest": "2026-05-22T11:21:45.501247",
-      "ai_probability": 98.0,
-      "market_price": 97.75,
-      "edge": 0.25,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Hantavirus pandemic in 2026?",
@@ -53,30 +80,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
-      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
-      "latest": "2026-05-22T11:21:31.893621",
-      "ai_probability": 55.0,
-      "market_price": 42.5,
-      "edge": 12.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
       "latest": "2026-05-22T11:21:28.364522",
       "ai_probability": 20.0,
       "market_price": 17.95,
       "edge": 2.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-22T11:21:24.869282",
-      "ai_probability": 6.0,
-      "market_price": 4.5,
-      "edge": 1.5,
       "confidence": "MEDIUM"
     },
     {
@@ -95,15 +104,6 @@
       "ai_probability": 6.0,
       "market_price": 8.35,
       "edge": -2.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-22T11:21:14.279942",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
