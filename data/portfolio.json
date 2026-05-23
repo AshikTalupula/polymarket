@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T14:26:30.546385+00:00",
+  "updated_at": "2026-05-23T15:49:18.074233+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,51 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-05-23T15:47:26.818321",
+      "ai_probability": 3.0,
+      "market_price": 5.1499999999999995,
+      "edge": -2.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-05-23T15:43:07.465516",
+      "ai_probability": 9.0,
+      "market_price": 8.85,
+      "edge": 0.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-23T15:43:04.149418",
+      "ai_probability": 55.0,
+      "market_price": 57.49999999999999,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "latest": "2026-05-23T15:43:00.803749",
+      "ai_probability": 4.0,
+      "market_price": 3.45,
+      "edge": 0.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Norway win the 2026 FIFA World Cup?",
+      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
+      "latest": "2026-05-23T15:42:55.898309",
+      "ai_probability": 2.0,
+      "market_price": 2.45,
+      "edge": -0.45,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
@@ -17,48 +62,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-05-23T14:20:53.070720",
-      "ai_probability": 9.0,
-      "market_price": 8.85,
-      "edge": 0.15,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
       "latest": "2026-05-23T14:20:48.050231",
       "ai_probability": 10.0,
       "market_price": 11.25,
       "edge": -1.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-05-23T14:20:44.484319",
-      "ai_probability": 4.0,
-      "market_price": 3.45,
-      "edge": 0.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-05-23T14:20:41.086521",
-      "ai_probability": 2.2,
-      "market_price": 2.45,
-      "edge": -0.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-23T12:42:08.588197",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 32.0,
       "market_price": 27.500000000000004,
       "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
-      "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
-      "latest": "2026-05-23T06:25:21.330953",
-      "ai_probability": 45.0,
-      "market_price": 42.5,
-      "edge": 2.5,
       "confidence": "MEDIUM"
     }
   ]
