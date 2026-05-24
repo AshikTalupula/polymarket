@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-05-24T15:23:47.538960+00:00",
+  "updated_at": "2026-05-24T18:50:15.299329+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 2833,
+      "timestamp": "2026-05-24T18:43:00.384119",
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 2832,
       "timestamp": "2026-05-24T14:00:52.078808",
@@ -1186,18 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 7.449999999999999,
       "edge": -2.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 2733,
-      "timestamp": "2026-05-23T03:37:58.666916",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 25.0,
-      "market_price": 29.5,
-      "edge": -4.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0

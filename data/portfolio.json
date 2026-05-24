@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T15:23:47.542844+00:00",
+  "updated_at": "2026-05-24T18:50:15.303176+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-24T18:43:00.384119",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
@@ -132,15 +141,6 @@
       "market_price": 97.55,
       "edge": 0.45,
       "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
-      "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
-      "latest": "2026-05-24T07:44:40.486784",
-      "ai_probability": 20.0,
-      "market_price": 22.15,
-      "edge": -2.15,
-      "confidence": "MEDIUM"
     }
   ]
 }
