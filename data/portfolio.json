@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T22:03:01.550822+00:00",
+  "updated_at": "2026-05-26T00:24:02.465254+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,7 +10,7 @@
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-05-25T21:56:53.651887",
+      "latest": "2026-05-26T00:17:59.792844",
       "ai_probability": 10.0,
       "market_price": 11.25,
       "edge": -1.25,
@@ -19,16 +19,16 @@
     {
       "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
       "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-05-25T21:56:50.161788",
-      "ai_probability": 3.0,
+      "latest": "2026-05-26T00:17:25.378939",
+      "ai_probability": 4.0,
       "market_price": 3.35,
-      "edge": -0.35,
+      "edge": 0.65,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will PSG win the 2025\u201326 Champions League?",
       "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-25T21:56:46.542236",
+      "latest": "2026-05-26T00:17:21.361737",
       "ai_probability": 62.0,
       "market_price": 57.49999999999999,
       "edge": 4.5,
@@ -37,19 +37,19 @@
     {
       "market_question": "Will Norway win the 2026 FIFA World Cup?",
       "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-05-25T21:56:43.021382",
-      "ai_probability": 2.2,
+      "latest": "2026-05-26T00:17:17.989823",
+      "ai_probability": 2.0,
       "market_price": 2.45,
-      "edge": -0.25,
+      "edge": -0.45,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "US x Iran permanent peace deal by May 31, 2026?",
       "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "latest": "2026-05-25T21:56:39.430298",
+      "latest": "2026-05-26T00:17:14.624739",
       "ai_probability": 25.0,
-      "market_price": 29.5,
-      "edge": -4.5,
+      "market_price": 33.5,
+      "edge": -8.5,
       "confidence": "MEDIUM"
     },
     {
