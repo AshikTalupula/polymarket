@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T00:02:08.368213+00:00",
+  "updated_at": "2026-05-27T04:11:01.136129+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,12 +8,57 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
+      "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+      "latest": "2026-05-27T04:10:59.127372",
+      "ai_probability": 65.0,
+      "market_price": 70.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+      "latest": "2026-05-27T04:10:55.684061",
+      "ai_probability": 32.0,
+      "market_price": 29.9,
+      "edge": 2.1,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-27T00:00:16.508187",
+      "latest": "2026-05-27T04:10:52.536776",
       "ai_probability": 5.0,
-      "market_price": 2.65,
-      "edge": 2.35,
+      "market_price": 2.55,
+      "edge": 2.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of May?",
+      "market_id": "0x518a5b030b205706b8ffe6bbad9bd3de59548348e5c0471827f5de21e513333c",
+      "latest": "2026-05-27T04:10:49.012331",
+      "ai_probability": 64.0,
+      "market_price": 2.0500000000000003,
+      "edge": 61.95,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-05-27T04:10:45.632375",
+      "ai_probability": 2.0,
+      "market_price": 2.15,
+      "edge": -0.15,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
+      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "latest": "2026-05-27T04:10:25.224371",
+      "ai_probability": 20.0,
+      "market_price": 25.5,
+      "edge": -5.5,
       "confidence": "MEDIUM"
     },
     {
@@ -44,15 +89,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
-      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "latest": "2026-05-26T23:55:41.310614",
-      "ai_probability": 30.0,
-      "market_price": 23.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "US x Iran permanent peace deal by June 30, 2026?",
       "market_id": "0x6114a8a3f9ac214f48a7e20d169f1c7a5c84082cb6f7058ed9fe1137b11fd0e7",
       "latest": "2026-05-26T22:52:50.979273",
@@ -62,39 +98,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-05-26T22:50:27.088684",
-      "ai_probability": 2.0,
-      "market_price": 2.15,
-      "edge": -0.15,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
-      "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
-      "latest": "2026-05-26T21:24:04.007610",
-      "ai_probability": 65.0,
-      "market_price": 70.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Paris Saint-Germain FC win on 2026-05-30?",
       "market_id": "0xfef657b2f9ed83dd3db24c61d115203e836f9967289cd3281b6b91dcd7338104",
       "latest": "2026-05-26T21:24:00.778088",
       "ai_probability": 45.0,
       "market_price": 41.5,
       "edge": 3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
-      "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
-      "latest": "2026-05-26T21:23:57.405091",
-      "ai_probability": 32.0,
-      "market_price": 29.95,
-      "edge": 2.05,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 4.0,
       "market_price": 3.45,
       "edge": -0.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-05-26T21:23:31.233068",
-      "ai_probability": 8.0,
-      "market_price": 9.35,
-      "edge": -1.35,
       "confidence": "MEDIUM"
     }
   ]
