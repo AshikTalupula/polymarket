@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T23:32:12.907091+00:00",
+  "updated_at": "2026-05-28T01:29:37.030130+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,24 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Paris Saint-Germain FC win on 2026-05-30?",
+      "market_id": "0xfef657b2f9ed83dd3db24c61d115203e836f9967289cd3281b6b91dcd7338104",
+      "latest": "2026-05-28T01:24:08.857310",
+      "ai_probability": 45.0,
+      "market_price": 41.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will PSG win the 2025\u201326 Champions League?",
+      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
+      "latest": "2026-05-28T01:23:19.312130",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
@@ -35,15 +53,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will PSG win the 2025\u201326 Champions League?",
-      "market_id": "0x6e9f90a6f471b52d03499a81586ca478519474eb152f1327c8c767f020d62529",
-      "latest": "2026-05-27T23:25:41.320150",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Arsenal win the 2025\u201326 Champions League?",
       "market_id": "0x8df5a4256840dee05851250c0490da7593597faff3a7f9a156ccbbda7fec76f8",
       "latest": "2026-05-27T23:25:37.925334",
@@ -59,15 +68,6 @@
       "ai_probability": 18.0,
       "market_price": 13.5,
       "edge": -4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Paris Saint-Germain FC win on 2026-05-30?",
-      "market_id": "0xfef657b2f9ed83dd3db24c61d115203e836f9967289cd3281b6b91dcd7338104",
-      "latest": "2026-05-27T22:00:59.672039",
-      "ai_probability": 45.0,
-      "market_price": 41.5,
-      "edge": 3.5,
       "confidence": "MEDIUM"
     },
     {
