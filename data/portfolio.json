@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T16:57:00.664716+00:00",
+  "updated_at": "2026-05-28T19:42:40.636369+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
+      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
+      "latest": "2026-05-28T19:38:47.009070",
+      "ai_probability": 25.0,
+      "market_price": 13.5,
+      "edge": 11.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Spencer Pratt win the 2026 Los Angeles mayoral election?",
       "market_id": "0x5a965e943de13a4bdef4fb568d94341a751f02a2f652fa4fb8377d8b02f84606",
@@ -68,15 +77,6 @@
       "ai_probability": 55.0,
       "market_price": 42.5,
       "edge": 12.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by May 31, 2026?",
-      "market_id": "0x0e4a0c937b8934c2475613b6322b3f8edc8dedc24762e01e42b0e6f87424a089",
-      "latest": "2026-05-28T16:56:16.208874",
-      "ai_probability": 22.0,
-      "market_price": 15.5,
-      "edge": -6.5,
       "confidence": "MEDIUM"
     },
     {
