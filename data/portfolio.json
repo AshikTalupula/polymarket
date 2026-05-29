@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T08:37:32.589846+00:00",
+  "updated_at": "2026-05-29T11:56:15.952041+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,36 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-      "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
-      "latest": "2026-05-29T08:37:30.581567",
-      "ai_probability": 98.0,
-      "market_price": 97.55,
-      "edge": 0.45,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-05-29T08:37:27.383423",
-      "ai_probability": 4.0,
-      "market_price": 6.35,
-      "edge": -2.35,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
       "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "latest": "2026-05-29T08:37:24.030129",
+      "latest": "2026-05-29T11:56:12.260038",
       "ai_probability": 42.0,
-      "market_price": 36.5,
-      "edge": 5.5,
+      "market_price": 37.5,
+      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-05-29T08:37:20.669277",
+      "latest": "2026-05-29T11:56:08.897064",
       "ai_probability": 12.0,
       "market_price": 16.5,
       "edge": -4.5,
@@ -46,10 +28,37 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-05-29T08:37:17.402137",
-      "ai_probability": 5.0,
-      "market_price": 15.5,
-      "edge": -10.5,
+      "latest": "2026-05-29T11:56:04.233434",
+      "ai_probability": 18.0,
+      "market_price": 14.499999999999998,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
+      "latest": "2026-05-29T11:55:59.241656",
+      "ai_probability": 98.0,
+      "market_price": 97.65,
+      "edge": 0.35,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-05-29T11:55:54.102761",
+      "ai_probability": 1.0,
+      "market_price": 2.25,
+      "edge": -1.25,
+      "confidence": "LOW"
+    },
+    {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-05-29T08:37:27.383423",
+      "ai_probability": 4.0,
+      "market_price": 6.35,
+      "edge": -2.35,
       "confidence": "MEDIUM"
     },
     {
@@ -69,15 +78,6 @@
       "market_price": 3.75,
       "edge": 0.25,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-29T08:37:07.798093",
-      "ai_probability": 1.0,
-      "market_price": 2.25,
-      "edge": -1.25,
-      "confidence": "LOW"
     },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
