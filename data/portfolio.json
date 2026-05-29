@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T20:46:30.999006+00:00",
+  "updated_at": "2026-05-29T22:27:46.011244+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,78 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Los Angeles Angels vs. Tampa Bay Rays",
+      "market_id": "0xd9535524d86aac82c8024bd0ef9e53c8dabc26f0a4c2a1d6e53c2e4ef56f8d63",
+      "latest": "2026-05-29T22:27:07.515757",
+      "ai_probability": 45.0,
+      "market_price": 41.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-05-29T22:22:23.139803",
+      "ai_probability": 4.0,
+      "market_price": 6.65,
+      "edge": -2.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+      "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+      "latest": "2026-05-29T22:22:19.520044",
+      "ai_probability": 55.0,
+      "market_price": 42.5,
+      "edge": 12.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-05-29T22:22:15.924042",
+      "ai_probability": 15.0,
+      "market_price": 16.950000000000003,
+      "edge": -1.95,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-05-29T22:22:12.340777",
+      "ai_probability": 9.0,
+      "market_price": 8.55,
+      "edge": 0.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "latest": "2026-05-29T22:22:08.634123",
+      "ai_probability": 15.0,
+      "market_price": 16.650000000000002,
+      "edge": -1.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-05-29T22:22:05.228279",
+      "ai_probability": 10.0,
+      "market_price": 11.15,
+      "edge": -1.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-05-29T22:22:01.497197",
+      "ai_probability": 8.0,
+      "market_price": 9.35,
+      "edge": -1.35,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
@@ -44,69 +116,6 @@
       "confidence": "HIGH"
     },
     {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-05-29T20:43:51.553665",
-      "ai_probability": 4.0,
-      "market_price": 6.65,
-      "edge": -2.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-      "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
-      "latest": "2026-05-29T20:43:48.227545",
-      "ai_probability": 45.0,
-      "market_price": 42.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-05-29T20:43:44.585329",
-      "ai_probability": 15.0,
-      "market_price": 16.950000000000003,
-      "edge": -1.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-05-29T20:43:41.056099",
-      "ai_probability": 9.0,
-      "market_price": 8.55,
-      "edge": 0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-05-29T20:43:37.548182",
-      "ai_probability": 15.0,
-      "market_price": 16.650000000000002,
-      "edge": -1.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-05-29T20:43:34.018806",
-      "ai_probability": 9.0,
-      "market_price": 11.15,
-      "edge": -2.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-05-29T20:43:30.649641",
-      "ai_probability": 12.0,
-      "market_price": 9.35,
-      "edge": 2.65,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
       "latest": "2026-05-29T15:47:11.262384",
@@ -131,15 +140,6 @@
       "ai_probability": 42.0,
       "market_price": 37.5,
       "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-05-29T08:37:27.383423",
-      "ai_probability": 4.0,
-      "market_price": 6.35,
-      "edge": -2.35,
       "confidence": "MEDIUM"
     }
   ]
