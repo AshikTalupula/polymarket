@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T23:57:24.673063+00:00",
+  "updated_at": "2026-05-30T02:05:45.906189+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,45 +8,81 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-05-30T02:02:43.766765",
+      "ai_probability": 5.0,
+      "market_price": 14.499999999999998,
+      "edge": -9.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-05-29T23:53:45.130536",
-      "ai_probability": 2.0,
-      "market_price": 2.35,
-      "edge": -0.35,
+      "latest": "2026-05-30T02:02:40.629061",
+      "ai_probability": 5.0,
+      "market_price": 2.25,
+      "edge": 2.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
+      "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
+      "latest": "2026-05-30T02:02:37.410678",
+      "ai_probability": 98.0,
+      "market_price": 97.85000000000001,
+      "edge": 0.15,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-05-30T02:02:34.283418",
+      "ai_probability": 5.0,
+      "market_price": 6.65,
+      "edge": -1.65,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-05-29T23:50:48.379990",
+      "latest": "2026-05-30T02:02:31.000714",
       "ai_probability": 23.0,
-      "market_price": 16.950000000000003,
-      "edge": 6.05,
+      "market_price": 16.85,
+      "edge": 6.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+      "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
+      "latest": "2026-05-30T02:02:27.671879",
+      "ai_probability": 55.0,
+      "market_price": 42.5,
+      "edge": 12.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-05-29T23:50:45.164004",
-      "ai_probability": 9.0,
+      "latest": "2026-05-30T02:02:23.372569",
+      "ai_probability": 6.0,
       "market_price": 8.55,
-      "edge": 0.45,
+      "edge": -2.55,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-05-29T23:50:41.828496",
+      "latest": "2026-05-30T02:02:19.973564",
       "ai_probability": 15.0,
-      "market_price": 16.650000000000002,
-      "edge": -1.65,
+      "market_price": 16.55,
+      "edge": -1.55,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-05-29T23:50:38.551817",
+      "latest": "2026-05-30T02:02:16.622574",
       "ai_probability": 8.0,
       "market_price": 11.15,
       "edge": -3.15,
@@ -55,10 +91,10 @@
     {
       "market_question": "Will Brazil win the 2026 FIFA World Cup?",
       "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-05-29T23:50:34.241258",
-      "ai_probability": 8.0,
+      "latest": "2026-05-30T02:02:13.201939",
+      "ai_probability": 11.0,
       "market_price": 9.35,
-      "edge": -1.35,
+      "edge": 1.65,
       "confidence": "MEDIUM"
     },
     {
@@ -68,24 +104,6 @@
       "ai_probability": 45.0,
       "market_price": 41.5,
       "edge": 3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-05-29T22:22:23.139803",
-      "ai_probability": 4.0,
-      "market_price": 6.65,
-      "edge": -2.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-      "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
-      "latest": "2026-05-29T22:22:19.520044",
-      "ai_probability": 55.0,
-      "market_price": 42.5,
-      "edge": 12.5,
       "confidence": "MEDIUM"
     },
     {
@@ -107,30 +125,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will there be no change in Fed interest rates after the June 2026 meeting?",
-      "market_id": "0xde04b189b3f19eaccda02529a3ea67abfc46bff5c0c8fc42d8a2d0ed7b8f0d41",
-      "latest": "2026-05-29T20:43:54.760880",
-      "ai_probability": 98.0,
-      "market_price": 97.75,
-      "edge": 0.25,
-      "confidence": "HIGH"
-    },
-    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
       "latest": "2026-05-29T15:47:11.262384",
       "ai_probability": 12.0,
       "market_price": 16.5,
       "edge": -4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-05-29T15:47:07.870415",
-      "ai_probability": 18.0,
-      "market_price": 14.499999999999998,
-      "edge": 3.5,
       "confidence": "MEDIUM"
     },
     {
