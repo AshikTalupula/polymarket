@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-31T01:42:02.647894+00:00",
+  "updated_at": "2026-05-31T06:03:12.195486+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 3254,
+      "timestamp": "2026-05-31T06:03:04.603205",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 22.0,
+      "market_price": 18.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3253,
+      "timestamp": "2026-05-31T06:03:01.154403",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 10.0,
+      "market_price": 14.499999999999998,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3252,
+      "timestamp": "2026-05-31T06:02:55.501306",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 5.0,
+      "market_price": 2.3,
+      "edge": 2.7,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3251,
+      "timestamp": "2026-05-31T06:02:47.822684",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 1.0,
+      "market_price": 2.0,
+      "edge": -1.0,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 3250,
       "timestamp": "2026-05-31T01:36:29.377369",
@@ -1150,54 +1198,6 @@
       "ai_probability": 4.0,
       "market_price": 3.75,
       "edge": 0.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3154,
-      "timestamp": "2026-05-29T08:37:07.798093",
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "ai_probability": 1.0,
-      "market_price": 2.25,
-      "edge": -1.25,
-      "confidence": "LOW",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3153,
-      "timestamp": "2026-05-29T08:37:04.173709",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 4.0,
-      "market_price": 6.550000000000001,
-      "edge": -2.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3152,
-      "timestamp": "2026-05-29T08:37:00.804061",
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "ai_probability": 2.5,
-      "market_price": 2.85,
-      "edge": -0.35,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3151,
-      "timestamp": "2026-05-29T08:36:57.514595",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 15.0,
-      "market_price": 16.950000000000003,
-      "edge": -1.95,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
