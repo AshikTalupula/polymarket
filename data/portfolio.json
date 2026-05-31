@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T23:37:10.522144+00:00",
+  "updated_at": "2026-05-31T01:42:02.651818+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-05-31T01:36:29.377369",
+      "ai_probability": 2.0,
+      "market_price": 2.0500000000000003,
+      "edge": -0.05,
+      "confidence": "HIGH"
+    },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
@@ -132,15 +141,6 @@
       "market_price": 97.95,
       "edge": 0.05,
       "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-      "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
-      "latest": "2026-05-30T05:55:42.771753",
-      "ai_probability": 55.0,
-      "market_price": 42.5,
-      "edge": 12.5,
-      "confidence": "MEDIUM"
     }
   ]
 }
