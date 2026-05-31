@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-05-31T22:19:26.442049+00:00",
+  "updated_at": "2026-05-31T23:39:47.962209+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 3302,
+      "timestamp": "2026-05-31T23:33:44.892033",
+      "market_question": "Will Portugal win the 2026 FIFA World Cup?",
+      "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
+      "ai_probability": 8.0,
+      "market_price": 9.35,
+      "edge": -1.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3301,
+      "timestamp": "2026-05-31T23:33:41.729956",
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "ai_probability": 4.0,
+      "market_price": 3.65,
+      "edge": 0.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3300,
+      "timestamp": "2026-05-31T23:33:38.494345",
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "ai_probability": 15.0,
+      "market_price": 17.05,
+      "edge": -2.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3299,
+      "timestamp": "2026-05-31T23:33:35.245574",
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "ai_probability": 8.0,
+      "market_price": 11.15,
+      "edge": -3.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3298,
+      "timestamp": "2026-05-31T23:33:32.001131",
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "ai_probability": 12.0,
+      "market_price": 8.649999999999999,
+      "edge": 3.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 3297,
       "timestamp": "2026-05-31T22:17:36.212871",
@@ -1141,66 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
-    },
-    {
-      "id": 3202,
-      "timestamp": "2026-05-30T02:02:27.671879",
-      "market_question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
-      "market_id": "0x22e7b5e35423e76842dd3a5e1a21d13793811080d5e7b2896d0c001bd5e97d54",
-      "ai_probability": 55.0,
-      "market_price": 42.5,
-      "edge": 12.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 3201,
-      "timestamp": "2026-05-30T02:02:23.372569",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 6.0,
-      "market_price": 8.55,
-      "edge": -2.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3200,
-      "timestamp": "2026-05-30T02:02:19.973564",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 15.0,
-      "market_price": 16.55,
-      "edge": -1.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3199,
-      "timestamp": "2026-05-30T02:02:16.622574",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 8.0,
-      "market_price": 11.15,
-      "edge": -3.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3198,
-      "timestamp": "2026-05-30T02:02:13.201939",
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "ai_probability": 11.0,
-      "market_price": 9.35,
-      "edge": 1.65,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }

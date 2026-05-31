@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T22:19:26.446020+00:00",
+  "updated_at": "2026-05-31T23:39:47.966176+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,9 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
-      "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
-      "latest": "2026-05-31T22:17:36.212871",
-      "ai_probability": 20.0,
-      "market_price": 23.35,
-      "edge": -3.35,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Portugal win the 2026 FIFA World Cup?",
       "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
-      "latest": "2026-05-31T22:13:44.567067",
+      "latest": "2026-05-31T23:33:44.892033",
       "ai_probability": 8.0,
       "market_price": 9.35,
       "edge": -1.35,
@@ -28,37 +19,46 @@
     {
       "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
       "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-05-31T22:12:30.943132",
+      "latest": "2026-05-31T23:33:41.729956",
       "ai_probability": 4.0,
       "market_price": 3.65,
       "edge": 0.35,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-05-31T22:12:27.398297",
-      "ai_probability": 9.0,
-      "market_price": 11.15,
-      "edge": -2.15,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-05-31T22:12:23.814236",
+      "latest": "2026-05-31T23:33:38.494345",
       "ai_probability": 15.0,
       "market_price": 17.05,
       "edge": -2.05,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-05-31T23:33:35.245574",
+      "ai_probability": 8.0,
+      "market_price": 11.15,
+      "edge": -3.15,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Brazil win the 2026 FIFA World Cup?",
       "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-05-31T22:12:16.228293",
+      "latest": "2026-05-31T23:33:32.001131",
       "ai_probability": 12.0,
-      "market_price": 8.75,
-      "edge": 3.25,
+      "market_price": 8.649999999999999,
+      "edge": 3.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
+      "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
+      "latest": "2026-05-31T22:17:36.212871",
+      "ai_probability": 20.0,
+      "market_price": 23.35,
+      "edge": -3.35,
       "confidence": "MEDIUM"
     },
     {
