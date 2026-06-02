@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T11:21:38.910356+00:00",
+  "updated_at": "2026-06-02T15:43:26.130303+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,42 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "US x Iran permanent peace deal by June 15, 2026?",
+      "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+      "latest": "2026-06-02T15:43:14.858010",
+      "ai_probability": 20.0,
+      "market_price": 14.499999999999998,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-06-02T15:43:04.754930",
+      "ai_probability": 12.0,
+      "market_price": 16.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by June 7, 2026?",
+      "market_id": "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537",
+      "latest": "2026-06-02T15:43:01.371142",
+      "ai_probability": 8.0,
+      "market_price": 5.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-06-02T15:42:58.173053",
+      "ai_probability": 5.0,
+      "market_price": 2.65,
+      "edge": 2.35,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
       "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
@@ -26,15 +62,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-02T11:21:30.020360",
-      "ai_probability": 22.0,
-      "market_price": 16.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
       "latest": "2026-06-02T11:21:23.105030",
@@ -44,30 +71,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-06-02T11:21:19.955015",
-      "ai_probability": 4.0,
-      "market_price": 2.65,
-      "edge": -1.35,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
       "latest": "2026-06-02T11:21:16.751669",
       "ai_probability": 4.0,
       "market_price": 6.4,
       "edge": -2.4,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by June 7, 2026?",
-      "market_id": "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537",
-      "latest": "2026-06-02T11:21:13.471407",
-      "ai_probability": 8.0,
-      "market_price": 5.5,
-      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 8.0,
       "market_price": 11.15,
       "edge": -3.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-06-02T11:20:46.827324",
-      "ai_probability": 12.0,
-      "market_price": 8.450000000000001,
-      "edge": 3.55,
       "confidence": "MEDIUM"
     }
   ]
