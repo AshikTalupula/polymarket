@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T10:12:32.856837+00:00",
+  "updated_at": "2026-06-03T15:08:14.134455+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "latest": "2026-06-03T10:12:30.848392",
-      "ai_probability": 15.0,
-      "market_price": 16.45,
-      "edge": -1.45,
+      "market_question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
+      "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
+      "latest": "2026-06-03T15:08:12.125044",
+      "ai_probability": 70.0,
+      "market_price": 73.5,
+      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-06-03T10:12:27.273445",
+      "latest": "2026-06-03T15:08:08.643049",
       "ai_probability": 4.0,
       "market_price": 6.35,
       "edge": -2.35,
@@ -28,25 +28,25 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-03T10:12:23.647098",
-      "ai_probability": 73.0,
-      "market_price": 16.5,
-      "edge": 19.5,
-      "confidence": "HIGH"
+      "latest": "2026-06-03T15:08:04.824263",
+      "ai_probability": 25.0,
+      "market_price": 17.5,
+      "edge": 7.5,
+      "confidence": "MEDIUM"
     },
     {
       "market_question": "US x Iran permanent peace deal by June 15, 2026?",
       "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
-      "latest": "2026-06-03T10:12:20.139011",
-      "ai_probability": 8.0,
-      "market_price": 13.5,
-      "edge": -5.5,
+      "latest": "2026-06-03T15:08:01.463620",
+      "ai_probability": 5.0,
+      "market_price": 11.5,
+      "edge": -6.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-06-03T10:12:17.216080",
+      "latest": "2026-06-03T15:07:58.565577",
       "ai_probability": 5.0,
       "market_price": 15.5,
       "edge": -10.5,
@@ -55,37 +55,37 @@
     {
       "market_question": "Will the Iranian regime fall by June 30?",
       "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-06-03T10:12:13.655013",
-      "ai_probability": 5.0,
-      "market_price": 2.45,
-      "edge": 2.55,
+      "latest": "2026-06-03T15:07:53.501586",
+      "ai_probability": 2.0,
+      "market_price": 2.65,
+      "edge": -0.65,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "US x Iran permanent peace deal by June 7, 2026?",
       "market_id": "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537",
-      "latest": "2026-06-03T10:12:10.027746",
+      "latest": "2026-06-03T15:07:50.124139",
       "ai_probability": 2.0,
-      "market_price": 3.2,
-      "edge": -1.2,
-      "confidence": "MEDIUM"
+      "market_price": 3.75,
+      "edge": -1.75,
+      "confidence": "HIGH"
     },
     {
       "market_question": "Will Roberto S\u00e1nchez Palomino win the 2026 Peruvian presidential election?",
       "market_id": "0x2cd24d17f5680dc6e7b7d67c712a223ae85550745597e81bd2d2b8d073443951",
-      "latest": "2026-06-03T10:12:06.217315",
+      "latest": "2026-06-03T15:07:46.666142",
       "ai_probability": 25.0,
-      "market_price": 26.75,
-      "edge": -1.75,
-      "confidence": "LOW"
+      "market_price": 26.900000000000002,
+      "edge": -1.9,
+      "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
-      "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
-      "latest": "2026-06-03T05:13:20.298621",
-      "ai_probability": 72.0,
-      "market_price": 75.5,
-      "edge": -3.5,
+      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
+      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
+      "latest": "2026-06-03T10:12:30.848392",
+      "ai_probability": 15.0,
+      "market_price": 16.45,
+      "edge": -1.45,
       "confidence": "MEDIUM"
     },
     {
