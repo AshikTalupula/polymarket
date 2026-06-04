@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-06-04T08:39:28.390616+00:00",
+  "updated_at": "2026-06-04T11:39:56.434311+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 3575,
+      "timestamp": "2026-06-04T11:39:52.810929",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 12.0,
+      "market_price": 16.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3574,
+      "timestamp": "2026-06-04T11:39:47.994168",
+      "market_question": "US x Iran permanent peace deal by June 7, 2026?",
+      "market_id": "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537",
+      "ai_probability": 6.0,
+      "market_price": 4.45,
+      "edge": 1.55,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3573,
+      "timestamp": "2026-06-04T11:39:43.555605",
+      "market_question": "US x Iran permanent peace deal by June 15, 2026?",
+      "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+      "ai_probability": 8.0,
+      "market_price": 14.499999999999998,
+      "edge": -6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 3572,
+      "timestamp": "2026-06-04T11:39:40.332766",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 2.0,
+      "market_price": 2.25,
+      "edge": -0.25,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3571,
+      "timestamp": "2026-06-04T11:39:37.031760",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 5.0,
+      "market_price": 14.499999999999998,
+      "edge": -9.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 3570,
       "timestamp": "2026-06-04T08:39:26.386205",
@@ -1141,66 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 3475,
-      "timestamp": "2026-06-03T00:03:50.362569",
-      "market_question": "Will Keiko Fujimori win the 2026 Peruvian presidential election?",
-      "market_id": "0xc4c3dbcc37a957a817599b0bf9fb5bd6b62b19210b0f527fec57cb75c7ed150a",
-      "ai_probability": 72.0,
-      "market_price": 75.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3474,
-      "timestamp": "2026-06-03T00:03:44.429330",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 22.0,
-      "market_price": 17.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3473,
-      "timestamp": "2026-06-03T00:03:41.058432",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 4.0,
-      "market_price": 6.25,
-      "edge": -2.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3472,
-      "timestamp": "2026-06-03T00:03:37.637809",
-      "market_question": "US x Iran permanent peace deal by June 15, 2026?",
-      "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
-      "ai_probability": 8.0,
-      "market_price": 13.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 3471,
-      "timestamp": "2026-06-03T00:03:34.721068",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 5.0,
-      "market_price": 15.5,
-      "edge": -10.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
     }
   ]
 }
