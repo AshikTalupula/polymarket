@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-06-04T22:50:35.182210+00:00",
+  "updated_at": "2026-06-05T00:01:52.074593+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 3633,
+      "timestamp": "2026-06-04T23:58:46.186888",
+      "market_question": "US x Iran permanent peace deal by June 7, 2026?",
+      "market_id": "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537",
+      "ai_probability": 2.0,
+      "market_price": 2.85,
+      "edge": -0.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3632,
+      "timestamp": "2026-06-04T23:58:42.586368",
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "ai_probability": 5.0,
+      "market_price": 2.35,
+      "edge": 2.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 3631,
+      "timestamp": "2026-06-04T23:58:39.232944",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 5.0,
+      "market_price": 14.499999999999998,
+      "edge": -9.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 3630,
       "timestamp": "2026-06-04T22:50:33.177733",
@@ -1165,42 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_NO",
       "acted_on": 1
-    },
-    {
-      "id": 3533,
-      "timestamp": "2026-06-03T21:58:34.759577",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 15.0,
-      "market_price": 16.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3532,
-      "timestamp": "2026-06-03T21:58:31.356705",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 23.0,
-      "market_price": 17.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 3531,
-      "timestamp": "2026-06-03T21:58:27.538947",
-      "market_question": "US x Iran permanent peace deal by June 7, 2026?",
-      "market_id": "0x366f89649caea042c96ee741b185461ec7faa408a2664ec44469a0061924b537",
-      "ai_probability": 2.5,
-      "market_price": 4.7,
-      "edge": -2.2,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
