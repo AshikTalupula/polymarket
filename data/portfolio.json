@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T14:13:21.594355+00:00",
+  "updated_at": "2026-06-05T16:45:35.781982+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,10 +10,55 @@
     {
       "market_question": "Trump out as President before 2027?",
       "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "latest": "2026-06-05T14:13:19.585931",
+      "latest": "2026-06-05T16:45:33.773185",
       "ai_probability": 15.0,
-      "market_price": 10.5,
-      "edge": 4.5,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-06-05T16:44:10.732746",
+      "ai_probability": 23.0,
+      "market_price": 16.0,
+      "edge": 7.0,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Roland Garros ATP: Matteo Arnaldi vs Flavio Cobolli",
+      "market_id": "0xd14c2ee48e14082291c8a21d18613883e71ce3a5f31459553c979fb6982dbc7e",
+      "latest": "2026-06-05T16:44:07.529479",
+      "ai_probability": 42.0,
+      "market_price": 33.5,
+      "edge": 8.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by June 15, 2026?",
+      "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+      "latest": "2026-06-05T16:44:04.370250",
+      "ai_probability": 8.0,
+      "market_price": 11.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-06-05T16:43:59.343204",
+      "ai_probability": 1.0,
+      "market_price": 2.0500000000000003,
+      "edge": -1.05,
+      "confidence": "LOW"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-06-05T16:43:55.966549",
+      "ai_probability": 5.0,
+      "market_price": 14.499999999999998,
+      "edge": -9.5,
       "confidence": "MEDIUM"
     },
     {
@@ -35,48 +80,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-05T14:13:09.277208",
-      "ai_probability": 22.0,
-      "market_price": 16.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by June 15, 2026?",
-      "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
-      "latest": "2026-06-05T14:13:04.971962",
-      "ai_probability": 8.0,
-      "market_price": 11.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
       "latest": "2026-06-05T14:13:00.930764",
       "ai_probability": 4.0,
       "market_price": 6.25,
       "edge": -2.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall by June 30?",
-      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
-      "latest": "2026-06-05T14:12:57.399223",
-      "ai_probability": 4.0,
-      "market_price": 2.35,
-      "edge": -1.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-06-05T14:12:53.991154",
-      "ai_probability": 5.0,
-      "market_price": 14.499999999999998,
-      "edge": -9.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 9.0,
       "market_price": 8.35,
       "edge": 0.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-06-05T14:12:27.141115",
-      "ai_probability": 10.0,
-      "market_price": 11.35,
-      "edge": -1.35,
       "confidence": "MEDIUM"
     }
   ]
