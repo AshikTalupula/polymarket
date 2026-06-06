@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T21:39:34.165708+00:00",
+  "updated_at": "2026-06-06T23:55:22.524162+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,36 +8,36 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
-      "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
-      "latest": "2026-06-06T21:33:29.939803",
-      "ai_probability": 25.0,
-      "market_price": 21.349999999999998,
-      "edge": 3.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-06-06T21:33:26.132757",
-      "ai_probability": 8.0,
-      "market_price": 11.25,
-      "edge": -3.25,
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "latest": "2026-06-06T23:49:20.135162",
+      "ai_probability": 15.0,
+      "market_price": 16.150000000000002,
+      "edge": -1.15,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
       "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-06-06T21:33:22.880741",
+      "latest": "2026-06-06T23:49:11.737766",
       "ai_probability": 4.0,
       "market_price": 3.95,
       "edge": 0.05,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-06-06T23:49:08.553623",
+      "ai_probability": 12.0,
+      "market_price": 11.15,
+      "edge": 0.85,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Brazil win the 2026 FIFA World Cup?",
       "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-06-06T21:33:19.391273",
+      "latest": "2026-06-06T23:49:05.245069",
       "ai_probability": 12.0,
       "market_price": 8.25,
       "edge": 3.75,
@@ -46,10 +46,19 @@
     {
       "market_question": "Spurs vs. Knicks",
       "market_id": "0x0923f4cd56ffdd032deca9984f9779303b58c6ef9317c0c6490acccb477ba150",
-      "latest": "2026-06-06T21:33:15.951437",
-      "ai_probability": 51.0,
-      "market_price": 44.5,
-      "edge": 6.5,
+      "latest": "2026-06-06T23:49:01.985941",
+      "ai_probability": 55.0,
+      "market_price": 45.5,
+      "edge": 9.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "market_id": "0xb6b3d7a2037b3faa7e1306d741840d453432902d73cc9a146a035e40271eae73",
+      "latest": "2026-06-06T21:33:29.939803",
+      "ai_probability": 25.0,
+      "market_price": 21.349999999999998,
+      "edge": 3.65,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 5.0,
       "market_price": 14.499999999999998,
       "edge": -9.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Trump out as President before 2027?",
-      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "latest": "2026-06-06T08:14:35.583951",
-      "ai_probability": 15.0,
-      "market_price": 10.0,
-      "edge": 5.0,
       "confidence": "MEDIUM"
     }
   ]
