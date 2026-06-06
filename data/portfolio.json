@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:59:06.187365+00:00",
+  "updated_at": "2026-06-06T15:25:56.836445+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,10 +10,28 @@
     {
       "market_question": "Spurs vs. Knicks",
       "market_id": "0x0923f4cd56ffdd032deca9984f9779303b58c6ef9317c0c6490acccb477ba150",
-      "latest": "2026-06-06T13:53:38.305691",
-      "ai_probability": 55.0,
+      "latest": "2026-06-06T15:19:16.028251",
+      "ai_probability": 51.0,
       "market_price": 45.5,
-      "edge": 9.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-06-06T15:19:11.114786",
+      "ai_probability": 9.0,
+      "market_price": 8.25,
+      "edge": 0.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "latest": "2026-06-06T15:19:07.790372",
+      "ai_probability": 4.0,
+      "market_price": 3.95,
+      "edge": 0.05,
       "confidence": "MEDIUM"
     },
     {
@@ -68,24 +86,6 @@
       "ai_probability": 9.0,
       "market_price": 11.25,
       "edge": -2.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-06-06T11:55:24.486290",
-      "ai_probability": 4.0,
-      "market_price": 3.95,
-      "edge": 0.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-06-06T11:55:20.856648",
-      "ai_probability": 12.0,
-      "market_price": 8.25,
-      "edge": 3.75,
       "confidence": "MEDIUM"
     },
     {
