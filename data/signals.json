@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-06-06T19:05:30.986304+00:00",
+  "updated_at": "2026-06-06T20:24:31.538935+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 3755,
+      "timestamp": "2026-06-06T20:17:47.309115",
+      "market_question": "Spurs vs. Knicks",
+      "market_id": "0x0923f4cd56ffdd032deca9984f9779303b58c6ef9317c0c6490acccb477ba150",
+      "ai_probability": 51.0,
+      "market_price": 46.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 3754,
       "timestamp": "2026-06-06T18:59:28.124239",
@@ -1189,18 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 3655,
-      "timestamp": "2026-06-05T08:35:41.043978",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 5.0,
-      "market_price": 14.499999999999998,
-      "edge": -9.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
     }
   ]
 }

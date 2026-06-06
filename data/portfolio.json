@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T19:05:30.990160+00:00",
+  "updated_at": "2026-06-06T20:24:31.542930+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,21 +8,21 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Spurs vs. Knicks",
+      "market_id": "0x0923f4cd56ffdd032deca9984f9779303b58c6ef9317c0c6490acccb477ba150",
+      "latest": "2026-06-06T20:17:47.309115",
+      "ai_probability": 51.0,
+      "market_price": 46.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Norway win the 2026 FIFA World Cup?",
       "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
       "latest": "2026-06-06T18:59:28.124239",
       "ai_probability": 2.3,
       "market_price": 2.65,
       "edge": -0.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Spurs vs. Knicks",
-      "market_id": "0x0923f4cd56ffdd032deca9984f9779303b58c6ef9317c0c6490acccb477ba150",
-      "latest": "2026-06-06T18:58:35.726932",
-      "ai_probability": 55.0,
-      "market_price": 45.5,
-      "edge": 9.5,
       "confidence": "MEDIUM"
     },
     {
