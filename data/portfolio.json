@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T16:17:30.516805+00:00",
+  "updated_at": "2026-06-08T18:39:46.910761+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,12 +8,66 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Crude Oil (CL) hit (HIGH) $140 by end of June?",
+      "market_id": "0x0443a503a38b90446c8a3826db5ee1323144197ef2b4ed09bcdf545ac104dfcb",
+      "latest": "2026-06-08T18:39:44.903617",
+      "ai_probability": 5.0,
+      "market_price": 3.05,
+      "edge": 1.95,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
       "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "latest": "2026-06-08T16:17:28.508282",
-      "ai_probability": 42.0,
-      "market_price": 33.95,
-      "edge": 8.05,
+      "latest": "2026-06-08T18:39:41.670558",
+      "ai_probability": 40.0,
+      "market_price": 33.85,
+      "edge": 6.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-06-08T18:39:38.108482",
+      "ai_probability": 22.0,
+      "market_price": 17.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "latest": "2026-06-08T18:39:32.419946",
+      "ai_probability": 5.0,
+      "market_price": 10.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-06-08T18:39:29.105154",
+      "ai_probability": 0.0,
+      "market_price": 2.0500000000000003,
+      "edge": -2.05,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "US x Iran permanent peace deal by June 15, 2026?",
+      "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+      "latest": "2026-06-08T18:39:25.570644",
+      "ai_probability": 3.0,
+      "market_price": 5.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-06-08T18:39:22.065971",
+      "ai_probability": 15.0,
+      "market_price": 13.5,
+      "edge": 1.5,
       "confidence": "MEDIUM"
     },
     {
@@ -32,51 +86,6 @@
       "ai_probability": 5.0,
       "market_price": 6.950000000000001,
       "edge": -1.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-08T16:17:17.666834",
-      "ai_probability": 22.0,
-      "market_price": 17.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "latest": "2026-06-08T16:17:14.162834",
-      "ai_probability": 5.0,
-      "market_price": 10.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-06-08T16:17:10.857321",
-      "ai_probability": 2.0,
-      "market_price": 2.0500000000000003,
-      "edge": -0.05,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-06-08T16:17:07.627614",
-      "ai_probability": 15.0,
-      "market_price": 13.5,
-      "edge": 1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "US x Iran permanent peace deal by June 15, 2026?",
-      "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
-      "latest": "2026-06-08T16:17:04.359830",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
       "confidence": "MEDIUM"
     },
     {
@@ -122,15 +131,6 @@
       "ai_probability": 2.5,
       "market_price": 2.15,
       "edge": 0.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Crude Oil (CL) hit (HIGH) $140 by end of June?",
-      "market_id": "0x0443a503a38b90446c8a3826db5ee1323144197ef2b4ed09bcdf545ac104dfcb",
-      "latest": "2026-06-08T12:02:27.763772",
-      "ai_probability": 5.0,
-      "market_price": 3.35,
-      "edge": 1.65,
       "confidence": "MEDIUM"
     },
     {
