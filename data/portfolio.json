@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T19:59:50.787471+00:00",
+  "updated_at": "2026-06-10T22:19:45.758517+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-06-10T22:17:17.523089",
+      "ai_probability": 1.0,
+      "market_price": 2.15,
+      "edge": -1.15,
+      "confidence": "HIGH"
+    },
     {
       "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
       "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
@@ -51,15 +60,6 @@
       "market_price": 17.5,
       "edge": 7.5,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-06-10T19:58:59.464649",
-      "ai_probability": 2.0,
-      "market_price": 2.15,
-      "edge": -0.15,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
