@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T02:01:29.426364+00:00",
+  "updated_at": "2026-06-10T06:28:40.843529+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,13 +8,58 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
+      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
+      "latest": "2026-06-10T06:28:38.835335",
+      "ai_probability": 12.0,
+      "market_price": 14.7,
+      "edge": -2.7,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "latest": "2026-06-10T06:28:32.106072",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-06-10T06:28:28.902651",
+      "ai_probability": 35.0,
+      "market_price": 17.5,
+      "edge": 17.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-06-10T06:28:25.681521",
+      "ai_probability": 0.0,
+      "market_price": 2.15,
+      "edge": -2.15,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-06-10T06:28:22.252004",
+      "ai_probability": 15.0,
+      "market_price": 13.5,
+      "edge": 1.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "US x Iran permanent peace deal by June 15, 2026?",
       "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
-      "latest": "2026-06-10T01:57:08.212107",
+      "latest": "2026-06-10T06:28:12.167136",
       "ai_probability": 2.0,
       "market_price": 4.5,
       "edge": -2.5,
-      "confidence": "MEDIUM"
+      "confidence": "HIGH"
     },
     {
       "market_question": "Will Germany win the 2026 FIFA World Cup?",
@@ -95,51 +140,6 @@
       "ai_probability": 10.0,
       "market_price": 14.45,
       "edge": -4.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-06-09T16:36:07.880709",
-      "ai_probability": 4.0,
-      "market_price": 6.550000000000001,
-      "edge": -2.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-09T16:36:04.670835",
-      "ai_probability": 22.0,
-      "market_price": 17.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "latest": "2026-06-09T16:36:01.381637",
-      "ai_probability": 8.0,
-      "market_price": 10.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-06-09T16:35:58.012701",
-      "ai_probability": 0.0,
-      "market_price": 2.0500000000000003,
-      "edge": -2.05,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-06-09T16:35:51.193756",
-      "ai_probability": 15.0,
-      "market_price": 13.5,
-      "edge": 1.5,
       "confidence": "MEDIUM"
     }
   ]
