@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-06-09T23:52:02.575840+00:00",
+  "updated_at": "2026-06-10T02:01:29.422438+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 3973,
+      "timestamp": "2026-06-10T01:57:08.212107",
+      "market_question": "US x Iran permanent peace deal by June 15, 2026?",
+      "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+      "ai_probability": 2.0,
+      "market_price": 4.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 3972,
       "timestamp": "2026-06-09T23:47:11.142401",
@@ -1187,18 +1199,6 @@
       "market_price": 2.0500000000000003,
       "edge": -0.05,
       "confidence": "HIGH",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3873,
-      "timestamp": "2026-06-08T16:17:07.627614",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 15.0,
-      "market_price": 13.5,
-      "edge": 1.5,
-      "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
     }
