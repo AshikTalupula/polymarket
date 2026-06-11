@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T12:51:36.958408+00:00",
+  "updated_at": "2026-06-11T16:57:32.474121+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,57 +8,75 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Netherlands win on 2026-06-14?",
+      "market_id": "0x2153377bdb8920a0d3227e9a2a68ddb9a001025918b695fe55f66677836e62c6",
+      "latest": "2026-06-11T16:57:30.436765",
+      "ai_probability": 51.0,
+      "market_price": 46.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "UFC Freedom 250: Justin Gaethje vs. Ilia Topuria (Lightweight, Main Card)",
       "market_id": "0xed4fa0c7a11d55f2c3bcb5e13d94d10b0dced33d7f195748990be092b70952c3",
-      "latest": "2026-06-11T12:51:33.168727",
-      "ai_probability": 25.0,
+      "latest": "2026-06-11T16:57:27.042340",
+      "ai_probability": 23.0,
       "market_price": 19.5,
-      "edge": -5.5,
+      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-11T12:51:29.510051",
-      "ai_probability": 67.0,
-      "market_price": 23.5,
-      "edge": 43.5,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "latest": "2026-06-11T12:51:24.207513",
-      "ai_probability": 25.0,
-      "market_price": 7.5,
-      "edge": 17.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Knicks vs. Spurs",
-      "market_id": "0xd90bf5f45f24c5de7881707cb5374f3d991388a2d220fa7e0fe2be912cd7642a",
-      "latest": "2026-06-11T12:51:20.707031",
-      "ai_probability": 42.0,
-      "market_price": 35.5,
+      "latest": "2026-06-11T16:57:21.183801",
+      "ai_probability": 32.0,
+      "market_price": 25.5,
       "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "latest": "2026-06-11T16:57:17.924673",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall by June 30?",
+      "market_id": "0x9352c559e9648ab4cab236087b64ca85c5b7123a4c7d9d7d4efde4a39c18056f",
+      "latest": "2026-06-11T16:57:14.644399",
+      "ai_probability": 1.0,
+      "market_price": 2.0500000000000003,
+      "edge": -1.05,
+      "confidence": "LOW"
+    },
+    {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-06-11T12:51:17.313835",
+      "latest": "2026-06-11T16:57:11.118903",
       "ai_probability": 5.0,
       "market_price": 10.5,
       "edge": -5.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Knicks vs. Spurs",
+      "market_id": "0xd90bf5f45f24c5de7881707cb5374f3d991388a2d220fa7e0fe2be912cd7642a",
+      "latest": "2026-06-11T16:57:07.786679",
+      "ai_probability": 42.0,
+      "market_price": 35.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "US x Iran permanent peace deal by June 15, 2026?",
       "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
-      "latest": "2026-06-11T12:51:13.941373",
+      "latest": "2026-06-11T16:57:04.455012",
       "ai_probability": 2.0,
-      "market_price": 3.65,
-      "edge": -1.65,
+      "market_price": 3.8,
+      "edge": -1.8,
       "confidence": "HIGH"
     },
     {
@@ -123,24 +141,6 @@
       "market_price": 2.45,
       "edge": -0.45,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-06-10T23:52:07.634847",
-      "ai_probability": 3.8,
-      "market_price": 4.05,
-      "edge": -0.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-06-10T22:17:17.523089",
-      "ai_probability": 1.0,
-      "market_price": 2.15,
-      "edge": -1.15,
-      "confidence": "HIGH"
     }
   ]
 }
