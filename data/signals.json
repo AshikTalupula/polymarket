@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-11T16:57:32.470179+00:00",
+  "updated_at": "2026-06-11T19:41:37.863035+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 4060,
+      "timestamp": "2026-06-11T19:38:18.760838",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "ai_probability": 15.0,
+      "market_price": 20.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 4059,
+      "timestamp": "2026-06-11T19:38:15.223755",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 5.0,
+      "market_price": 10.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 4058,
+      "timestamp": "2026-06-11T19:38:11.902064",
+      "market_question": "Knicks vs. Spurs",
+      "market_id": "0xd90bf5f45f24c5de7881707cb5374f3d991388a2d220fa7e0fe2be912cd7642a",
+      "ai_probability": 42.0,
+      "market_price": 35.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 4057,
+      "timestamp": "2026-06-11T19:38:08.433794",
+      "market_question": "US x Iran permanent peace deal by June 15, 2026?",
+      "market_id": "0xd86a816093fcd0a0e1ca440bc5ce199bd3c5a8d6139e044b076958164f8c5423",
+      "ai_probability": 5.0,
+      "market_price": 15.4,
+      "edge": -10.4,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 4056,
       "timestamp": "2026-06-11T16:57:30.436765",
@@ -1150,54 +1198,6 @@
       "ai_probability": 15.0,
       "market_price": 16.150000000000002,
       "edge": -1.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3960,
-      "timestamp": "2026-06-09T20:35:45.234033",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 11.0,
-      "market_price": 10.95,
-      "edge": 0.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3959,
-      "timestamp": "2026-06-09T20:35:41.915268",
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "ai_probability": 4.0,
-      "market_price": 3.95,
-      "edge": 0.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3958,
-      "timestamp": "2026-06-09T20:35:38.527076",
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "ai_probability": 2.3,
-      "market_price": 2.55,
-      "edge": -0.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 3957,
-      "timestamp": "2026-06-09T16:36:11.335093",
-      "market_question": "Will Gavin Newsom win the 2028 US Presidential Election?",
-      "market_id": "0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57",
-      "ai_probability": 10.0,
-      "market_price": 14.45,
-      "edge": -4.45,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
