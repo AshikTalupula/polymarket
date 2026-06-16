@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T07:41:25.377045+00:00",
+  "updated_at": "2026-06-16T12:33:03.215860+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,10 +10,46 @@
     {
       "market_question": "Will Trump acquire Greenland before 2027?",
       "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "latest": "2026-06-16T07:41:23.368851",
+      "latest": "2026-06-16T12:32:58.779791",
       "ai_probability": 2.0,
-      "market_price": 5.949999999999999,
-      "edge": -3.95,
+      "market_price": 5.8500000000000005,
+      "edge": -3.85,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-06-16T12:32:53.316727",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-06-16T12:32:47.027209",
+      "ai_probability": 8.0,
+      "market_price": 12.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "latest": "2026-06-16T12:32:43.573231",
+      "ai_probability": 23.0,
+      "market_price": 16.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-06-16T12:32:39.854676",
+      "ai_probability": 5.0,
+      "market_price": 9.5,
+      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
@@ -35,48 +71,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-06-16T07:41:13.553911",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
       "latest": "2026-06-16T07:41:10.382296",
       "ai_probability": 5.0,
       "market_price": 6.15,
       "edge": -1.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-16T07:41:07.129737",
-      "ai_probability": 8.0,
-      "market_price": 12.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "latest": "2026-06-16T07:41:04.018659",
-      "ai_probability": 82.0,
-      "market_price": 17.5,
-      "edge": 64.5,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-06-16T07:41:00.947054",
-      "ai_probability": 5.0,
-      "market_price": 9.5,
-      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
