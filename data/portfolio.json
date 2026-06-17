@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T05:13:09.467970+00:00",
+  "updated_at": "2026-06-17T10:10:37.217159+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,52 +10,70 @@
     {
       "market_question": "Will Trump acquire Greenland before 2027?",
       "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "latest": "2026-06-17T05:13:07.459502",
-      "ai_probability": 2.0,
-      "market_price": 5.8500000000000005,
-      "edge": -3.85,
+      "latest": "2026-06-17T10:10:35.208596",
+      "ai_probability": 3.0,
+      "market_price": 5.75,
+      "edge": -2.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "latest": "2026-06-17T10:10:31.532019",
+      "ai_probability": 62.0,
+      "market_price": 56.49999999999999,
+      "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will JD Vance win the 2028 US Presidential Election?",
       "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "latest": "2026-06-17T05:13:04.261037",
+      "latest": "2026-06-17T10:10:28.711002",
       "ai_probability": 15.0,
-      "market_price": 16.150000000000002,
-      "edge": -1.15,
+      "market_price": 16.55,
+      "edge": -1.55,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-06-17T05:12:59.315487",
+      "latest": "2026-06-17T10:10:25.377218",
       "ai_probability": 15.0,
       "market_price": 9.5,
       "edge": -5.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-06-17T10:10:21.876273",
+      "ai_probability": 4.0,
+      "market_price": 6.550000000000001,
+      "edge": -2.55,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-17T05:12:54.232143",
-      "ai_probability": 8.0,
+      "latest": "2026-06-17T10:10:18.485481",
+      "ai_probability": 15.0,
       "market_price": 12.5,
-      "edge": -4.5,
+      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
       "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "latest": "2026-06-17T05:12:51.044403",
-      "ai_probability": 22.0,
-      "market_price": 17.5,
-      "edge": -4.5,
+      "latest": "2026-06-17T10:10:14.943274",
+      "ai_probability": 35.0,
+      "market_price": 18.5,
+      "edge": 16.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-06-17T05:12:47.767817",
+      "latest": "2026-06-17T10:10:11.602676",
       "ai_probability": 5.0,
       "market_price": 9.5,
       "edge": -4.5,
@@ -77,15 +95,6 @@
       "ai_probability": 10.0,
       "market_price": 14.45,
       "edge": -4.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-06-17T00:03:50.909329",
-      "ai_probability": 4.0,
-      "market_price": 6.75,
-      "edge": -2.75,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 15.0,
       "market_price": 13.55,
       "edge": 1.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-06-16T22:34:21.916167",
-      "ai_probability": 12.0,
-      "market_price": 10.15,
-      "edge": 1.85,
       "confidence": "MEDIUM"
     }
   ]
