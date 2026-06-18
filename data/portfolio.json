@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T01:40:53.805715+00:00",
+  "updated_at": "2026-06-18T06:31:00.356628+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,12 +8,75 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Trump out as President before 2027?",
+      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
+      "latest": "2026-06-18T06:30:58.348292",
+      "ai_probability": 15.0,
+      "market_price": 10.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
       "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
-      "latest": "2026-06-18T01:40:51.797251",
+      "latest": "2026-06-18T06:30:54.559701",
       "ai_probability": 15.0,
       "market_price": 12.5,
       "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Israel x Iran permanent peace deal by June 30, 2026?",
+      "market_id": "0x5efa976ebe94080bbda7e45605333ff8f30156cc91604d66c41eb52fd3e25f3e",
+      "latest": "2026-06-18T06:30:51.238827",
+      "ai_probability": 5.0,
+      "market_price": 8.200000000000001,
+      "edge": -3.2,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-06-18T06:30:47.905589",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-06-18T06:30:44.606119",
+      "ai_probability": 8.0,
+      "market_price": 12.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-06-18T06:30:41.408959",
+      "ai_probability": 4.0,
+      "market_price": 6.25,
+      "edge": -2.25,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "latest": "2026-06-18T06:30:38.192592",
+      "ai_probability": 45.0,
+      "market_price": 21.5,
+      "edge": 23.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-06-18T06:30:34.857238",
+      "ai_probability": 5.0,
+      "market_price": 9.5,
+      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
@@ -23,60 +86,6 @@
       "ai_probability": 5.0,
       "market_price": 95.5,
       "edge": -90.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Israel x Iran permanent peace deal by June 30, 2026?",
-      "market_id": "0x5efa976ebe94080bbda7e45605333ff8f30156cc91604d66c41eb52fd3e25f3e",
-      "latest": "2026-06-18T01:40:44.948788",
-      "ai_probability": 15.0,
-      "market_price": 8.55,
-      "edge": -6.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-06-18T01:40:41.441843",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-18T01:40:38.125151",
-      "ai_probability": 8.0,
-      "market_price": 12.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-06-18T01:40:34.899199",
-      "ai_probability": 4.0,
-      "market_price": 6.45,
-      "edge": -2.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "latest": "2026-06-18T01:40:31.533550",
-      "ai_probability": 67.0,
-      "market_price": 23.5,
-      "edge": 43.5,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-06-18T01:40:28.396119",
-      "ai_probability": 5.0,
-      "market_price": 9.5,
-      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 8.0,
       "market_price": 11.55,
       "edge": -3.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Trump out as President before 2027?",
-      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "latest": "2026-06-17T23:07:26.729402",
-      "ai_probability": 15.0,
-      "market_price": 10.5,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     }
   ]
