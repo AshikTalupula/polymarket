@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-06-19T18:18:14.964191+00:00",
+  "updated_at": "2026-06-19T20:12:19.341440+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 4646,
+      "timestamp": "2026-06-19T20:10:28.642111",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 8.0,
+      "market_price": 13.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 4645,
+      "timestamp": "2026-06-19T20:08:41.721540",
+      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 4644,
+      "timestamp": "2026-06-19T20:08:38.300678",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 5.0,
+      "market_price": 9.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 4643,
       "timestamp": "2026-06-19T18:18:12.959698",
@@ -1162,42 +1198,6 @@
       "ai_probability": 15.0,
       "market_price": 10.5,
       "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4546,
-      "timestamp": "2026-06-18T10:58:19.627330",
-      "market_question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
-      "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
-      "ai_probability": 15.0,
-      "market_price": 11.5,
-      "edge": 3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4545,
-      "timestamp": "2026-06-18T10:58:16.293385",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 4544,
-      "timestamp": "2026-06-18T10:58:12.846276",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 8.0,
-      "market_price": 12.5,
-      "edge": -4.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
