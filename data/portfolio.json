@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T21:40:10.433616+00:00",
+  "updated_at": "2026-06-19T23:52:43.018081+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-06-19T23:46:01.477389",
+      "ai_probability": 9.0,
+      "market_price": 11.75,
+      "edge": -2.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "latest": "2026-06-19T23:45:58.221397",
+      "ai_probability": 15.0,
+      "market_price": 18.45,
+      "edge": -3.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-06-19T23:45:54.709141",
+      "ai_probability": 12.0,
+      "market_price": 13.65,
+      "edge": -1.65,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Brazil win the 2026 FIFA World Cup?",
       "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
@@ -23,33 +50,6 @@
       "ai_probability": 10.0,
       "market_price": 12.75,
       "edge": -2.75,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-06-19T21:34:01.191396",
-      "ai_probability": 15.0,
-      "market_price": 11.75,
-      "edge": 3.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-06-19T21:33:57.728761",
-      "ai_probability": 15.0,
-      "market_price": 18.45,
-      "edge": -3.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-06-19T21:33:54.462223",
-      "ai_probability": 15.0,
-      "market_price": 13.65,
-      "edge": 1.35,
       "confidence": "MEDIUM"
     },
     {
