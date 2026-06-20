@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T02:00:45.094972+00:00",
+  "updated_at": "2026-06-20T06:26:08.427505+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,78 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
+      "latest": "2026-06-20T06:26:06.418163",
+      "ai_probability": 25.0,
+      "market_price": 23.5,
+      "edge": 1.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
+      "latest": "2026-06-20T06:26:02.893775",
+      "ai_probability": 2.0,
+      "market_price": 2.65,
+      "edge": -0.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-06-20T06:25:59.505845",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-06-20T06:25:56.090132",
+      "ai_probability": 18.0,
+      "market_price": 13.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": " Iran agrees to end enrichment of uranium by June 30?",
+      "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
+      "latest": "2026-06-20T06:25:52.371303",
+      "ai_probability": 8.0,
+      "market_price": 5.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-06-20T06:25:48.655073",
+      "ai_probability": 5.0,
+      "market_price": 6.45,
+      "edge": -1.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "latest": "2026-06-20T06:25:45.063550",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-06-20T06:25:41.668736",
+      "ai_probability": 5.0,
+      "market_price": 9.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
@@ -53,33 +125,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-06-19T20:10:28.642111",
-      "ai_probability": 8.0,
-      "market_price": 13.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "latest": "2026-06-19T20:08:41.721540",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-06-19T20:08:38.300678",
-      "ai_probability": 5.0,
-      "market_price": 9.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Israel x Iran permanent peace deal by June 30, 2026?",
       "market_id": "0x5efa976ebe94080bbda7e45605333ff8f30156cc91604d66c41eb52fd3e25f3e",
       "latest": "2026-06-19T18:18:12.959698",
@@ -89,57 +134,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
-      "market_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3",
-      "latest": "2026-06-19T18:18:09.766705",
-      "ai_probability": 2.0,
-      "market_price": 2.65,
-      "edge": -0.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-06-19T18:18:06.436106",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": " Iran agrees to end enrichment of uranium by June 30?",
-      "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
-      "latest": "2026-06-19T16:25:55.655858",
-      "ai_probability": 50.0,
-      "market_price": 43.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will JD Vance win the 2028 US Presidential Election?",
       "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
       "latest": "2026-06-19T16:25:51.100289",
       "ai_probability": 15.0,
       "market_price": 18.35,
       "edge": -3.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-06-19T13:48:48.289233",
-      "ai_probability": 2.5,
-      "market_price": 4.05,
-      "edge": -1.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Ivan Cepeda Castro win the 2026 Colombian presidential election?",
-      "market_id": "0x0fb006e0c06caa4db12f7e30ec8c2483d658f83eb57b2ee8eb478e39beca3dfd",
-      "latest": "2026-06-19T13:48:44.874379",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
       "confidence": "MEDIUM"
     }
   ]
