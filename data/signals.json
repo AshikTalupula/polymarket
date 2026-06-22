@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-06-22T18:00:59.536806+00:00",
+  "updated_at": "2026-06-22T20:26:52.949897+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 4756,
+      "timestamp": "2026-06-22T20:23:50.548295",
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "ai_probability": 62.0,
+      "market_price": 49.5,
+      "edge": 12.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 4755,
       "timestamp": "2026-06-22T17:59:43.798549",
@@ -1189,18 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 4656,
-      "timestamp": "2026-06-20T06:25:45.063550",
-      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
     }
   ]
 }

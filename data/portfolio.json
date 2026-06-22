@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T18:00:59.540724+00:00",
+  "updated_at": "2026-06-22T20:26:52.953864+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "latest": "2026-06-22T20:23:50.548295",
+      "ai_probability": 62.0,
+      "market_price": 49.5,
+      "edge": 12.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
@@ -132,15 +141,6 @@
       "market_price": 2.0500000000000003,
       "edge": -0.05,
       "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
-      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
-      "latest": "2026-06-20T09:50:38.220373",
-      "ai_probability": 25.0,
-      "market_price": 23.45,
-      "edge": 1.55,
-      "confidence": "MEDIUM"
     }
   ]
 }
