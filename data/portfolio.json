@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T04:58:35.417486+00:00",
+  "updated_at": "2026-06-23T06:34:19.102710+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
+      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
+      "latest": "2026-06-23T06:30:04.430432",
+      "ai_probability": 15.0,
+      "market_price": 5.5,
+      "edge": -9.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Germany win the 2026 FIFA World Cup?",
       "market_id": "0x1595b4818eeb1ea1e0bec5de6f057218e557feee9b405a0e930d290384fa1d16",
@@ -113,15 +122,6 @@
       "ai_probability": 4.8,
       "market_price": 5.45,
       "edge": -0.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by end of June?",
-      "market_id": "0x348cd9adf4f6855f58bd9c6dbf9ff251c4142ef77233a5dc95c65b4b61cd2187",
-      "latest": "2026-06-22T14:35:07.037700",
-      "ai_probability": 73.0,
-      "market_price": 6.5,
-      "edge": 20.5,
       "confidence": "MEDIUM"
     },
     {
