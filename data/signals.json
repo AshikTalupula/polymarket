@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-06-22T20:26:52.949897+00:00",
+  "updated_at": "2026-06-23T02:13:00.316820+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 4759,
+      "timestamp": "2026-06-23T02:05:45.985525",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 15.0,
+      "market_price": 13.15,
+      "edge": 1.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 4758,
+      "timestamp": "2026-06-23T02:05:42.509795",
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "ai_probability": 22.0,
+      "market_price": 19.75,
+      "edge": 2.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 4757,
+      "timestamp": "2026-06-23T02:05:39.132212",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 12.0,
+      "market_price": 13.850000000000001,
+      "edge": -1.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 4756,
       "timestamp": "2026-06-22T20:23:50.548295",
@@ -1165,42 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_NO",
       "acted_on": 1
-    },
-    {
-      "id": 4659,
-      "timestamp": "2026-06-20T06:25:56.090132",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 18.0,
-      "market_price": 13.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4658,
-      "timestamp": "2026-06-20T06:25:52.371303",
-      "market_question": " Iran agrees to end enrichment of uranium by June 30?",
-      "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
-      "ai_probability": 8.0,
-      "market_price": 5.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4657,
-      "timestamp": "2026-06-20T06:25:48.655073",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 5.0,
-      "market_price": 6.45,
-      "edge": -1.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
