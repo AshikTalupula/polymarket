@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T19:22:58.731716+00:00",
+  "updated_at": "2026-06-24T03:29:42.873529+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,27 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will USA win the 2026 FIFA World Cup?",
+      "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
+      "latest": "2026-06-24T03:23:05.079560",
+      "ai_probability": 4.0,
+      "market_price": 3.45,
+      "edge": 0.55,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-06-23T19:15:44.946918",
-      "ai_probability": 12.0,
-      "market_price": 14.649999999999999,
-      "edge": -2.65,
+      "latest": "2026-06-24T03:23:01.739927",
+      "ai_probability": 15.0,
+      "market_price": 13.950000000000001,
+      "edge": 1.05,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-06-23T19:15:41.568514",
+      "latest": "2026-06-24T03:22:58.518564",
       "ai_probability": 15.0,
       "market_price": 13.850000000000001,
       "edge": 1.15,
@@ -28,19 +37,10 @@
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-06-23T19:15:38.002293",
+      "latest": "2026-06-24T03:22:55.373713",
       "ai_probability": 22.0,
-      "market_price": 19.25,
-      "edge": 2.75,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will USA win the 2026 FIFA World Cup?",
-      "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
-      "latest": "2026-06-23T11:43:30.626291",
-      "ai_probability": 4.0,
-      "market_price": 3.55,
-      "edge": 0.45,
+      "market_price": 18.75,
+      "edge": 3.25,
       "confidence": "MEDIUM"
     },
     {

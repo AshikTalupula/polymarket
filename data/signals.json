@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-23T19:22:58.727978+00:00",
+  "updated_at": "2026-06-24T03:29:42.869761+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 4789,
+      "timestamp": "2026-06-24T03:23:05.079560",
+      "market_question": "Will USA win the 2026 FIFA World Cup?",
+      "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
+      "ai_probability": 4.0,
+      "market_price": 3.45,
+      "edge": 0.55,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 4788,
+      "timestamp": "2026-06-24T03:23:01.739927",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 15.0,
+      "market_price": 13.950000000000001,
+      "edge": 1.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 4787,
+      "timestamp": "2026-06-24T03:22:58.518564",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 15.0,
+      "market_price": 13.850000000000001,
+      "edge": 1.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 4786,
+      "timestamp": "2026-06-24T03:22:55.373713",
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "ai_probability": 22.0,
+      "market_price": 18.75,
+      "edge": 3.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 4785,
       "timestamp": "2026-06-23T19:15:44.946918",
@@ -1150,54 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 7.1499999999999995,
       "edge": -2.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4689,
-      "timestamp": "2026-06-20T15:19:39.560713",
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "ai_probability": 6.0,
-      "market_price": 5.949999999999999,
-      "edge": 0.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4688,
-      "timestamp": "2026-06-20T15:19:35.806963",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 15.0,
-      "market_price": 12.55,
-      "edge": 2.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4687,
-      "timestamp": "2026-06-20T15:19:32.417875",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 8.0,
-      "market_price": 11.75,
-      "edge": -3.75,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4686,
-      "timestamp": "2026-06-20T15:19:29.140987",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 22.0,
-      "market_price": 19.650000000000002,
-      "edge": 2.35,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
