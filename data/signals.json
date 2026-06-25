@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-06-25T10:29:50.714954+00:00",
+  "updated_at": "2026-06-25T15:15:00.593972+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 4833,
+      "timestamp": "2026-06-25T15:08:19.997347",
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "ai_probability": 8.0,
+      "market_price": 10.549999999999999,
+      "edge": -2.55,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 4832,
+      "timestamp": "2026-06-25T15:08:11.428331",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 15.0,
+      "market_price": 13.850000000000001,
+      "edge": 1.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 4831,
+      "timestamp": "2026-06-25T15:08:07.671780",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 12.0,
+      "market_price": 14.85,
+      "edge": -2.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 4830,
       "timestamp": "2026-06-25T10:25:00.087372",
@@ -1162,42 +1198,6 @@
       "ai_probability": 8.0,
       "market_price": 5.5,
       "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4733,
-      "timestamp": "2026-06-22T08:27:33.962568",
-      "market_question": " Iran agrees to end enrichment of uranium by June 30?",
-      "market_id": "0x9d3f02264a94bafc676afd7add8b11442e6ec72dabaa69cefef835f0672275c7",
-      "ai_probability": 15.0,
-      "market_price": 3.25,
-      "edge": 11.75,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 4732,
-      "timestamp": "2026-06-22T08:27:30.613706",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 4.0,
-      "market_price": 6.35,
-      "edge": -2.35,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4731,
-      "timestamp": "2026-06-22T08:27:27.352015",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 5.0,
-      "market_price": 9.5,
-      "edge": -4.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0

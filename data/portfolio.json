@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T10:29:50.718717+00:00",
+  "updated_at": "2026-06-25T15:15:00.597728+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,39 +8,39 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-06-25T10:25:00.087372",
-      "ai_probability": 4.0,
-      "market_price": 5.65,
-      "edge": -1.65,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-06-25T10:22:51.245604",
+      "latest": "2026-06-25T15:08:19.997347",
       "ai_probability": 8.0,
       "market_price": 10.549999999999999,
       "edge": -2.55,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-06-25T10:22:47.916023",
-      "ai_probability": 15.0,
-      "market_price": 14.75,
-      "edge": 0.25,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-06-25T10:22:44.519273",
+      "latest": "2026-06-25T15:08:11.428331",
       "ai_probability": 15.0,
       "market_price": 13.850000000000001,
       "edge": 1.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-06-25T15:08:07.671780",
+      "ai_probability": 12.0,
+      "market_price": 14.85,
+      "edge": -2.85,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "latest": "2026-06-25T10:25:00.087372",
+      "ai_probability": 4.0,
+      "market_price": 5.65,
+      "edge": -1.65,
       "confidence": "MEDIUM"
     },
     {
