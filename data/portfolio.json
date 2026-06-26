@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T03:40:03.343239+00:00",
+  "updated_at": "2026-06-26T06:40:06.032107+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,36 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "latest": "2026-06-26T03:35:13.656686",
-      "ai_probability": 8.0,
-      "market_price": 5.75,
-      "edge": 2.25,
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-06-26T06:37:04.359970",
+      "ai_probability": 15.0,
+      "market_price": 12.5,
+      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Portugal win the 2026 FIFA World Cup?",
       "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
-      "latest": "2026-06-26T03:34:08.228044",
+      "latest": "2026-06-26T06:34:31.647409",
       "ai_probability": 6.5,
-      "market_price": 8.05,
-      "edge": -1.55,
+      "market_price": 8.15,
+      "edge": -1.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-06-26T06:34:28.355844",
+      "ai_probability": 8.0,
+      "market_price": 5.55,
+      "edge": 2.45,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-06-26T03:34:04.940198",
+      "latest": "2026-06-26T06:34:25.242452",
       "ai_probability": 8.0,
       "market_price": 9.85,
       "edge": -1.85,
@@ -37,7 +46,7 @@
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-06-26T03:34:01.602949",
+      "latest": "2026-06-26T06:34:21.954376",
       "ai_probability": 15.0,
       "market_price": 13.750000000000002,
       "edge": 1.25,
@@ -46,19 +55,28 @@
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-06-26T03:33:58.362210",
-      "ai_probability": 17.0,
+      "latest": "2026-06-26T06:34:18.678090",
+      "ai_probability": 15.0,
       "market_price": 14.649999999999999,
-      "edge": 2.35,
+      "edge": 0.35,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-06-26T03:33:54.969759",
-      "ai_probability": 15.0,
-      "market_price": 18.55,
-      "edge": -3.55,
+      "latest": "2026-06-26T06:34:15.412749",
+      "ai_probability": 20.0,
+      "market_price": 18.85,
+      "edge": 1.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
+      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
+      "latest": "2026-06-26T03:35:13.656686",
+      "ai_probability": 8.0,
+      "market_price": 5.75,
+      "edge": 2.25,
       "confidence": "MEDIUM"
     },
     {
@@ -122,24 +140,6 @@
       "ai_probability": 15.0,
       "market_price": 9.5,
       "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
-      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
-      "latest": "2026-06-22T17:54:57.633400",
-      "ai_probability": 6.0,
-      "market_price": 5.55,
-      "edge": 0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-06-22T16:16:45.057762",
-      "ai_probability": 4.0,
-      "market_price": 6.35,
-      "edge": -2.35,
       "confidence": "MEDIUM"
     }
   ]
