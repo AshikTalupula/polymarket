@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-06-26T19:55:49.574124+00:00",
+  "updated_at": "2026-06-26T22:24:54.532459+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 4856,
+      "timestamp": "2026-06-26T22:17:35.593009",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 15.0,
+      "market_price": 14.75,
+      "edge": 0.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 4855,
+      "timestamp": "2026-06-26T22:17:31.927993",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 15.0,
+      "market_price": 13.65,
+      "edge": 1.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 4854,
+      "timestamp": "2026-06-26T22:17:28.333922",
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "ai_probability": 23.0,
+      "market_price": 20.95,
+      "edge": 2.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 4853,
       "timestamp": "2026-06-26T19:48:33.997236",
@@ -1162,42 +1198,6 @@
       "ai_probability": 12.0,
       "market_price": 13.850000000000001,
       "edge": -1.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4756,
-      "timestamp": "2026-06-22T20:23:50.548295",
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "ai_probability": 62.0,
-      "market_price": 49.5,
-      "edge": 12.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 4755,
-      "timestamp": "2026-06-22T17:59:43.798549",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 4754,
-      "timestamp": "2026-06-22T17:55:05.590299",
-      "market_question": "Will USA win the 2026 FIFA World Cup?",
-      "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
-      "ai_probability": 4.0,
-      "market_price": 3.55,
-      "edge": 0.45,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
