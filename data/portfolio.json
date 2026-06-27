@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T22:24:54.534894+00:00",
+  "updated_at": "2026-06-27T03:40:12.709514+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,30 +8,48 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Portugal win the 2026 FIFA World Cup?",
+      "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
+      "latest": "2026-06-27T03:33:35.905927",
+      "ai_probability": 5.0,
+      "market_price": 7.75,
+      "edge": -2.75,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-06-26T22:17:35.593009",
-      "ai_probability": 15.0,
-      "market_price": 14.75,
-      "edge": 0.25,
+      "latest": "2026-06-27T03:33:32.661561",
+      "ai_probability": 12.0,
+      "market_price": 16.25,
+      "edge": -4.25,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-06-27T03:33:29.424224",
+      "ai_probability": 8.0,
+      "market_price": 10.25,
+      "edge": -2.25,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-06-26T22:17:31.927993",
+      "latest": "2026-06-27T03:33:26.097670",
       "ai_probability": 15.0,
-      "market_price": 13.65,
-      "edge": 1.35,
+      "market_price": 13.25,
+      "edge": 1.75,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-06-26T22:17:28.333922",
-      "ai_probability": 23.0,
-      "market_price": 20.95,
-      "edge": 2.05,
+      "latest": "2026-06-27T03:33:22.754346",
+      "ai_probability": 25.0,
+      "market_price": 21.55,
+      "edge": 3.45,
       "confidence": "MEDIUM"
     },
     {
@@ -44,30 +62,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Portugal win the 2026 FIFA World Cup?",
-      "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
-      "latest": "2026-06-26T06:34:31.647409",
-      "ai_probability": 6.5,
-      "market_price": 8.15,
-      "edge": -1.65,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Brazil win the 2026 FIFA World Cup?",
       "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
       "latest": "2026-06-26T06:34:28.355844",
       "ai_probability": 8.0,
       "market_price": 5.55,
       "edge": 2.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-06-26T06:34:25.242452",
-      "ai_probability": 8.0,
-      "market_price": 9.85,
-      "edge": -1.85,
       "confidence": "MEDIUM"
     },
     {
@@ -122,24 +122,6 @@
       "ai_probability": 15.0,
       "market_price": 5.5,
       "edge": -9.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "latest": "2026-06-22T20:23:50.548295",
-      "ai_probability": 62.0,
-      "market_price": 49.5,
-      "edge": 12.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-06-22T17:59:43.798549",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": 5.5,
       "confidence": "MEDIUM"
     }
   ]
