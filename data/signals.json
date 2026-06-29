@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-06-29T03:54:27.867140+00:00",
+  "updated_at": "2026-06-29T05:31:47.988661+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 4909,
+      "timestamp": "2026-06-29T05:28:45.521962",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 85.0,
+      "market_price": 81.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 4908,
       "timestamp": "2026-06-29T03:50:09.412171",
@@ -1186,18 +1198,6 @@
       "ai_probability": 8.0,
       "market_price": 10.85,
       "edge": -2.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4809,
-      "timestamp": "2026-06-24T15:04:09.619636",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 15.0,
-      "market_price": 19.35,
-      "edge": -4.35,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
