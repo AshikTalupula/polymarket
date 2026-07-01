@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T05:47:46.549757+00:00",
+  "updated_at": "2026-07-01T07:16:08.537936+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,28 +10,64 @@
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-06-30T22:43:30.428720",
+      "latest": "2026-07-01T07:11:16.690832",
       "ai_probability": 4.0,
-      "market_price": 5.35,
+      "market_price": 5.050000000000001,
+      "edge": -1.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Portugal win the 2026 FIFA World Cup?",
+      "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
+      "latest": "2026-07-01T07:11:13.274730",
+      "ai_probability": 4.0,
+      "market_price": 5.55,
+      "edge": -1.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Brazil win the 2026 FIFA World Cup?",
+      "market_id": "0x30d55d8124ee1e12dabe89201badc45669b81dff69e4ce44d961f32878ec178a",
+      "latest": "2026-07-01T07:11:09.852539",
+      "ai_probability": 8.0,
+      "market_price": 6.65,
+      "edge": 1.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-07-01T07:11:06.425940",
+      "ai_probability": 8.0,
+      "market_price": 9.35,
       "edge": -1.35,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-06-30T22:40:26.414446",
-      "ai_probability": 9.0,
-      "market_price": 11.15,
+      "latest": "2026-07-01T07:11:02.874394",
+      "ai_probability": 8.0,
+      "market_price": 10.15,
       "edge": -2.15,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-06-30T22:40:23.047645",
+      "latest": "2026-07-01T07:10:59.519266",
       "ai_probability": 15.0,
-      "market_price": 19.35,
-      "edge": -4.35,
+      "market_price": 18.35,
+      "edge": -3.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "latest": "2026-07-01T07:10:55.785880",
+      "ai_probability": 40.0,
+      "market_price": 32.75,
+      "edge": 7.25,
       "confidence": "MEDIUM"
     },
     {
@@ -44,39 +80,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-06-30T15:06:01.087627",
-      "ai_probability": 11.0,
-      "market_price": 9.950000000000001,
-      "edge": 1.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-06-30T15:05:53.821350",
-      "ai_probability": 32.0,
-      "market_price": 28.050000000000004,
-      "edge": 3.95,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will USA win the 2026 FIFA World Cup?",
       "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
       "latest": "2026-06-30T09:20:51.335594",
       "ai_probability": 4.0,
       "market_price": 2.75,
       "edge": 1.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Portugal win the 2026 FIFA World Cup?",
-      "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
-      "latest": "2026-06-30T08:00:47.624970",
-      "ai_probability": 5.5,
-      "market_price": 6.05,
-      "edge": -0.55,
       "confidence": "MEDIUM"
     },
     {
