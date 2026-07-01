@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-01T07:16:08.534240+00:00",
+  "updated_at": "2026-07-01T10:14:42.801926+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5008,
+      "timestamp": "2026-07-01T10:10:28.690780",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5007,
       "timestamp": "2026-07-01T07:11:16.690832",
@@ -1186,18 +1198,6 @@
       "ai_probability": 85.0,
       "market_price": 81.5,
       "edge": 3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4908,
-      "timestamp": "2026-06-29T03:50:09.412171",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
