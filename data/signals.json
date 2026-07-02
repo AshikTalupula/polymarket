@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-02T09:31:41.530343+00:00",
+  "updated_at": "2026-07-02T12:01:03.358941+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5045,
+      "timestamp": "2026-07-02T11:59:10.696253",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 85.0,
+      "market_price": 81.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5044,
       "timestamp": "2026-07-02T09:30:58.798764",
@@ -1186,18 +1198,6 @@
       "ai_probability": 15.0,
       "market_price": 20.549999999999997,
       "edge": -5.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4945,
-      "timestamp": "2026-06-29T13:55:20.301818",
-      "market_question": "Will Netherlands win the 2026 FIFA World Cup?",
-      "market_id": "0x9be56371f6a29d12769b2f196847ee825b9585ebb8bfa042136be031b081eba1",
-      "ai_probability": 4.0,
-      "market_price": 5.050000000000001,
-      "edge": -1.05,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
