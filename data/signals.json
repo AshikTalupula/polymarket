@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-03T08:13:53.073109+00:00",
+  "updated_at": "2026-07-03T11:09:21.302403+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5085,
+      "timestamp": "2026-07-03T11:09:19.297577",
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "ai_probability": 1.8,
+      "market_price": 2.55,
+      "edge": -0.75,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5084,
+      "timestamp": "2026-07-03T11:04:37.186415",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 85.0,
+      "market_price": 90.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5083,
+      "timestamp": "2026-07-03T11:04:33.281133",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 15.0,
+      "market_price": 11.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5082,
       "timestamp": "2026-07-03T08:13:15.091892",
@@ -1162,42 +1198,6 @@
       "ai_probability": 9.0,
       "market_price": 11.25,
       "edge": -2.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4985,
-      "timestamp": "2026-06-30T09:20:36.402800",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 25.0,
-      "market_price": 28.849999999999998,
-      "edge": -3.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4984,
-      "timestamp": "2026-06-30T09:20:33.092480",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 22.0,
-      "market_price": 19.35,
-      "edge": 2.65,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 4983,
-      "timestamp": "2026-06-30T08:00:47.624970",
-      "market_question": "Will Portugal win the 2026 FIFA World Cup?",
-      "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
-      "ai_probability": 5.5,
-      "market_price": 6.05,
-      "edge": -0.55,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0

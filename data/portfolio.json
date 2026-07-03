@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T08:13:53.076822+00:00",
+  "updated_at": "2026-07-03T11:09:21.306319+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-07-03T11:09:19.297577",
+      "ai_probability": 1.8,
+      "market_price": 2.55,
+      "edge": -0.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-03T11:04:37.186415",
+      "ai_probability": 85.0,
+      "market_price": 90.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-03T11:04:33.281133",
+      "ai_probability": 15.0,
+      "market_price": 11.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
@@ -50,24 +77,6 @@
       "ai_probability": 4.0,
       "market_price": 6.5,
       "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-03T08:12:54.806400",
-      "ai_probability": 85.0,
-      "market_price": 90.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-03T08:12:51.579150",
-      "ai_probability": 15.0,
-      "market_price": 11.5,
-      "edge": 3.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 5.0,
       "market_price": 7.5,
       "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will USA win the 2026 FIFA World Cup?",
-      "market_id": "0xcdb1f0400949238a63d3e88243d2ada08cd9c2a71985ced9f0cfd5e66354cf90",
-      "latest": "2026-07-02T21:54:59.723366",
-      "ai_probability": 4.0,
-      "market_price": 2.75,
-      "edge": -1.25,
       "confidence": "MEDIUM"
     }
   ]
