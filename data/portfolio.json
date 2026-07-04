@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T07:54:59.331469+00:00",
+  "updated_at": "2026-07-04T10:19:02.673126+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,24 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by July 15?",
+      "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
+      "latest": "2026-07-04T10:18:24.681866",
+      "ai_probability": 8.0,
+      "market_price": 5.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-04T10:14:13.290575",
+      "ai_probability": 15.0,
+      "market_price": 10.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
@@ -50,15 +68,6 @@
       "ai_probability": 15.0,
       "market_price": 12.5,
       "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-04T01:15:48.924336",
-      "ai_probability": 15.0,
-      "market_price": 10.5,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 5.0,
       "market_price": 7.1499999999999995,
       "edge": -2.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-07-03T11:09:19.297577",
-      "ai_probability": 1.8,
-      "market_price": 2.55,
-      "edge": -0.75,
       "confidence": "MEDIUM"
     }
   ]

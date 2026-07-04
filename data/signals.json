@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-04T07:54:59.327603+00:00",
+  "updated_at": "2026-07-04T10:19:02.669273+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5125,
+      "timestamp": "2026-07-04T10:18:24.681866",
+      "market_question": "Strait of Hormuz traffic returns to normal by July 15?",
+      "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
+      "ai_probability": 8.0,
+      "market_price": 5.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5124,
+      "timestamp": "2026-07-04T10:14:13.290575",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 15.0,
+      "market_price": 10.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5123,
       "timestamp": "2026-07-04T07:51:54.635343",
@@ -1174,30 +1198,6 @@
       "ai_probability": 15.0,
       "market_price": 18.05,
       "edge": -3.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5025,
-      "timestamp": "2026-07-02T06:03:11.896632",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 32.0,
-      "market_price": 35.449999999999996,
-      "edge": -3.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5024,
-      "timestamp": "2026-07-02T01:52:51.710016",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 40.0,
-      "market_price": 35.05,
-      "edge": 4.95,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
