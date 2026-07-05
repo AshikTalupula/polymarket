@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-05T08:22:30.378117+00:00",
+  "updated_at": "2026-07-05T10:44:46.535714+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5173,
+      "timestamp": "2026-07-05T10:42:19.473849",
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "ai_probability": 25.0,
+      "market_price": 15.5,
+      "edge": -9.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 5172,
       "timestamp": "2026-07-05T08:21:16.857420",
@@ -1186,18 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 6.25,
       "edge": -1.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5073,
-      "timestamp": "2026-07-03T08:12:41.896965",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 9.0,
-      "market_price": 7.249999999999999,
-      "edge": 1.75,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
