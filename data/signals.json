@@ -1,7 +1,79 @@
 {
-  "updated_at": "2026-07-05T05:12:46.917319+00:00",
+  "updated_at": "2026-07-05T08:22:30.378117+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5172,
+      "timestamp": "2026-07-05T08:21:16.857420",
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "ai_probability": 5.0,
+      "market_price": 9.65,
+      "edge": -4.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5171,
+      "timestamp": "2026-07-05T08:21:13.557528",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 8.0,
+      "market_price": 12.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5170,
+      "timestamp": "2026-07-05T08:21:10.465393",
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "ai_probability": 22.0,
+      "market_price": 15.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 5169,
+      "timestamp": "2026-07-05T08:21:07.361853",
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "ai_probability": 5.0,
+      "market_price": 3.65,
+      "edge": 1.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5168,
+      "timestamp": "2026-07-05T08:21:04.253772",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 92.0,
+      "market_price": 89.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5167,
+      "timestamp": "2026-07-05T08:21:01.108321",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5166,
       "timestamp": "2026-07-05T05:12:44.912359",
@@ -1129,78 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 5072,
-      "timestamp": "2026-07-03T08:12:38.685141",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 10.0,
-      "market_price": 12.25,
-      "edge": -2.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5071,
-      "timestamp": "2026-07-03T08:12:35.246330",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 15.0,
-      "market_price": 19.25,
-      "edge": -4.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5070,
-      "timestamp": "2026-07-03T08:12:32.024627",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 31.0,
-      "market_price": 34.050000000000004,
-      "edge": -3.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5069,
-      "timestamp": "2026-07-03T04:55:37.435142",
-      "market_question": "Strait of Hormuz traffic returns to normal by July 15?",
-      "market_id": "0xcacd424332319971356c757c025b45a4eb5643b919fb3bd2f84051afea599b13",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5068,
-      "timestamp": "2026-07-03T04:55:32.352979",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5067,
-      "timestamp": "2026-07-03T04:55:28.493407",
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "ai_probability": 62.0,
-      "market_price": 25.5,
-      "edge": 36.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
