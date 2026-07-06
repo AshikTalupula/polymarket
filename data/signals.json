@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-06T17:26:50.120822+00:00",
+  "updated_at": "2026-07-06T19:21:49.785948+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5233,
+      "timestamp": "2026-07-06T19:18:08.540687",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5232,
       "timestamp": "2026-07-06T17:26:46.303283",
@@ -1186,18 +1198,6 @@
       "ai_probability": 8.0,
       "market_price": 6.550000000000001,
       "edge": 1.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5133,
-      "timestamp": "2026-07-04T14:40:37.101958",
-      "market_question": "Will Portugal win the 2026 FIFA World Cup?",
-      "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
-      "ai_probability": 5.0,
-      "market_price": 6.05,
-      "edge": -1.05,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
