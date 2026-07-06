@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-05T23:45:22.260780+00:00",
+  "updated_at": "2026-07-06T01:34:20.216423+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5201,
+      "timestamp": "2026-07-06T01:32:30.047824",
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "ai_probability": 12.0,
+      "market_price": 9.55,
+      "edge": 2.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5200,
       "timestamp": "2026-07-05T23:45:20.256223",
@@ -1186,18 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 7.1499999999999995,
       "edge": -2.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5101,
-      "timestamp": "2026-07-03T19:54:10.327650",
-      "market_question": "Will Portugal win the 2026 FIFA World Cup?",
-      "market_id": "0x4f3421fb2daf5cca7430ed8d8132463963081572d75434393a1808fdb8829fe8",
-      "ai_probability": 4.0,
-      "market_price": 5.949999999999999,
-      "edge": -1.95,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
