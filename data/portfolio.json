@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T01:34:20.220160+00:00",
+  "updated_at": "2026-07-06T06:07:30.651007+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,51 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-06T06:07:26.438053",
+      "ai_probability": 15.0,
+      "market_price": 6.5,
+      "edge": -8.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-06T06:07:21.342392",
+      "ai_probability": 7.0,
+      "market_price": 11.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "latest": "2026-07-06T06:07:18.025958",
+      "ai_probability": 25.0,
+      "market_price": 14.499999999999998,
+      "edge": -10.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-06T06:07:12.519533",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-06T06:07:09.373121",
+      "ai_probability": 85.0,
+      "market_price": 89.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
@@ -26,57 +71,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-05T23:45:17.447688",
-      "ai_probability": 15.0,
-      "market_price": 6.5,
-      "edge": -8.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-05T23:45:13.925859",
-      "ai_probability": 7.0,
-      "market_price": 11.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "latest": "2026-07-05T23:45:05.743048",
-      "ai_probability": 22.0,
-      "market_price": 15.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
       "latest": "2026-07-05T23:45:02.215109",
       "ai_probability": 5.0,
       "market_price": 3.65,
       "edge": 1.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-05T23:44:58.398676",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-05T23:44:54.931597",
-      "ai_probability": 92.0,
-      "market_price": 89.5,
-      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
