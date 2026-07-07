@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T23:50:27.814860+00:00",
+  "updated_at": "2026-07-07T01:33:23.037073+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,21 +8,57 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-07T01:28:31.187020",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
+      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
+      "latest": "2026-07-07T01:28:28.058108",
+      "ai_probability": 3.0,
+      "market_price": 2.55,
+      "edge": 0.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Norway win the 2026 FIFA World Cup?",
+      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
+      "latest": "2026-07-07T01:28:24.784608",
+      "ai_probability": 3.5,
+      "market_price": 4.95,
+      "edge": -1.45,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-07-06T23:43:42.414099",
-      "ai_probability": 15.0,
-      "market_price": 14.549999999999999,
-      "edge": 0.45,
+      "latest": "2026-07-07T01:28:21.522303",
+      "ai_probability": 12.0,
+      "market_price": 14.649999999999999,
+      "edge": -2.65,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-06T23:43:33.849668",
-      "ai_probability": 22.0,
-      "market_price": 18.35,
-      "edge": 3.65,
+      "latest": "2026-07-07T01:28:17.905635",
+      "ai_probability": 15.0,
+      "market_price": 18.25,
+      "edge": -3.25,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "latest": "2026-07-07T01:28:12.242996",
+      "ai_probability": 29.0,
+      "market_price": 32.85,
+      "edge": -3.85,
       "confidence": "MEDIUM"
     },
     {
@@ -32,15 +68,6 @@
       "ai_probability": 15.0,
       "market_price": 17.05,
       "edge": -2.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-07-06T23:43:26.686123",
-      "ai_probability": 29.0,
-      "market_price": 32.85,
-      "edge": -3.85,
       "confidence": "MEDIUM"
     },
     {
@@ -68,24 +95,6 @@
       "ai_probability": 4.0,
       "market_price": 6.5,
       "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-06T21:06:29.194092",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-07-06T21:06:25.567004",
-      "ai_probability": 6.0,
-      "market_price": 4.8500000000000005,
-      "edge": 1.15,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 85.0,
       "market_price": 83.5,
       "edge": 1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-06T14:34:04.795344",
-      "ai_probability": 15.0,
-      "market_price": 11.450000000000001,
-      "edge": -3.55,
       "confidence": "MEDIUM"
     }
   ]
