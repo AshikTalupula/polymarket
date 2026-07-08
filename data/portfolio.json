@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:36:10.885652+00:00",
+  "updated_at": "2026-07-08T13:19:15.430488+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-08T13:16:49.013885",
+      "ai_probability": 82.0,
+      "market_price": 77.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
       "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
@@ -41,15 +50,6 @@
       "ai_probability": 4.0,
       "market_price": 6.5,
       "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-08T07:09:44.318082",
-      "ai_probability": 82.0,
-      "market_price": 77.5,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {

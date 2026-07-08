@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-08T11:36:10.881609+00:00",
+  "updated_at": "2026-07-08T13:19:15.426670+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5358,
+      "timestamp": "2026-07-08T13:16:49.013885",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 82.0,
+      "market_price": 77.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5357,
       "timestamp": "2026-07-08T07:10:01.064672",
@@ -1186,18 +1198,6 @@
       "ai_probability": 30.0,
       "market_price": 33.15,
       "edge": -3.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5258,
-      "timestamp": "2026-07-07T01:28:31.187020",
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
