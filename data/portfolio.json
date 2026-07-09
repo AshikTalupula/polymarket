@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T18:16:38.136445+00:00",
+  "updated_at": "2026-07-09T20:15:32.656953+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,87 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-09T20:14:18.283666",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Norway win on 2026-07-11?",
+      "market_id": "0x4b84a8e08cb3376c9e5be5cc5a37f7073de05cdf0810d2ad3fe745c4760ef3e0",
+      "latest": "2026-07-09T20:11:26.942548",
+      "ai_probability": 20.0,
+      "market_price": 22.625,
+      "edge": -2.62,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
+      "market_id": "0xc851fc5ae688d3d67bccb7c8f0ca475f61ebda796cfcddca7230042de6b48cfd",
+      "latest": "2026-07-09T20:11:23.478564",
+      "ai_probability": 71.0,
+      "market_price": 66.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-07-09T20:11:20.180807",
+      "ai_probability": 22.0,
+      "market_price": 19.650000000000002,
+      "edge": 2.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Norway win the 2026 FIFA World Cup?",
+      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
+      "latest": "2026-07-09T20:11:16.762067",
+      "ai_probability": 4.0,
+      "market_price": 6.05,
+      "edge": -2.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-07-09T20:11:13.103891",
+      "ai_probability": 15.0,
+      "market_price": 19.05,
+      "edge": -4.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Morocco win the 2026 FIFA World Cup?",
+      "market_id": "0x37a6de1b21803e5f3fb1965116218215d79963af4f7e51659696366267a63a03",
+      "latest": "2026-07-09T20:11:09.653653",
+      "ai_probability": 2.5,
+      "market_price": 3.15,
+      "edge": -0.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Belgium win the 2026 FIFA World Cup?",
+      "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
+      "latest": "2026-07-09T20:11:06.114666",
+      "ai_probability": 2.0,
+      "market_price": 2.45,
+      "edge": -0.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Switzerland win the 2026 FIFA World Cup?",
+      "market_id": "0x3a26ca6425e2d98f14935670bc22cdb0744defc6f6d83c65f8c413a921c5c70c",
+      "latest": "2026-07-09T20:11:02.305892",
+      "ai_probability": 2.0,
+      "market_price": 2.0500000000000003,
+      "edge": -0.05,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
       "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
@@ -35,60 +116,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Norway win on 2026-07-11?",
-      "market_id": "0x4b84a8e08cb3376c9e5be5cc5a37f7073de05cdf0810d2ad3fe745c4760ef3e0",
-      "latest": "2026-07-09T18:14:02.269385",
-      "ai_probability": 20.0,
-      "market_price": 22.625,
-      "edge": -2.62,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
-      "market_id": "0xc851fc5ae688d3d67bccb7c8f0ca475f61ebda796cfcddca7230042de6b48cfd",
-      "latest": "2026-07-09T18:13:58.910538",
-      "ai_probability": 61.0,
-      "market_price": 66.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-07-09T18:13:55.603925",
-      "ai_probability": 4.0,
-      "market_price": 5.949999999999999,
-      "edge": -1.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-09T18:13:50.421429",
-      "ai_probability": 22.0,
-      "market_price": 19.35,
-      "edge": 2.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-09T18:13:44.670136",
-      "ai_probability": 22.0,
-      "market_price": 19.55,
-      "edge": 2.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Switzerland win the 2026 FIFA World Cup?",
-      "market_id": "0x3a26ca6425e2d98f14935670bc22cdb0744defc6f6d83c65f8c413a921c5c70c",
-      "latest": "2026-07-09T18:13:41.171598",
-      "ai_probability": 1.8,
-      "market_price": 2.0500000000000003,
-      "edge": -0.25,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
       "latest": "2026-07-09T16:15:49.454338",
@@ -107,39 +134,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-09T16:15:42.514751",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will England win on 2026-07-11?",
       "market_id": "0x0f5e01cf1cabb6c49e424f230ca77a2ccd3e1ac63b31ae03ef749ac2bde7fa0e",
       "latest": "2026-07-09T16:15:39.127248",
       "ai_probability": 55.0,
       "market_price": 52.125,
       "edge": 2.88,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-07-09T16:15:15.131599",
-      "ai_probability": 15.0,
-      "market_price": 16.05,
-      "edge": -1.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-07-09T16:15:07.930461",
-      "ai_probability": 35.0,
-      "market_price": 32.05,
-      "edge": 2.95,
       "confidence": "MEDIUM"
     }
   ]
