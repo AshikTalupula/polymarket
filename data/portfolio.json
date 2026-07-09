@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T22:47:51.300686+00:00",
+  "updated_at": "2026-07-09T00:00:28.917876+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-07-08T23:56:50.837757",
+      "ai_probability": 6.0,
+      "market_price": 4.15,
+      "edge": 1.85,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-07-08T22:41:47.826116",
+      "latest": "2026-07-08T23:53:57.178764",
       "ai_probability": 12.0,
       "market_price": 15.85,
       "edge": -3.85,
@@ -19,7 +28,7 @@
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-08T22:41:29.148858",
+      "latest": "2026-07-08T23:53:53.680570",
       "ai_probability": 15.0,
       "market_price": 18.75,
       "edge": -3.75,
@@ -28,16 +37,16 @@
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-07-08T22:41:25.463204",
-      "ai_probability": 25.0,
+      "latest": "2026-07-08T23:53:50.318999",
+      "ai_probability": 29.0,
       "market_price": 32.550000000000004,
-      "edge": -7.55,
+      "edge": -3.55,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-08T22:41:21.850123",
+      "latest": "2026-07-08T23:53:46.947074",
       "ai_probability": 25.0,
       "market_price": 20.05,
       "edge": 4.95,
@@ -46,7 +55,7 @@
     {
       "market_question": "Will Switzerland win the 2026 FIFA World Cup?",
       "market_id": "0x3a26ca6425e2d98f14935670bc22cdb0744defc6f6d83c65f8c413a921c5c70c",
-      "latest": "2026-07-08T22:41:18.141584",
+      "latest": "2026-07-08T23:53:43.620772",
       "ai_probability": 1.8,
       "market_price": 2.15,
       "edge": -0.35,
@@ -113,15 +122,6 @@
       "ai_probability": 8.0,
       "market_price": 4.5,
       "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-08T20:13:51.560018",
-      "ai_probability": 3.0,
-      "market_price": 4.25,
-      "edge": -1.25,
       "confidence": "MEDIUM"
     },
     {
