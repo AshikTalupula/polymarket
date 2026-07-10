@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T19:51:43.567548+00:00",
+  "updated_at": "2026-07-10T20:56:53.700551+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,36 +8,117 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+      "latest": "2026-07-10T20:56:51.691794",
+      "ai_probability": 62.0,
+      "market_price": 54.50000000000001,
+      "edge": 7.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+      "latest": "2026-07-10T20:56:48.346358",
+      "ai_probability": 42.0,
+      "market_price": 36.449999999999996,
+      "edge": 5.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-07-10T20:56:44.765295",
+      "ai_probability": 1.5,
+      "market_price": 2.0500000000000003,
+      "edge": -0.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "latest": "2026-07-10T20:56:41.278055",
+      "ai_probability": 30.0,
+      "market_price": 22.7,
+      "edge": 7.3,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-10T20:56:37.761944",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": 7.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-10T20:56:34.286424",
+      "ai_probability": 82.0,
+      "market_price": 77.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-10T20:56:30.552172",
+      "ai_probability": 12.0,
+      "market_price": 15.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-10T20:56:27.002706",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
       "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "latest": "2026-07-10T19:46:50.968069",
+      "latest": "2026-07-10T20:56:23.624973",
       "ai_probability": 8.0,
-      "market_price": 4.5,
-      "edge": -3.5,
+      "market_price": 5.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-10T20:56:20.138080",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-10T19:46:44.829086",
+      "latest": "2026-07-10T20:56:16.549082",
       "ai_probability": 15.0,
-      "market_price": 16.7,
-      "edge": -1.7,
+      "market_price": 19.900000000000002,
+      "edge": -4.9,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-07-10T19:46:40.217563",
+      "latest": "2026-07-10T20:56:12.812845",
       "ai_probability": 42.0,
-      "market_price": 37.55,
-      "edge": 4.45,
+      "market_price": 38.800000000000004,
+      "edge": 3.2,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Norway win the 2026 FIFA World Cup?",
       "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-07-10T19:46:36.464297",
+      "latest": "2026-07-10T20:56:09.040728",
       "ai_probability": 4.0,
       "market_price": 6.25,
       "edge": -2.25,
@@ -59,87 +140,6 @@
       "ai_probability": 15.0,
       "market_price": 18.45,
       "edge": -3.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-10T13:33:25.683412",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-10T11:33:26.899656",
-      "ai_probability": 15.0,
-      "market_price": 7.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Wimbledon ATP: Arthur Fery vs Alexander Zverev",
-      "market_id": "0x528663818f8f40350e20d63acd3dbae9955ddbdd03860019a752c699aa6e5f31",
-      "latest": "2026-07-10T11:33:21.707998",
-      "ai_probability": 8.0,
-      "market_price": 14.499999999999998,
-      "edge": -6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-10T11:33:18.038334",
-      "ai_probability": 82.0,
-      "market_price": 85.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-10T11:33:12.873322",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-10T11:33:06.161726",
-      "ai_probability": 22.0,
-      "market_price": 15.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-07-10T08:37:54.383159",
-      "ai_probability": 1.5,
-      "market_price": 2.4,
-      "edge": -0.9,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-10T08:37:50.837644",
-      "ai_probability": 15.0,
-      "market_price": 14.7,
-      "edge": 0.3,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-10T08:37:37.444818",
-      "ai_probability": 5.0,
-      "market_price": 3.95,
-      "edge": 1.05,
       "confidence": "MEDIUM"
     }
   ]
