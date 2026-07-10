@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-10T11:33:28.915947+00:00",
+  "updated_at": "2026-07-10T13:38:16.753053+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5551,
+      "timestamp": "2026-07-10T13:33:25.683412",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 5.0,
+      "market_price": 8.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5550,
       "timestamp": "2026-07-10T11:33:26.899656",
@@ -1189,18 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 5451,
-      "timestamp": "2026-07-09T10:31:28.703098",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 25.0,
-      "market_price": 16.5,
-      "edge": 8.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
