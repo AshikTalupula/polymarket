@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T01:08:11.948612+00:00",
+  "updated_at": "2026-07-10T05:06:16.678026+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,36 +8,108 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-07-10T05:06:14.547208",
+      "ai_probability": 1.5,
+      "market_price": 2.35,
+      "edge": -0.85,
+      "confidence": "LOW"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-10T05:06:11.196195",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "latest": "2026-07-10T05:06:07.983546",
+      "ai_probability": 15.0,
+      "market_price": 14.549999999999999,
+      "edge": 0.45,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-10T01:06:57.851064",
-      "ai_probability": 87.0,
+      "latest": "2026-07-10T05:06:04.281738",
+      "ai_probability": 82.0,
       "market_price": 84.5,
-      "edge": 2.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-10T05:06:00.906198",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-07-10T05:05:57.421319",
+      "ai_probability": 2.5,
+      "market_price": 4.05,
+      "edge": -1.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-10T05:05:53.909815",
+      "ai_probability": 25.0,
+      "market_price": 16.5,
+      "edge": 8.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "latest": "2026-07-10T05:05:50.425771",
+      "ai_probability": 2.0,
+      "market_price": 4.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-10T05:05:46.957522",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": -6.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Norway win the 2026 FIFA World Cup?",
       "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-07-10T01:02:07.123613",
-      "ai_probability": 4.0,
+      "latest": "2026-07-10T05:05:43.606474",
+      "ai_probability": 3.0,
       "market_price": 5.8500000000000005,
-      "edge": -1.85,
+      "edge": -2.85,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Belgium win the 2026 FIFA World Cup?",
       "market_id": "0x32cfa52198e85e070d1b17d1b53c5c3a6aaae7736cdc33fa6aa04d353f0c2811",
-      "latest": "2026-07-10T01:02:03.611843",
-      "ai_probability": 4.0,
+      "latest": "2026-07-10T05:05:40.031141",
+      "ai_probability": 1.5,
       "market_price": 2.15,
-      "edge": -1.85,
+      "edge": -0.65,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-07-10T01:02:00.245078",
+      "latest": "2026-07-10T05:05:36.368534",
       "ai_probability": 12.0,
       "market_price": 15.950000000000001,
       "edge": -3.95,
@@ -46,7 +118,7 @@
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-10T01:01:56.625508",
+      "latest": "2026-07-10T05:05:32.917107",
       "ai_probability": 15.0,
       "market_price": 17.25,
       "edge": -2.25,
@@ -55,91 +127,19 @@
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-10T01:01:53.062260",
+      "latest": "2026-07-10T05:05:29.455075",
       "ai_probability": 15.0,
-      "market_price": 17.849999999999998,
-      "edge": -2.85,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-09T21:53:07.561337",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
+      "market_price": 18.15,
+      "edge": -3.15,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-07-09T21:51:14.215812",
-      "ai_probability": 45.0,
-      "market_price": 39.85,
-      "edge": 5.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-09T20:14:18.283666",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Norway win on 2026-07-11?",
-      "market_id": "0x4b84a8e08cb3376c9e5be5cc5a37f7073de05cdf0810d2ad3fe745c4760ef3e0",
-      "latest": "2026-07-09T20:11:26.942548",
-      "ai_probability": 20.0,
-      "market_price": 22.625,
-      "edge": -2.62,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
-      "market_id": "0xc851fc5ae688d3d67bccb7c8f0ca475f61ebda796cfcddca7230042de6b48cfd",
-      "latest": "2026-07-09T20:11:23.478564",
-      "ai_probability": 71.0,
-      "market_price": 66.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Morocco win the 2026 FIFA World Cup?",
-      "market_id": "0x37a6de1b21803e5f3fb1965116218215d79963af4f7e51659696366267a63a03",
-      "latest": "2026-07-09T20:11:09.653653",
-      "ai_probability": 2.5,
-      "market_price": 3.15,
-      "edge": -0.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Switzerland win the 2026 FIFA World Cup?",
-      "market_id": "0x3a26ca6425e2d98f14935670bc22cdb0744defc6f6d83c65f8c413a921c5c70c",
-      "latest": "2026-07-09T20:11:02.305892",
-      "ai_probability": 2.0,
-      "market_price": 2.0500000000000003,
-      "edge": -0.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "latest": "2026-07-09T18:14:12.031640",
-      "ai_probability": 8.0,
-      "market_price": 4.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-09T18:14:08.653163",
-      "ai_probability": 22.0,
-      "market_price": 15.5,
-      "edge": 6.5,
+      "latest": "2026-07-10T05:05:25.974522",
+      "ai_probability": 55.0,
+      "market_price": 38.550000000000004,
+      "edge": 16.45,
       "confidence": "MEDIUM"
     }
   ]
