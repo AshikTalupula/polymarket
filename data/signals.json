@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-07-10T22:15:57.632889+00:00",
+  "updated_at": "2026-07-10T23:19:36.545118+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5580,
+      "timestamp": "2026-07-10T23:15:21.752868",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 12.0,
+      "market_price": 15.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5579,
+      "timestamp": "2026-07-10T23:12:55.978320",
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "ai_probability": 15.0,
+      "market_price": 14.649999999999999,
+      "edge": 0.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5578,
+      "timestamp": "2026-07-10T23:12:52.591067",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 25.0,
+      "market_price": 21.05,
+      "edge": 3.95,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5577,
+      "timestamp": "2026-07-10T23:12:49.230883",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 15.0,
+      "market_price": 17.75,
+      "edge": -2.75,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5576,
+      "timestamp": "2026-07-10T23:12:45.933562",
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "ai_probability": 42.0,
+      "market_price": 37.35,
+      "edge": 4.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5575,
       "timestamp": "2026-07-10T22:09:54.186824",
@@ -1141,66 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 5480,
-      "timestamp": "2026-07-09T16:15:35.859821",
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "ai_probability": 8.0,
-      "market_price": 4.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5479,
-      "timestamp": "2026-07-09T16:15:32.269469",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 25.0,
-      "market_price": 15.5,
-      "edge": 9.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5478,
-      "timestamp": "2026-07-09T16:15:28.830485",
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5477,
-      "timestamp": "2026-07-09T16:15:25.298127",
-      "market_question": "Will Norway win on 2026-07-11?",
-      "market_id": "0x4b84a8e08cb3376c9e5be5cc5a37f7073de05cdf0810d2ad3fe745c4760ef3e0",
-      "ai_probability": 25.0,
-      "market_price": 22.375,
-      "edge": 2.62,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5476,
-      "timestamp": "2026-07-09T16:15:21.938376",
-      "market_question": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
-      "market_id": "0xc851fc5ae688d3d67bccb7c8f0ca475f61ebda796cfcddca7230042de6b48cfd",
-      "ai_probability": 61.0,
-      "market_price": 66.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
     }
   ]
 }

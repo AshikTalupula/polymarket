@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T22:15:57.636065+00:00",
+  "updated_at": "2026-07-10T23:19:36.548939+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,27 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "latest": "2026-07-10T22:09:54.186824",
-      "ai_probability": 4.0,
-      "market_price": 6.05,
-      "edge": -2.05,
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-10T23:15:21.752868",
+      "ai_probability": 12.0,
+      "market_price": 15.5,
+      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-07-10T22:09:12.580343",
+      "latest": "2026-07-10T23:12:55.978320",
       "ai_probability": 15.0,
-      "market_price": 14.75,
-      "edge": 0.25,
+      "market_price": 14.649999999999999,
+      "edge": 0.35,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-10T22:09:09.038627",
+      "latest": "2026-07-10T23:12:52.591067",
       "ai_probability": 25.0,
       "market_price": 21.05,
       "edge": 3.95,
@@ -37,19 +37,28 @@
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-10T22:09:05.516006",
+      "latest": "2026-07-10T23:12:49.230883",
       "ai_probability": 15.0,
-      "market_price": 17.65,
-      "edge": -2.65,
+      "market_price": 17.75,
+      "edge": -2.75,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-07-10T22:09:01.882756",
+      "latest": "2026-07-10T23:12:45.933562",
       "ai_probability": 42.0,
-      "market_price": 37.25,
-      "edge": 4.75,
+      "market_price": 37.35,
+      "edge": 4.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Norway win the 2026 FIFA World Cup?",
+      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
+      "latest": "2026-07-10T22:09:54.186824",
+      "ai_probability": 4.0,
+      "market_price": 6.05,
+      "edge": -2.05,
       "confidence": "MEDIUM"
     },
     {
@@ -104,15 +113,6 @@
       "ai_probability": 82.0,
       "market_price": 77.5,
       "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-10T20:56:30.552172",
-      "ai_probability": 12.0,
-      "market_price": 15.5,
-      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
