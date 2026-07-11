@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-11T03:48:04.723992+00:00",
+  "updated_at": "2026-07-11T06:08:00.517304+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5601,
+      "timestamp": "2026-07-11T06:04:16.127115",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 25.0,
+      "market_price": 15.5,
+      "edge": 9.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 5600,
+      "timestamp": "2026-07-11T06:04:10.491313",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 82.0,
+      "market_price": 77.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5599,
       "timestamp": "2026-07-11T03:48:02.718947",
@@ -1174,30 +1198,6 @@
       "ai_probability": 4.0,
       "market_price": 6.5,
       "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5501,
-      "timestamp": "2026-07-09T20:11:26.942548",
-      "market_question": "Will Norway win on 2026-07-11?",
-      "market_id": "0x4b84a8e08cb3376c9e5be5cc5a37f7073de05cdf0810d2ad3fe745c4760ef3e0",
-      "ai_probability": 20.0,
-      "market_price": 22.625,
-      "edge": -2.62,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5500,
-      "timestamp": "2026-07-09T20:11:23.478564",
-      "market_question": "UFC 329: Max Holloway vs. Conor McGregor (Welterweight, Main Card)",
-      "market_id": "0xc851fc5ae688d3d67bccb7c8f0ca475f61ebda796cfcddca7230042de6b48cfd",
-      "ai_probability": 71.0,
-      "market_price": 66.5,
-      "edge": 4.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
