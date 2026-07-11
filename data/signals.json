@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-10T23:19:36.545118+00:00",
+  "updated_at": "2026-07-11T00:20:35.449362+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5584,
+      "timestamp": "2026-07-11T00:18:44.842550",
+      "market_question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
+      "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+      "ai_probability": 50.0,
+      "market_price": 43.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 5583,
+      "timestamp": "2026-07-11T00:13:50.932899",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 15.0,
+      "market_price": 18.25,
+      "edge": -3.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5582,
+      "timestamp": "2026-07-11T00:13:47.655667",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 18.0,
+      "market_price": 21.05,
+      "edge": -3.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5581,
+      "timestamp": "2026-07-11T00:13:44.131089",
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "ai_probability": 42.0,
+      "market_price": 37.35,
+      "edge": 4.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5580,
       "timestamp": "2026-07-10T23:15:21.752868",
@@ -1150,54 +1198,6 @@
       "ai_probability": 1.8,
       "market_price": 2.0500000000000003,
       "edge": -0.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5484,
-      "timestamp": "2026-07-09T16:15:49.454338",
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "ai_probability": 20.0,
-      "market_price": 15.45,
-      "edge": -4.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5483,
-      "timestamp": "2026-07-09T16:15:45.838938",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 82.0,
-      "market_price": 84.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5482,
-      "timestamp": "2026-07-09T16:15:42.514751",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5481,
-      "timestamp": "2026-07-09T16:15:39.127248",
-      "market_question": "Will England win on 2026-07-11?",
-      "market_id": "0x0f5e01cf1cabb6c49e424f230ca77a2ccd3e1ac63b31ae03ef749ac2bde7fa0e",
-      "ai_probability": 55.0,
-      "market_price": 52.125,
-      "edge": 2.88,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
