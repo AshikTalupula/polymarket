@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T09:30:25.177296+00:00",
+  "updated_at": "2026-07-12T13:58:33.299132+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,12 +8,75 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "latest": "2026-07-12T13:54:54.975362",
+      "ai_probability": 2.0,
+      "market_price": 4.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Wimbledon ATP: Jannik Sinner vs Alexander Zverev",
+      "market_id": "0xb96585ac41b808bac0bcfa00f39a92990c64dc413804368c7191ad4e1cd299a5",
+      "latest": "2026-07-12T13:53:17.656893",
+      "ai_probability": 78.0,
+      "market_price": 82.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "France vs. Spain: Team to Advance",
       "market_id": "0xecba7b1db1c698ab73b3572abfcde327a02b5112676144e049edcc1e1e0f5b0b",
-      "latest": "2026-07-12T09:24:22.488849",
+      "latest": "2026-07-12T13:53:14.104902",
       "ai_probability": 62.0,
       "market_price": 59.5,
       "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will France win on 2026-07-14?",
+      "market_id": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
+      "latest": "2026-07-12T13:53:10.420363",
+      "ai_probability": 45.0,
+      "market_price": 41.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "latest": "2026-07-12T13:53:07.225988",
+      "ai_probability": 18.0,
+      "market_price": 21.55,
+      "edge": -3.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-07-12T13:53:03.933720",
+      "ai_probability": 18.0,
+      "market_price": 20.05,
+      "edge": -2.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-07-12T13:53:00.565052",
+      "ai_probability": 25.0,
+      "market_price": 18.95,
+      "edge": 6.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "latest": "2026-07-12T13:52:57.193565",
+      "ai_probability": 42.0,
+      "market_price": 38.85,
+      "edge": 3.15,
       "confidence": "MEDIUM"
     },
     {
@@ -23,15 +86,6 @@
       "ai_probability": 25.0,
       "market_price": 17.5,
       "edge": 7.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "latest": "2026-07-12T07:21:49.011468",
-      "ai_probability": 2.0,
-      "market_price": 4.5,
-      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -80,66 +134,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will France win on 2026-07-14?",
-      "market_id": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
-      "latest": "2026-07-12T07:20:34.089086",
-      "ai_probability": 45.0,
-      "market_price": 42.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
       "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
       "latest": "2026-07-12T04:45:40.871471",
       "ai_probability": 62.0,
       "market_price": 60.5,
       "edge": 1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will France reach the 2026 FIFA World Cup final?",
-      "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
-      "latest": "2026-07-12T04:45:37.557513",
-      "ai_probability": 62.0,
-      "market_price": 59.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-12T04:45:30.328067",
-      "ai_probability": 4.0,
-      "market_price": 3.55,
-      "edge": 0.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-12T04:45:09.463099",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-07-12T04:45:01.532655",
-      "ai_probability": 25.0,
-      "market_price": 20.95,
-      "edge": 4.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-07-12T04:44:57.984035",
-      "ai_probability": 42.0,
-      "market_price": 38.45,
-      "edge": 3.55,
       "confidence": "MEDIUM"
     }
   ]
