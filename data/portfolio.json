@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T18:19:40.901836+00:00",
+  "updated_at": "2026-07-12T19:40:58.412268+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,36 +8,63 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-07-12T19:37:17.534103",
+      "ai_probability": 5.0,
+      "market_price": 3.85,
+      "edge": 1.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-12T19:35:06.879507",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "latest": "2026-07-12T19:35:03.329304",
+      "ai_probability": 8.0,
+      "market_price": 4.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "latest": "2026-07-12T18:12:58.982566",
-      "ai_probability": 25.0,
-      "market_price": 21.55,
-      "edge": 3.45,
+      "latest": "2026-07-12T19:34:59.270593",
+      "ai_probability": 18.0,
+      "market_price": 21.45,
+      "edge": -3.45,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-12T18:12:55.207369",
+      "latest": "2026-07-12T19:34:55.994146",
       "ai_probability": 18.0,
-      "market_price": 20.05,
-      "edge": -2.05,
+      "market_price": 20.25,
+      "edge": -2.25,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-12T18:12:51.572330",
-      "ai_probability": 15.0,
-      "market_price": 18.55,
-      "edge": -3.55,
+      "latest": "2026-07-12T19:34:52.581065",
+      "ai_probability": 25.0,
+      "market_price": 18.25,
+      "edge": 6.75,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will France win the 2026 FIFA World Cup?",
       "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "latest": "2026-07-12T18:12:48.040125",
+      "latest": "2026-07-12T19:34:49.050815",
       "ai_probability": 42.0,
       "market_price": 38.85,
       "edge": 3.15,
@@ -50,15 +77,6 @@
       "ai_probability": 82.0,
       "market_price": 79.5,
       "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "latest": "2026-07-12T13:54:54.975362",
-      "ai_probability": 2.0,
-      "market_price": 4.5,
-      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -122,24 +140,6 @@
       "ai_probability": 35.0,
       "market_price": 20.65,
       "edge": 14.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
-      "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
-      "latest": "2026-07-12T07:20:39.741149",
-      "ai_probability": 62.0,
-      "market_price": 58.5,
-      "edge": 3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
-      "latest": "2026-07-12T04:45:40.871471",
-      "ai_probability": 62.0,
-      "market_price": 60.5,
-      "edge": 1.5,
       "confidence": "MEDIUM"
     }
   ]

@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-07-12T18:19:40.899212+00:00",
+  "updated_at": "2026-07-12T19:40:58.408316+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5669,
+      "timestamp": "2026-07-12T19:37:17.534103",
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "ai_probability": 5.0,
+      "market_price": 3.85,
+      "edge": 1.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5668,
+      "timestamp": "2026-07-12T19:35:06.879507",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 5667,
+      "timestamp": "2026-07-12T19:35:03.329304",
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "ai_probability": 8.0,
+      "market_price": 4.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5666,
+      "timestamp": "2026-07-12T19:34:59.270593",
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "ai_probability": 18.0,
+      "market_price": 21.45,
+      "edge": -3.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5665,
+      "timestamp": "2026-07-12T19:34:55.994146",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 18.0,
+      "market_price": 20.25,
+      "edge": -2.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5664,
+      "timestamp": "2026-07-12T19:34:52.581065",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 25.0,
+      "market_price": 18.25,
+      "edge": 6.75,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 5663,
+      "timestamp": "2026-07-12T19:34:49.050815",
+      "market_question": "Will France win the 2026 FIFA World Cup?",
+      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
+      "ai_probability": 42.0,
+      "market_price": 38.85,
+      "edge": 3.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5662,
       "timestamp": "2026-07-12T18:12:58.982566",
@@ -1117,90 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
-    },
-    {
-      "id": 5569,
-      "timestamp": "2026-07-10T20:56:48.346358",
-      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
-      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
-      "ai_probability": 42.0,
-      "market_price": 36.449999999999996,
-      "edge": 5.55,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5568,
-      "timestamp": "2026-07-10T20:56:44.765295",
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "ai_probability": 1.5,
-      "market_price": 2.0500000000000003,
-      "edge": -0.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5567,
-      "timestamp": "2026-07-10T20:56:41.278055",
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "ai_probability": 30.0,
-      "market_price": 22.7,
-      "edge": 7.3,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5566,
-      "timestamp": "2026-07-10T20:56:37.761944",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 7.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5565,
-      "timestamp": "2026-07-10T20:56:34.286424",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 82.0,
-      "market_price": 77.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5564,
-      "timestamp": "2026-07-10T20:56:30.552172",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 12.0,
-      "market_price": 15.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5563,
-      "timestamp": "2026-07-10T20:56:27.002706",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
