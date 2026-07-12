@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-12T07:21:54.830968+00:00",
+  "updated_at": "2026-07-12T09:30:25.173130+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5645,
+      "timestamp": "2026-07-12T09:24:22.488849",
+      "market_question": "France vs. Spain: Team to Advance",
+      "market_id": "0xecba7b1db1c698ab73b3572abfcde327a02b5112676144e049edcc1e1e0f5b0b",
+      "ai_probability": 62.0,
+      "market_price": 59.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5644,
       "timestamp": "2026-07-12T07:21:52.826989",
@@ -1189,18 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 5545,
-      "timestamp": "2026-07-10T11:33:06.161726",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 22.0,
-      "market_price": 15.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
     }
   ]
 }
