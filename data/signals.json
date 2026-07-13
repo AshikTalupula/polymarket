@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-13T13:45:18.473064+00:00",
+  "updated_at": "2026-07-13T16:16:48.892310+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5707,
+      "timestamp": "2026-07-13T16:13:09.123943",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5706,
+      "timestamp": "2026-07-13T16:11:45.632240",
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "ai_probability": 5.0,
+      "market_price": 3.4000000000000004,
+      "edge": -1.6,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5705,
+      "timestamp": "2026-07-13T16:11:41.409224",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 2.0500000000000003,
+      "edge": -0.05,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5704,
       "timestamp": "2026-07-13T13:41:01.564767",
@@ -1162,42 +1198,6 @@
       "ai_probability": 82.0,
       "market_price": 77.5,
       "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5607,
-      "timestamp": "2026-07-11T09:52:21.228660",
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5606,
-      "timestamp": "2026-07-11T09:52:17.884583",
-      "market_question": "Will Norway win the 2026 FIFA World Cup?",
-      "market_id": "0x7b52405ad0e0d31bfe970940b67d77f24ecedeab8a2361c11148c02a006e325c",
-      "ai_probability": 4.0,
-      "market_price": 5.8500000000000005,
-      "edge": -1.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5605,
-      "timestamp": "2026-07-11T09:52:14.429928",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 10.0,
-      "market_price": 14.549999999999999,
-      "edge": -4.55,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
