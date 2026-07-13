@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T01:14:29.468529+00:00",
+  "updated_at": "2026-07-13T04:47:12.730312+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,12 +8,48 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-13T04:45:58.171461",
+      "ai_probability": 80.0,
+      "market_price": 17.5,
+      "edge": 62.5,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-13T04:45:52.833316",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-13T04:45:49.272581",
+      "ai_probability": 82.0,
+      "market_price": 76.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-07-13T04:45:45.530378",
+      "ai_probability": 2.0,
+      "market_price": 2.0500000000000003,
+      "edge": -0.05,
+      "confidence": "HIGH"
+    },
+    {
       "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
       "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "latest": "2026-07-12T22:26:43.921432",
-      "ai_probability": 15.0,
-      "market_price": 4.5,
-      "edge": -10.5,
+      "latest": "2026-07-13T04:45:40.245723",
+      "ai_probability": 5.0,
+      "market_price": 2.65,
+      "edge": -2.35,
       "confidence": "MEDIUM"
     },
     {
@@ -44,15 +80,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-12T21:29:44.909617",
-      "ai_probability": 25.0,
-      "market_price": 16.5,
-      "edge": 8.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will England win the 2026 FIFA World Cup?",
       "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
       "latest": "2026-07-12T21:24:04.256038",
@@ -77,15 +104,6 @@
       "ai_probability": 15.0,
       "market_price": 8.5,
       "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-12T16:12:10.960500",
-      "ai_probability": 82.0,
-      "market_price": 79.5,
-      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -122,24 +140,6 @@
       "ai_probability": 42.0,
       "market_price": 35.85,
       "edge": 6.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-12T07:20:50.001929",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-12T07:20:46.690461",
-      "ai_probability": 35.0,
-      "market_price": 20.65,
-      "edge": 14.35,
       "confidence": "MEDIUM"
     }
   ]
