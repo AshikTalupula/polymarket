@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T11:26:29.244473+00:00",
+  "updated_at": "2026-07-13T13:45:18.476933+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-07-13T13:41:01.564767",
+      "ai_probability": 2.0,
+      "market_price": 2.0500000000000003,
+      "edge": -0.05,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
+      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "latest": "2026-07-13T13:40:55.463076",
+      "ai_probability": 5.0,
+      "market_price": 3.35,
+      "edge": -1.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-13T13:40:51.554299",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
@@ -35,24 +62,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Jesus Christ return before 2027?",
-      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
-      "latest": "2026-07-13T11:23:52.914629",
-      "ai_probability": 2.0,
-      "market_price": 2.0500000000000003,
-      "edge": -0.05,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "latest": "2026-07-13T11:23:47.772648",
-      "ai_probability": 5.0,
-      "market_price": 2.75,
-      "edge": -2.25,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
       "latest": "2026-07-13T07:58:56.977484",
@@ -77,15 +86,6 @@
       "ai_probability": 62.0,
       "market_price": 56.49999999999999,
       "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-13T07:58:27.275213",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
