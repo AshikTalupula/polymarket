@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-14T08:23:17.207127+00:00",
+  "updated_at": "2026-07-14T10:19:30.856693+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5746,
+      "timestamp": "2026-07-14T10:13:28.275325",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 25.0,
+      "market_price": 18.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 5745,
       "timestamp": "2026-07-14T08:20:13.143948",
@@ -1189,18 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
-    },
-    {
-      "id": 5646,
-      "timestamp": "2026-07-12T13:52:57.193565",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 42.0,
-      "market_price": 38.85,
-      "edge": 3.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }

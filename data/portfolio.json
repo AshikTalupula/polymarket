@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T08:23:17.209407+00:00",
+  "updated_at": "2026-07-14T10:19:30.860373+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,10 +10,10 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-14T08:20:13.143948",
-      "ai_probability": 23.0,
+      "latest": "2026-07-14T10:13:28.275325",
+      "ai_probability": 25.0,
       "market_price": 18.5,
-      "edge": 4.5,
+      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
