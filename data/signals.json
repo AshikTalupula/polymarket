@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-14T16:29:41.304567+00:00",
+  "updated_at": "2026-07-14T17:46:33.835425+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5764,
+      "timestamp": "2026-07-14T17:43:28.446220",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 10.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5763,
+      "timestamp": "2026-07-14T17:43:20.744087",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 85.0,
+      "market_price": 90.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5762,
+      "timestamp": "2026-07-14T17:43:14.811442",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 25.0,
+      "market_price": 19.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 5761,
       "timestamp": "2026-07-14T16:27:12.545365",
@@ -1162,42 +1198,6 @@
       "ai_probability": 18.0,
       "market_price": 20.25,
       "edge": -2.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5664,
-      "timestamp": "2026-07-12T19:34:52.581065",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 25.0,
-      "market_price": 18.25,
-      "edge": 6.75,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5663,
-      "timestamp": "2026-07-12T19:34:49.050815",
-      "market_question": "Will France win the 2026 FIFA World Cup?",
-      "market_id": "0x9b6fef249040fd17e9c107955b37ac2c3e923509b6b0ff01cc463a331ddeb894",
-      "ai_probability": 42.0,
-      "market_price": 38.85,
-      "edge": 3.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5662,
-      "timestamp": "2026-07-12T18:12:58.982566",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 25.0,
-      "market_price": 21.55,
-      "edge": 3.45,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
