@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T14:25:25.258048+00:00",
+  "updated_at": "2026-07-15T16:04:56.139831+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,15 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-15T15:58:11.246522",
+      "ai_probability": 25.0,
+      "market_price": 17.5,
+      "edge": 7.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Hantavirus pandemic in 2026?",
       "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
@@ -41,15 +50,6 @@
       "ai_probability": 96.0,
       "market_price": 94.95,
       "edge": 1.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-15T14:20:33.894186",
-      "ai_probability": 25.0,
-      "market_price": 18.5,
-      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
