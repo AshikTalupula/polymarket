@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T22:18:13.628486+00:00",
+  "updated_at": "2026-07-15T23:23:26.877637+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,51 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-15T23:20:23.351995",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+      "latest": "2026-07-15T23:16:19.453727",
+      "ai_probability": 70.0,
+      "market_price": 65.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-15T23:16:15.831241",
+      "ai_probability": 92.0,
+      "market_price": 95.35,
+      "edge": -3.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-07-15T23:16:12.532568",
+      "ai_probability": 52.0,
+      "market_price": 57.95,
+      "edge": -5.95,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-07-15T23:16:08.468338",
+      "ai_probability": 58.0,
+      "market_price": 42.15,
+      "edge": 15.85,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Putin out as President of Russia by December 31, 2026?",
       "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
@@ -24,33 +69,6 @@
       "market_price": 7.5,
       "edge": -2.5,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-15T22:11:15.013247",
-      "ai_probability": 92.0,
-      "market_price": 95.25,
-      "edge": -3.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-15T22:11:11.451312",
-      "ai_probability": 62.0,
-      "market_price": 58.050000000000004,
-      "edge": 3.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-15T22:11:07.975811",
-      "ai_probability": 67.0,
-      "market_price": 41.949999999999996,
-      "edge": 25.05,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Will England win the 2026 FIFA World Cup?",
@@ -98,30 +116,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
-      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
-      "latest": "2026-07-15T11:02:59.748836",
-      "ai_probability": 62.0,
-      "market_price": 50.849999999999994,
-      "edge": 11.15,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
       "latest": "2026-07-15T06:32:30.030402",
       "ai_probability": 5.0,
       "market_price": 7.049999999999999,
       "edge": -2.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-15T06:32:26.679340",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {
