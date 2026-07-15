@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-07-15T17:33:14.878483+00:00",
+  "updated_at": "2026-07-15T19:57:13.200807+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5822,
+      "timestamp": "2026-07-15T19:51:05.934037",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5821,
+      "timestamp": "2026-07-15T19:51:02.211819",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 92.0,
+      "market_price": 95.25,
+      "edge": -3.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5820,
+      "timestamp": "2026-07-15T19:50:58.686116",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 25.0,
+      "market_price": 20.349999999999998,
+      "edge": 4.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5819,
+      "timestamp": "2026-07-15T19:50:54.486015",
+      "market_question": "Will England win the 2026 FIFA World Cup?",
+      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
+      "ai_probability": 20.0,
+      "market_price": 23.25,
+      "edge": -3.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5818,
+      "timestamp": "2026-07-15T19:50:50.862254",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 62.0,
+      "market_price": 58.15,
+      "edge": 3.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5817,
       "timestamp": "2026-07-15T15:58:11.246522",
@@ -1141,66 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 5722,
-      "timestamp": "2026-07-14T03:32:26.684552",
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "ai_probability": 5.0,
-      "market_price": 2.75,
-      "edge": -2.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5721,
-      "timestamp": "2026-07-14T03:32:23.136857",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 27.0,
-      "market_price": 19.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5720,
-      "timestamp": "2026-07-14T03:32:19.881916",
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5719,
-      "timestamp": "2026-07-14T03:32:16.451235",
-      "market_question": "Will France reach the 2026 FIFA World Cup final?",
-      "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
-      "ai_probability": 62.0,
-      "market_price": 59.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5718,
-      "timestamp": "2026-07-14T03:32:12.903844",
-      "market_question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
-      "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
-      "ai_probability": 62.0,
-      "market_price": 56.49999999999999,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
