@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-15T19:57:13.200807+00:00",
+  "updated_at": "2026-07-15T21:10:21.781891+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5824,
+      "timestamp": "2026-07-15T21:03:38.866060",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 92.0,
+      "market_price": 95.35,
+      "edge": -3.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5823,
+      "timestamp": "2026-07-15T21:03:26.386589",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 80.0,
+      "market_price": 58.15,
+      "edge": 15.0,
+      "confidence": "HIGH",
+      "direction": "SHOCK_TRADE",
+      "acted_on": 1
+    },
     {
       "id": 5822,
       "timestamp": "2026-07-15T19:51:05.934037",
@@ -1174,30 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 3.85,
       "edge": 1.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5724,
-      "timestamp": "2026-07-14T03:32:33.550307",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5723,
-      "timestamp": "2026-07-14T03:32:30.235846",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 70.0,
-      "market_price": 65.5,
-      "edge": 4.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0

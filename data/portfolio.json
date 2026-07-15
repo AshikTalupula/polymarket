@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T19:57:13.204563+00:00",
+  "updated_at": "2026-07-15T21:10:21.785825+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,21 +8,30 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-15T21:03:38.866060",
+      "ai_probability": 92.0,
+      "market_price": 95.35,
+      "edge": -3.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-07-15T21:03:26.386589",
+      "ai_probability": 80.0,
+      "market_price": 58.15,
+      "edge": 15.0,
+      "confidence": "HIGH"
+    },
+    {
       "market_question": "Putin out as President of Russia by December 31, 2026?",
       "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
       "latest": "2026-07-15T19:51:05.934037",
       "ai_probability": 15.0,
       "market_price": 9.5,
       "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-15T19:51:02.211819",
-      "ai_probability": 92.0,
-      "market_price": 95.25,
-      "edge": -3.25,
       "confidence": "MEDIUM"
     },
     {
@@ -41,15 +50,6 @@
       "ai_probability": 20.0,
       "market_price": 23.25,
       "edge": -3.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-15T19:50:50.862254",
-      "ai_probability": 62.0,
-      "market_price": 58.15,
-      "edge": 3.85,
       "confidence": "MEDIUM"
     },
     {
