@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-15T09:05:00.095409+00:00",
+  "updated_at": "2026-07-15T11:04:51.651614+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5803,
+      "timestamp": "2026-07-15T11:02:59.748836",
+      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+      "ai_probability": 62.0,
+      "market_price": 50.849999999999994,
+      "edge": 11.15,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 5802,
+      "timestamp": "2026-07-15T10:59:12.044200",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5801,
+      "timestamp": "2026-07-15T10:59:08.506915",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 95.0,
+      "market_price": 93.5,
+      "edge": 1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5800,
+      "timestamp": "2026-07-15T10:59:04.893008",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 35.0,
+      "market_price": 18.5,
+      "edge": 16.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 5799,
       "timestamp": "2026-07-15T08:59:10.712992",
@@ -1153,54 +1201,6 @@
       "confidence": "HIGH",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 5703,
-      "timestamp": "2026-07-13T13:40:55.463076",
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "ai_probability": 5.0,
-      "market_price": 3.35,
-      "edge": -1.65,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5702,
-      "timestamp": "2026-07-13T13:40:51.554299",
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 5701,
-      "timestamp": "2026-07-13T11:24:05.245220",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 25.0,
-      "market_price": 17.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5700,
-      "timestamp": "2026-07-13T11:23:59.556877",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 82.0,
-      "market_price": 76.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
