@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T01:03:59.525254+00:00",
+  "updated_at": "2026-07-15T04:13:51.164013+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,28 +10,82 @@
     {
       "market_question": "Will Argentina reach the 2026 FIFA World Cup final?",
       "market_id": "0x328583376667b725cc6848dc9b61b205579b1314ecdb4334ea245aec270d2c66",
-      "latest": "2026-07-15T01:03:21.381090",
-      "ai_probability": 0.0,
-      "market_price": 46.6,
-      "edge": -46.6,
-      "confidence": "HIGH"
+      "latest": "2026-07-15T04:12:36.956027",
+      "ai_probability": 53.0,
+      "market_price": 46.85,
+      "edge": 6.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-15T04:12:33.281206",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+      "latest": "2026-07-15T04:12:30.204679",
+      "ai_probability": 62.0,
+      "market_price": 54.15,
+      "edge": 8.0,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "latest": "2026-07-15T04:12:27.000157",
+      "ai_probability": 12.0,
+      "market_price": 7.049999999999999,
+      "edge": 4.95,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
+      "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
+      "latest": "2026-07-15T04:12:23.528173",
+      "ai_probability": 42.0,
+      "market_price": 34.5,
+      "edge": 7.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-15T04:12:20.047991",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
     },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-15T00:59:04.366676",
-      "ai_probability": 5.0,
+      "latest": "2026-07-15T04:12:16.867064",
+      "ai_probability": 2.0,
       "market_price": 3.65,
-      "edge": 1.35,
+      "edge": -1.65,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-15T00:59:01.059110",
+      "latest": "2026-07-15T04:12:11.902740",
       "ai_probability": 95.0,
-      "market_price": 91.5,
-      "edge": 3.5,
+      "market_price": 92.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-15T04:12:08.624792",
+      "ai_probability": 25.0,
+      "market_price": 19.5,
+      "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {
@@ -71,24 +125,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-14T21:29:05.882709",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-14T17:43:14.811442",
-      "ai_probability": 25.0,
-      "market_price": 19.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will France reach the 2026 FIFA World Cup final?",
       "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
       "latest": "2026-07-14T16:23:00.413279",
@@ -104,42 +140,6 @@
       "ai_probability": 42.0,
       "market_price": 38.95,
       "edge": 3.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
-      "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
-      "latest": "2026-07-14T14:59:36.789183",
-      "ai_probability": 62.0,
-      "market_price": 56.49999999999999,
-      "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by July 31?",
-      "market_id": "0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
-      "latest": "2026-07-14T14:59:26.336318",
-      "ai_probability": 1.0,
-      "market_price": 2.15,
-      "edge": -1.15,
-      "confidence": "LOW"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-07-14T05:57:11.630122",
-      "ai_probability": 1.8,
-      "market_price": 2.4,
-      "edge": -0.6,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-14T05:57:00.094403",
-      "ai_probability": 42.0,
-      "market_price": 35.25,
-      "edge": 6.75,
       "confidence": "MEDIUM"
     }
   ]
