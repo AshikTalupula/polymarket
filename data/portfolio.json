@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T15:58:12.160944+00:00",
+  "updated_at": "2026-07-16T17:27:56.196166+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,36 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+      "latest": "2026-07-16T17:26:03.448009",
+      "ai_probability": 65.0,
+      "market_price": 62.45,
+      "edge": 2.55,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-16T17:22:04.634751",
+      "ai_probability": 30.0,
+      "market_price": 23.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-16T15:52:40.253393",
-      "ai_probability": 98.0,
-      "market_price": 95.95,
-      "edge": 2.05,
+      "latest": "2026-07-16T17:22:01.069787",
+      "ai_probability": 92.0,
+      "market_price": 95.75,
+      "edge": -3.75,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will France win on 2026-07-18?",
       "market_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
-      "latest": "2026-07-16T15:52:36.495686",
+      "latest": "2026-07-16T17:21:57.366090",
       "ai_probability": 52.0,
       "market_price": 49.5,
       "edge": 2.5,
@@ -28,28 +46,28 @@
     {
       "market_question": "Spain vs. Argentina: Team to Advance",
       "market_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
-      "latest": "2026-07-16T15:52:32.943242",
+      "latest": "2026-07-16T17:21:54.117991",
       "ai_probability": 62.0,
       "market_price": 58.5,
       "edge": 3.5,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-16T15:52:29.133296",
-      "ai_probability": 30.0,
-      "market_price": 23.5,
-      "edge": 6.5,
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-07-16T17:21:50.397798",
+      "ai_probability": 55.0,
+      "market_price": 41.65,
+      "edge": 13.35,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-16T15:52:23.024535",
-      "ai_probability": 45.0,
-      "market_price": 41.65,
-      "edge": 3.35,
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "latest": "2026-07-16T17:21:46.943715",
+      "ai_probability": 62.0,
+      "market_price": 58.35,
+      "edge": 3.65,
       "confidence": "MEDIUM"
     },
     {
@@ -86,24 +104,6 @@
       "ai_probability": 5.0,
       "market_price": 3.65,
       "edge": 1.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-16T14:20:04.494083",
-      "ai_probability": 62.0,
-      "market_price": 58.050000000000004,
-      "edge": 3.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
-      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
-      "latest": "2026-07-16T10:33:21.671616",
-      "ai_probability": 72.0,
-      "market_price": 63.449999999999996,
-      "edge": 8.55,
       "confidence": "MEDIUM"
     },
     {
