@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T22:50:37.772610+00:00",
+  "updated_at": "2026-07-16T23:50:18.486371+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will Spain win on 2026-07-19?",
-      "market_id": "0xdfbaae9f7587b11691c676d942f22b4ea9a9e3a68f7ca1d5d6bd4a1c967db23b",
-      "latest": "2026-07-16T22:43:57.775926",
-      "ai_probability": 45.0,
-      "market_price": 42.5,
-      "edge": 2.5,
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-16T23:46:02.250255",
+      "ai_probability": 35.0,
+      "market_price": 23.5,
+      "edge": 11.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Spain vs. Argentina: Team to Advance",
       "market_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
-      "latest": "2026-07-16T22:43:54.387568",
+      "latest": "2026-07-16T23:43:16.880281",
       "ai_probability": 62.0,
       "market_price": 58.5,
       "edge": 3.5,
@@ -28,7 +28,7 @@
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-16T22:43:50.896034",
+      "latest": "2026-07-16T23:43:13.595991",
       "ai_probability": 62.0,
       "market_price": 58.35,
       "edge": 3.65,
@@ -37,10 +37,19 @@
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-16T22:43:47.476730",
-      "ai_probability": 55.0,
+      "latest": "2026-07-16T23:43:09.799441",
+      "ai_probability": 45.0,
       "market_price": 41.55,
-      "edge": 13.45,
+      "edge": 3.45,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Spain win on 2026-07-19?",
+      "market_id": "0xdfbaae9f7587b11691c676d942f22b4ea9a9e3a68f7ca1d5d6bd4a1c967db23b",
+      "latest": "2026-07-16T22:43:57.775926",
+      "ai_probability": 45.0,
+      "market_price": 42.5,
+      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -68,15 +77,6 @@
       "ai_probability": 65.0,
       "market_price": 62.45,
       "edge": 2.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-16T17:22:04.634751",
-      "ai_probability": 30.0,
-      "market_price": 23.5,
-      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
