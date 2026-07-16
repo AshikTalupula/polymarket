@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T20:52:06.125424+00:00",
+  "updated_at": "2026-07-16T21:55:50.457221+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will France win on 2026-07-18?",
-      "market_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
-      "latest": "2026-07-16T20:46:03.248442",
-      "ai_probability": 52.0,
-      "market_price": 49.5,
+      "market_question": "Will Spain win on 2026-07-19?",
+      "market_id": "0xdfbaae9f7587b11691c676d942f22b4ea9a9e3a68f7ca1d5d6bd4a1c967db23b",
+      "latest": "2026-07-16T21:49:00.511399",
+      "ai_probability": 45.0,
+      "market_price": 42.5,
       "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Spain vs. Argentina: Team to Advance",
       "market_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
-      "latest": "2026-07-16T20:45:23.604715",
+      "latest": "2026-07-16T21:48:57.164328",
       "ai_probability": 62.0,
       "market_price": 58.5,
       "edge": 3.5,
@@ -28,19 +28,28 @@
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-16T20:45:20.077408",
-      "ai_probability": 62.0,
+      "latest": "2026-07-16T21:48:53.715010",
+      "ai_probability": 55.0,
       "market_price": 58.35,
-      "edge": 3.65,
+      "edge": -3.35,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-16T20:45:16.646519",
-      "ai_probability": 58.0,
+      "latest": "2026-07-16T21:48:50.177315",
+      "ai_probability": 55.0,
       "market_price": 41.65,
-      "edge": 16.35,
+      "edge": 13.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will France win on 2026-07-18?",
+      "market_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
+      "latest": "2026-07-16T20:46:03.248442",
+      "ai_probability": 52.0,
+      "market_price": 49.5,
+      "edge": 2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 8.0,
       "market_price": 11.85,
       "edge": -3.85,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "latest": "2026-07-16T03:44:13.681779",
-      "ai_probability": 62.0,
-      "market_price": 55.50000000000001,
-      "edge": 6.5,
       "confidence": "MEDIUM"
     }
   ]
