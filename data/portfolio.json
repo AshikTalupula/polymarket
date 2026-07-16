@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T14:24:09.030004+00:00",
+  "updated_at": "2026-07-16T15:58:12.160944+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,51 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-16T15:52:40.253393",
+      "ai_probability": 98.0,
+      "market_price": 95.95,
+      "edge": 2.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will France win on 2026-07-18?",
+      "market_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
+      "latest": "2026-07-16T15:52:36.495686",
+      "ai_probability": 52.0,
+      "market_price": 49.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Spain vs. Argentina: Team to Advance",
+      "market_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
+      "latest": "2026-07-16T15:52:32.943242",
+      "ai_probability": 62.0,
+      "market_price": 58.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-16T15:52:29.133296",
+      "ai_probability": 30.0,
+      "market_price": 23.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "latest": "2026-07-16T15:52:23.024535",
+      "ai_probability": 45.0,
+      "market_price": 41.65,
+      "edge": 3.35,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
@@ -44,33 +89,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-16T14:20:16.239137",
-      "ai_probability": 98.0,
-      "market_price": 96.05,
-      "edge": 1.95,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will France win on 2026-07-18?",
-      "market_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
-      "latest": "2026-07-16T14:20:12.927322",
-      "ai_probability": 52.0,
-      "market_price": 49.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-16T14:20:08.072084",
-      "ai_probability": 85.0,
-      "market_price": 23.5,
-      "edge": 61.5,
-      "confidence": "HIGH"
-    },
-    {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
       "latest": "2026-07-16T14:20:04.494083",
@@ -78,15 +96,6 @@
       "market_price": 58.050000000000004,
       "edge": 3.95,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-16T12:07:07.214522",
-      "ai_probability": 67.0,
-      "market_price": 41.65,
-      "edge": 25.35,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
@@ -131,15 +140,6 @@
       "ai_probability": 65.0,
       "market_price": 60.5,
       "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-07-16T03:44:07.026197",
-      "ai_probability": 1.8,
-      "market_price": 2.55,
-      "edge": -0.75,
       "confidence": "MEDIUM"
     }
   ]
