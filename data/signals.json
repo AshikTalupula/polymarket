@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-07-16T17:27:56.192115+00:00",
+  "updated_at": "2026-07-16T18:48:19.366439+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5898,
+      "timestamp": "2026-07-16T18:42:12.772140",
+      "market_question": "Will Argentina win on 2026-07-19?",
+      "market_id": "0x0c9ea0b1503b95b499975674aefdbd6c235f68885f2a812e97ca96016b207e43",
+      "ai_probability": 31.0,
+      "market_price": 26.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5897,
+      "timestamp": "2026-07-16T18:42:09.022829",
+      "market_question": "Will France win on 2026-07-18?",
+      "market_id": "0xc41f543ccb7a1a35a200c28096cc2e5c2351c54546087f4f6cf5c4ef3e0c1aa5",
+      "ai_probability": 52.0,
+      "market_price": 49.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5896,
+      "timestamp": "2026-07-16T18:42:05.612681",
+      "market_question": "Spain vs. Argentina: Team to Advance",
+      "market_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
+      "ai_probability": 62.0,
+      "market_price": 58.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5895,
+      "timestamp": "2026-07-16T18:42:02.176290",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 62.0,
+      "market_price": 58.35,
+      "edge": 3.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5894,
+      "timestamp": "2026-07-16T18:41:58.125313",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 58.0,
+      "market_price": 41.65,
+      "edge": 16.35,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 5893,
       "timestamp": "2026-07-16T17:26:03.448009",
@@ -1141,66 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 5798,
-      "timestamp": "2026-07-15T08:59:04.789991",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 95.0,
-      "market_price": 92.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5797,
-      "timestamp": "2026-07-15T08:59:01.305125",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 35.0,
-      "market_price": 18.5,
-      "edge": 16.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5796,
-      "timestamp": "2026-07-15T06:32:30.030402",
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "ai_probability": 5.0,
-      "market_price": 7.049999999999999,
-      "edge": -2.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5795,
-      "timestamp": "2026-07-15T06:32:26.679340",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5794,
-      "timestamp": "2026-07-15T06:32:23.622765",
-      "market_question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
-      "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
-      "ai_probability": 42.0,
-      "market_price": 36.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
