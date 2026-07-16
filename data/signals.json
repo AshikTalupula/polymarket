@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-16T03:44:51.205884+00:00",
+  "updated_at": "2026-07-16T06:10:59.646981+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5851,
+      "timestamp": "2026-07-16T06:06:37.263714",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 97.0,
+      "market_price": 96.0,
+      "edge": 1.0,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5850,
+      "timestamp": "2026-07-16T06:06:31.346462",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 30.0,
+      "market_price": 23.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 5849,
       "timestamp": "2026-07-16T03:44:49.201297",
@@ -1175,30 +1199,6 @@
       "market_price": 2.15,
       "edge": -1.15,
       "confidence": "LOW",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5751,
-      "timestamp": "2026-07-14T14:59:22.883941",
-      "market_question": "Will France reach the 2026 FIFA World Cup final?",
-      "market_id": "0x125c399641397f7b7cc111f3729999e32154a916deb1161527af031decde1f77",
-      "ai_probability": 62.0,
-      "market_price": 59.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5750,
-      "timestamp": "2026-07-14T14:59:19.336837",
-      "market_question": "Will England win the 2026 FIFA World Cup?",
-      "market_id": "0x375409bc5eeeff961e82b479caeccc20f33d15738e5bce1186d628aa3d9dfb1f",
-      "ai_probability": 25.0,
-      "market_price": 21.45,
-      "edge": 3.55,
-      "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
     }

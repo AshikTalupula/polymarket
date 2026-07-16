@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T03:44:51.209782+00:00",
+  "updated_at": "2026-07-16T06:10:59.651091+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,24 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-16T06:06:37.263714",
+      "ai_probability": 97.0,
+      "market_price": 96.0,
+      "edge": 1.0,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-16T06:06:31.346462",
+      "ai_probability": 30.0,
+      "market_price": 23.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Gavin Newsom win the 2028 US Presidential Election?",
       "market_id": "0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57",
@@ -89,30 +107,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-16T03:43:46.758847",
-      "ai_probability": 97.0,
-      "market_price": 95.65,
-      "edge": 1.35,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
       "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
       "latest": "2026-07-16T03:43:43.271320",
       "ai_probability": 42.0,
       "market_price": 34.5,
       "edge": 7.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-16T03:43:39.827660",
-      "ai_probability": 35.0,
-      "market_price": 23.5,
-      "edge": 11.5,
       "confidence": "MEDIUM"
     },
     {
