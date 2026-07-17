@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-17T17:58:25.577687+00:00",
+  "updated_at": "2026-07-17T21:18:28.617811+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5969,
+      "timestamp": "2026-07-17T21:11:46.212899",
+      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
+      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
+      "ai_probability": 62.0,
+      "market_price": 58.050000000000004,
+      "edge": 3.95,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5968,
+      "timestamp": "2026-07-17T21:11:42.329065",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 32.0,
+      "market_price": 27.500000000000004,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5967,
+      "timestamp": "2026-07-17T21:11:38.778517",
+      "market_question": "Will Spain win the 2026 FIFA World Cup?",
+      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
+      "ai_probability": 62.0,
+      "market_price": 59.150000000000006,
+      "edge": 2.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 5966,
+      "timestamp": "2026-07-17T21:11:35.275138",
+      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
+      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
+      "ai_probability": 55.0,
+      "market_price": 40.550000000000004,
+      "edge": 14.45,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 5965,
       "timestamp": "2026-07-17T17:51:45.323237",
@@ -1152,54 +1200,6 @@
       "edge": 11.5,
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5869,
-      "timestamp": "2026-07-16T12:07:10.678400",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 62.0,
-      "market_price": 57.95,
-      "edge": 4.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5868,
-      "timestamp": "2026-07-16T12:07:07.214522",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 67.0,
-      "market_price": 41.65,
-      "edge": 25.35,
-      "confidence": "HIGH",
-      "direction": "STRONG_BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5867,
-      "timestamp": "2026-07-16T10:33:35.811118",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 5.0,
-      "market_price": 3.85,
-      "edge": 1.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5866,
-      "timestamp": "2026-07-16T10:33:32.223106",
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
       "acted_on": 1
     }
   ]
