@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-17T11:05:30.455531+00:00",
+  "updated_at": "2026-07-17T14:15:45.638342+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5959,
+      "timestamp": "2026-07-17T14:08:49.502925",
+      "market_question": "Will Spain win on 2026-07-19?",
+      "market_id": "0xdfbaae9f7587b11691c676d942f22b4ea9a9e3a68f7ca1d5d6bd4a1c967db23b",
+      "ai_probability": 55.0,
+      "market_price": 42.5,
+      "edge": 12.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 5958,
+      "timestamp": "2026-07-17T14:08:45.971152",
+      "market_question": "Will Argentina win on 2026-07-19?",
+      "market_id": "0x0c9ea0b1503b95b499975674aefdbd6c235f68885f2a812e97ca96016b207e43",
+      "ai_probability": 32.0,
+      "market_price": 26.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 5957,
       "timestamp": "2026-07-17T11:01:51.382415",
@@ -1177,30 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
-    },
-    {
-      "id": 5859,
-      "timestamp": "2026-07-16T08:32:07.711231",
-      "market_question": "Will Kylian Mbappe be the top goalscorer at the 2026 FIFA World Cup?",
-      "market_id": "0xfa021d817ad33e0fa28e04051b4fea25b0a090e94bb1b2a38b377bce9778eb8e",
-      "ai_probability": 42.0,
-      "market_price": 34.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5858,
-      "timestamp": "2026-07-16T08:32:04.001213",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
