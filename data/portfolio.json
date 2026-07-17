@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T22:16:32.251586+00:00",
+  "updated_at": "2026-07-17T23:15:08.825310+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "latest": "2026-07-17T23:12:41.733355",
+      "ai_probability": 8.0,
+      "market_price": 5.050000000000001,
+      "edge": -3.05,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
       "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
-      "latest": "2026-07-17T22:09:42.674057",
+      "latest": "2026-07-17T23:08:45.310220",
       "ai_probability": 62.0,
       "market_price": 58.050000000000004,
       "edge": 4.0,
@@ -19,16 +28,16 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-17T22:09:39.297298",
-      "ai_probability": 35.0,
+      "latest": "2026-07-17T23:08:41.848881",
+      "ai_probability": 42.0,
       "market_price": 27.500000000000004,
-      "edge": 7.5,
+      "edge": 14.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "latest": "2026-07-17T22:09:35.790322",
+      "latest": "2026-07-17T23:08:38.371577",
       "ai_probability": 62.0,
       "market_price": 59.150000000000006,
       "edge": 2.85,
@@ -37,7 +46,7 @@
     {
       "market_question": "Will Argentina win the 2026 FIFA World Cup?",
       "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "latest": "2026-07-17T22:09:32.454476",
+      "latest": "2026-07-17T23:08:34.798692",
       "ai_probability": 55.0,
       "market_price": 40.550000000000004,
       "edge": 14.45,
@@ -86,15 +95,6 @@
       "ai_probability": 45.0,
       "market_price": 39.5,
       "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-17T07:01:35.717731",
-      "ai_probability": 5.0,
-      "market_price": 3.75,
-      "edge": 1.25,
       "confidence": "MEDIUM"
     },
     {
