@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-17T14:15:45.638342+00:00",
+  "updated_at": "2026-07-17T15:45:34.741659+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 5961,
+      "timestamp": "2026-07-17T15:38:55.500408",
+      "market_question": "Will Argentina win on 2026-07-19?",
+      "market_id": "0x0c9ea0b1503b95b499975674aefdbd6c235f68885f2a812e97ca96016b207e43",
+      "ai_probability": 32.0,
+      "market_price": 26.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 5960,
+      "timestamp": "2026-07-17T15:38:52.266449",
+      "market_question": "Spain vs. Argentina: Team to Advance",
+      "market_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
+      "ai_probability": 62.0,
+      "market_price": 58.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 5959,
       "timestamp": "2026-07-17T14:08:49.502925",
@@ -1174,30 +1198,6 @@
       "ai_probability": 35.0,
       "market_price": 23.5,
       "edge": 11.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5861,
-      "timestamp": "2026-07-16T10:33:14.861966",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 62.0,
-      "market_price": 57.95,
-      "edge": 4.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5860,
-      "timestamp": "2026-07-16T10:33:11.127261",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 58.0,
-      "market_price": 41.65,
-      "edge": 16.35,
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
