@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-18T05:52:55.759342+00:00",
+  "updated_at": "2026-07-18T07:30:25.914833+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6011,
+      "timestamp": "2026-07-18T07:24:03.246018",
+      "market_question": "Will Jesus Christ return before GTA VI?",
+      "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+      "ai_probability": 2.0,
+      "market_price": 49.5,
+      "edge": -47.5,
+      "confidence": "HIGH",
+      "direction": "STRONG_BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 6010,
+      "timestamp": "2026-07-18T07:23:59.601087",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6009,
+      "timestamp": "2026-07-18T07:23:53.675122",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 95.0,
+      "market_price": 94.65,
+      "edge": 0.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6008,
+      "timestamp": "2026-07-18T07:23:50.207183",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 40.0,
+      "market_price": 27.500000000000004,
+      "edge": 12.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6007,
       "timestamp": "2026-07-18T05:50:30.073772",
@@ -1145,54 +1193,6 @@
     {
       "id": 5912,
       "timestamp": "2026-07-16T23:43:13.595991",
-      "market_question": "Will Spain win the 2026 FIFA World Cup?",
-      "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
-      "ai_probability": 62.0,
-      "market_price": 58.35,
-      "edge": 3.65,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5911,
-      "timestamp": "2026-07-16T23:43:09.799441",
-      "market_question": "Will Argentina win the 2026 FIFA World Cup?",
-      "market_id": "0x0c4cd2055d6ea89354ffddc55d6dbcef9355748112ea952fc925f3db6a5c457f",
-      "ai_probability": 45.0,
-      "market_price": 41.55,
-      "edge": 3.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5910,
-      "timestamp": "2026-07-16T22:43:57.775926",
-      "market_question": "Will Spain win on 2026-07-19?",
-      "market_id": "0xdfbaae9f7587b11691c676d942f22b4ea9a9e3a68f7ca1d5d6bd4a1c967db23b",
-      "ai_probability": 45.0,
-      "market_price": 42.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5909,
-      "timestamp": "2026-07-16T22:43:54.387568",
-      "market_question": "Spain vs. Argentina: Team to Advance",
-      "market_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
-      "ai_probability": 62.0,
-      "market_price": 58.5,
-      "edge": 3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5908,
-      "timestamp": "2026-07-16T22:43:50.896034",
       "market_question": "Will Spain win the 2026 FIFA World Cup?",
       "market_id": "0x7976b8dbacf9077eb1453a62bcefd6ab2df199acd28aad276ff0d920d6992892",
       "ai_probability": 62.0,
