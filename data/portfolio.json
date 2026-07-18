@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T19:51:34.432168+00:00",
+  "updated_at": "2026-07-18T23:39:03.660764+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,9 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-18T19:45:29.569635",
-      "ai_probability": 15.0,
-      "market_price": 10.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-18T19:45:25.986091",
+      "latest": "2026-07-18T23:32:16.804721",
       "ai_probability": 4.0,
       "market_price": 5.5,
       "edge": -1.5,
@@ -28,19 +19,28 @@
     {
       "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-18T19:45:21.086212",
+      "latest": "2026-07-18T23:32:13.870654",
       "ai_probability": 96.0,
-      "market_price": 94.45,
-      "edge": 1.55,
+      "market_price": 94.39999999999999,
+      "edge": 1.6,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-18T19:45:17.649022",
+      "latest": "2026-07-18T23:32:10.695076",
       "ai_probability": 42.0,
       "market_price": 30.5,
       "edge": 11.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-18T19:45:29.569635",
+      "ai_probability": 15.0,
+      "market_price": 10.5,
+      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
