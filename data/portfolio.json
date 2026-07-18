@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T17:32:10.958990+00:00",
+  "updated_at": "2026-07-18T18:36:11.960726+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,24 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-18T18:28:53.595070",
+      "ai_probability": 96.0,
+      "market_price": 94.65,
+      "edge": 1.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-18T18:28:50.312859",
+      "ai_probability": 42.0,
+      "market_price": 29.5,
+      "edge": 12.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
@@ -32,24 +50,6 @@
       "ai_probability": 15.0,
       "market_price": 9.5,
       "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-18T17:25:54.239665",
-      "ai_probability": 95.0,
-      "market_price": 94.75,
-      "edge": 0.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-18T17:25:50.613909",
-      "ai_probability": 62.0,
-      "market_price": 28.999999999999996,
-      "edge": 33.0,
       "confidence": "MEDIUM"
     },
     {

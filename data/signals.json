@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-18T17:32:10.956409+00:00",
+  "updated_at": "2026-07-18T18:36:11.956589+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6037,
+      "timestamp": "2026-07-18T18:28:53.595070",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 96.0,
+      "market_price": 94.65,
+      "edge": 1.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6036,
+      "timestamp": "2026-07-18T18:28:50.312859",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 42.0,
+      "market_price": 29.5,
+      "edge": 12.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6035,
       "timestamp": "2026-07-18T17:26:05.038992",
@@ -1177,30 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
-    },
-    {
-      "id": 5937,
-      "timestamp": "2026-07-17T06:59:24.042377",
-      "market_question": "Will Lionel Messi be the top goalscorer at the 2026 FIFA World Cup?",
-      "market_id": "0xd2a8caba5559bc21e14f6b2aa504cb14a1782751658b71409e25b82e432c0a97",
-      "ai_probability": 65.0,
-      "market_price": 60.150000000000006,
-      "edge": 4.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5936,
-      "timestamp": "2026-07-17T06:59:20.402894",
-      "market_question": "Spain vs. Argentina: Team to Advance",
-      "market_id": "0x4b045e092c3166aa29d4864c11dffe7e316daafdac5677f11aa5cd16065fd042",
-      "ai_probability": 62.0,
-      "market_price": 58.5,
-      "edge": 3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
