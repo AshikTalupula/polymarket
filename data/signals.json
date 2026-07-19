@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-07-19T10:59:37.047025+00:00",
+  "updated_at": "2026-07-19T12:08:32.274436+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6086,
+      "timestamp": "2026-07-19T12:04:17.909400",
+      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+      "ai_probability": 65.0,
+      "market_price": 60.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6085,
+      "timestamp": "2026-07-19T12:01:24.370985",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6084,
+      "timestamp": "2026-07-19T12:01:21.420860",
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "ai_probability": 4.0,
+      "market_price": 3.95,
+      "edge": 0.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6083,
+      "timestamp": "2026-07-19T12:01:18.394433",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 95.0,
+      "market_price": 94.45,
+      "edge": 0.55,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6082,
+      "timestamp": "2026-07-19T12:01:15.381808",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 67.0,
+      "market_price": 29.5,
+      "edge": 37.5,
+      "confidence": "HIGH",
+      "direction": "STRONG_BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6081,
       "timestamp": "2026-07-19T10:54:10.143265",
@@ -1141,66 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 5986,
-      "timestamp": "2026-07-18T03:31:07.823111",
-      "market_question": "Will Jesus Christ return before GTA VI?",
-      "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
-      "ai_probability": 2.0,
-      "market_price": 49.5,
-      "edge": -47.5,
-      "confidence": "HIGH",
-      "direction": "STRONG_BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 5985,
-      "timestamp": "2026-07-18T03:31:04.152674",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 2.5,
-      "market_price": 3.95,
-      "edge": -1.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5984,
-      "timestamp": "2026-07-18T03:31:00.582525",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5983,
-      "timestamp": "2026-07-18T03:30:57.000115",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 95.0,
-      "market_price": 94.25,
-      "edge": 0.75,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5982,
-      "timestamp": "2026-07-18T03:30:53.122263",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 67.0,
-      "market_price": 27.500000000000004,
-      "edge": 39.5,
-      "confidence": "HIGH",
-      "direction": "STRONG_BUY_YES",
-      "acted_on": 1
     }
   ]
 }
