@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-19T13:55:26.408941+00:00",
+  "updated_at": "2026-07-19T14:53:13.263568+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6097,
+      "timestamp": "2026-07-19T14:45:58.784701",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6096,
+      "timestamp": "2026-07-19T14:45:55.855895",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 95.0,
+      "market_price": 94.45,
+      "edge": 0.55,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6095,
+      "timestamp": "2026-07-19T14:45:52.609762",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 42.0,
+      "market_price": 30.5,
+      "edge": 11.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6094,
       "timestamp": "2026-07-19T13:51:08.301566",
@@ -1165,42 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 5997,
-      "timestamp": "2026-07-18T05:49:55.522400",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 72.0,
-      "market_price": 27.500000000000004,
-      "edge": 19.5,
-      "confidence": "HIGH",
-      "direction": "STRONG_BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 5996,
-      "timestamp": "2026-07-18T03:31:42.411765",
-      "market_question": "Will no Fed rate cuts happen in 2026?",
-      "market_id": "0xd4e77ba6f29fc093509d24f508631abd445ecf506bbdc9c4c80e60256a318527",
-      "ai_probability": 79.0,
-      "market_price": 84.05,
-      "edge": -5.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 5995,
-      "timestamp": "2026-07-18T03:31:39.054711",
-      "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
-      "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-      "ai_probability": 58.0,
-      "market_price": 51.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
