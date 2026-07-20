@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-20T18:34:45.611725+00:00",
+  "updated_at": "2026-07-20T20:15:49.534744+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6178,
+      "timestamp": "2026-07-20T20:09:42.456153",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 35.0,
+      "market_price": 27.500000000000004,
+      "edge": 7.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 6177,
+      "timestamp": "2026-07-20T20:09:39.094342",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 95.0,
+      "market_price": 92.45,
+      "edge": 2.55,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 6176,
       "timestamp": "2026-07-20T18:30:26.247625",
@@ -1177,30 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 6078,
-      "timestamp": "2026-07-19T10:53:57.745835",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 67.0,
-      "market_price": 29.5,
-      "edge": 37.5,
-      "confidence": "HIGH",
-      "direction": "STRONG_BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6077,
-      "timestamp": "2026-07-19T09:22:07.389444",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 17.0,
-      "market_price": 10.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
