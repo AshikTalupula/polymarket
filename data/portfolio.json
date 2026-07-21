@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T22:12:27.747938+00:00",
+  "updated_at": "2026-07-21T23:16:38.901823+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,36 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-21T23:09:59.739849",
+      "ai_probability": 5.0,
+      "market_price": 8.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "latest": "2026-07-21T23:09:56.343067",
+      "ai_probability": 22.0,
+      "market_price": 15.049999999999999,
+      "edge": -7.05,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-21T22:05:44.541701",
-      "ai_probability": 85.0,
-      "market_price": 81.95,
-      "edge": 3.05,
+      "latest": "2026-07-21T23:09:53.177988",
+      "ai_probability": 79.0,
+      "market_price": 84.25,
+      "edge": -5.25,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-21T22:05:41.132822",
+      "latest": "2026-07-21T23:09:49.637288",
       "ai_probability": 35.0,
       "market_price": 28.499999999999996,
       "edge": 6.5,
@@ -32,15 +50,6 @@
       "ai_probability": 2.5,
       "market_price": 4.15,
       "edge": -1.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-21T20:55:25.531850",
-      "ai_probability": 5.0,
-      "market_price": 8.5,
-      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
@@ -59,15 +68,6 @@
       "ai_probability": 1.5,
       "market_price": 2.0500000000000003,
       "edge": -0.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-21T19:49:39.073928",
-      "ai_probability": 23.0,
-      "market_price": 17.599999999999998,
-      "edge": -5.4,
       "confidence": "MEDIUM"
     },
     {
