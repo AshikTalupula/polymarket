@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-21T19:54:00.531541+00:00",
+  "updated_at": "2026-07-21T21:02:09.138926+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6252,
+      "timestamp": "2026-07-21T20:55:28.964827",
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "ai_probability": 2.5,
+      "market_price": 4.15,
+      "edge": -1.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6251,
+      "timestamp": "2026-07-21T20:55:25.531850",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 5.0,
+      "market_price": 8.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6250,
+      "timestamp": "2026-07-21T20:55:22.021967",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 85.0,
+      "market_price": 81.85,
+      "edge": 3.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6249,
+      "timestamp": "2026-07-21T20:55:18.587844",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 82.0,
+      "market_price": 27.500000000000004,
+      "edge": 54.5,
+      "confidence": "HIGH",
+      "direction": "STRONG_BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6248,
       "timestamp": "2026-07-21T19:49:45.890639",
@@ -1150,54 +1198,6 @@
       "ai_probability": 32.0,
       "market_price": 27.750000000000004,
       "edge": 4.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6152,
-      "timestamp": "2026-07-20T10:27:20.846298",
-      "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
-      "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-      "ai_probability": 51.0,
-      "market_price": 54.50000000000001,
-      "edge": -3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6151,
-      "timestamp": "2026-07-20T10:27:17.508578",
-      "market_question": "Trump out as President before 2027?",
-      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "ai_probability": 8.0,
-      "market_price": 6.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6150,
-      "timestamp": "2026-07-20T10:27:14.152681",
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "ai_probability": 62.0,
-      "market_price": 56.49999999999999,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6149,
-      "timestamp": "2026-07-20T10:27:10.813957",
-      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "ai_probability": 45.0,
-      "market_price": 41.349999999999994,
-      "edge": 3.65,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
