@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-21T09:47:56.264807+00:00",
+  "updated_at": "2026-07-21T11:37:31.797015+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6226,
+      "timestamp": "2026-07-21T11:32:05.209120",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6225,
+      "timestamp": "2026-07-21T11:31:58.284481",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 42.0,
+      "market_price": 26.5,
+      "edge": 15.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 6224,
+      "timestamp": "2026-07-21T11:31:52.717372",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 95.0,
+      "market_price": 93.15,
+      "edge": 1.85,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 6223,
       "timestamp": "2026-07-21T09:46:06.317274",
@@ -1162,42 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 7.5,
       "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6126,
-      "timestamp": "2026-07-20T04:10:18.785541",
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "ai_probability": 62.0,
-      "market_price": 56.49999999999999,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6125,
-      "timestamp": "2026-07-20T04:10:15.665068",
-      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "ai_probability": 45.0,
-      "market_price": 41.3,
-      "edge": 3.7,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6124,
-      "timestamp": "2026-07-20T04:10:12.401019",
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "ai_probability": 2.0,
-      "market_price": 4.45,
-      "edge": -2.45,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
