@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T21:02:09.142750+00:00",
+  "updated_at": "2026-07-21T22:12:27.747938+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,24 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-21T22:05:44.541701",
+      "ai_probability": 85.0,
+      "market_price": 81.95,
+      "edge": 3.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-21T22:05:41.132822",
+      "ai_probability": 35.0,
+      "market_price": 28.499999999999996,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
@@ -24,24 +42,6 @@
       "market_price": 8.5,
       "edge": -3.5,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-21T20:55:22.021967",
-      "ai_probability": 85.0,
-      "market_price": 81.85,
-      "edge": 3.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-21T20:55:18.587844",
-      "ai_probability": 82.0,
-      "market_price": 27.500000000000004,
-      "edge": 54.5,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Will Gavin Newsom win the 2028 US Presidential Election?",
