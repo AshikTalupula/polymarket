@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-22T21:55:46.902737+00:00",
+  "updated_at": "2026-07-22T23:54:01.418738+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6337,
+      "timestamp": "2026-07-22T23:47:22.334633",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6336,
+      "timestamp": "2026-07-22T23:47:14.036733",
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "ai_probability": 30.0,
+      "market_price": 22.75,
+      "edge": 7.25,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 6335,
+      "timestamp": "2026-07-22T23:47:10.663724",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 82.0,
+      "market_price": 77.05,
+      "edge": 4.95,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6334,
+      "timestamp": "2026-07-22T23:47:07.460609",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 40.0,
+      "market_price": 28.499999999999996,
+      "edge": 11.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6333,
       "timestamp": "2026-07-22T21:49:07.975796",
@@ -1150,54 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 8.5,
       "edge": -3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6237,
-      "timestamp": "2026-07-21T18:04:23.873139",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 85.0,
-      "market_price": 87.15,
-      "edge": -2.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6236,
-      "timestamp": "2026-07-21T18:04:20.456482",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 42.0,
-      "market_price": 27.500000000000004,
-      "edge": 14.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6235,
-      "timestamp": "2026-07-21T16:50:31.852748",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 10.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6234,
-      "timestamp": "2026-07-21T16:49:51.754816",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 7.0,
-      "market_price": 4.15,
-      "edge": 2.85,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
