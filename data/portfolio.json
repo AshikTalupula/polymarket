@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T12:57:04.676492+00:00",
+  "updated_at": "2026-07-22T15:13:17.725485+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,7 +10,7 @@
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-22T12:52:13.315020",
+      "latest": "2026-07-22T15:07:52.892800",
       "ai_probability": 15.0,
       "market_price": 10.5,
       "edge": 4.5,
@@ -19,10 +19,28 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-22T12:52:09.928606",
+      "latest": "2026-07-22T15:07:47.578425",
       "ai_probability": 4.0,
       "market_price": 5.5,
       "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-22T15:07:42.558442",
+      "ai_probability": 82.0,
+      "market_price": 76.05,
+      "edge": 5.95,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-22T15:07:37.089335",
+      "ai_probability": 35.0,
+      "market_price": 28.499999999999996,
+      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
@@ -50,24 +68,6 @@
       "ai_probability": 15.0,
       "market_price": 8.5,
       "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-22T12:51:56.061487",
-      "ai_probability": 88.0,
-      "market_price": 83.89999999999999,
-      "edge": 4.1,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-22T12:51:52.393184",
-      "ai_probability": 35.0,
-      "market_price": 29.5,
-      "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {

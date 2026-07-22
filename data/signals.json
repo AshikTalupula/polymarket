@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-07-22T12:57:04.672650+00:00",
+  "updated_at": "2026-07-22T15:13:17.721551+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6315,
+      "timestamp": "2026-07-22T15:07:52.892800",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 10.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6314,
+      "timestamp": "2026-07-22T15:07:47.578425",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6313,
+      "timestamp": "2026-07-22T15:07:42.558442",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 82.0,
+      "market_price": 76.05,
+      "edge": 5.95,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 6312,
+      "timestamp": "2026-07-22T15:07:37.089335",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 35.0,
+      "market_price": 28.499999999999996,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6311,
       "timestamp": "2026-07-22T12:52:13.315020",
@@ -1153,54 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
-    },
-    {
-      "id": 6215,
-      "timestamp": "2026-07-21T09:45:38.113852",
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "ai_probability": 4.0,
-      "market_price": 6.45,
-      "edge": -2.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6214,
-      "timestamp": "2026-07-21T09:45:34.497592",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 82.0,
-      "market_price": 25.5,
-      "edge": 56.5,
-      "confidence": "HIGH",
-      "direction": "STRONG_BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6213,
-      "timestamp": "2026-07-21T09:45:31.067689",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 95.0,
-      "market_price": 93.25,
-      "edge": 1.75,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6212,
-      "timestamp": "2026-07-21T07:18:23.618669",
-      "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
-      "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
-      "ai_probability": 10.0,
-      "market_price": 13.950000000000001,
-      "edge": -3.95,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
