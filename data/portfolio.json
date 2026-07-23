@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T16:13:48.900871+00:00",
+  "updated_at": "2026-07-23T17:50:33.968856+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-23T16:08:56.380669",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": 5.5,
+      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+      "latest": "2026-07-23T17:45:43.042562",
+      "ai_probability": 65.0,
+      "market_price": 60.5,
+      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-23T16:08:52.851443",
+      "latest": "2026-07-23T17:45:39.486855",
       "ai_probability": 5.0,
       "market_price": 3.85,
       "edge": 1.15,
@@ -28,7 +28,7 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-23T16:08:49.241822",
+      "latest": "2026-07-23T17:45:35.957983",
       "ai_probability": 4.0,
       "market_price": 5.5,
       "edge": -1.5,
@@ -37,16 +37,25 @@
     {
       "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-23T16:08:46.002982",
+      "latest": "2026-07-23T17:45:32.729879",
       "ai_probability": 30.0,
-      "market_price": 24.6,
-      "edge": 5.4,
+      "market_price": 25.85,
+      "edge": 4.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-23T17:45:29.243740",
+      "ai_probability": 5.0,
+      "market_price": 8.5,
+      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-23T16:08:40.084007",
+      "latest": "2026-07-23T17:45:25.770161",
       "ai_probability": 35.0,
       "market_price": 29.5,
       "edge": 5.5,
@@ -55,10 +64,19 @@
     {
       "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-23T16:08:36.467205",
-      "ai_probability": 70.0,
-      "market_price": 74.5,
-      "edge": -4.5,
+      "latest": "2026-07-23T17:45:22.160569",
+      "ai_probability": 78.0,
+      "market_price": 73.85000000000001,
+      "edge": 4.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-23T16:08:56.380669",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {
@@ -86,24 +104,6 @@
       "ai_probability": 22.0,
       "market_price": 24.05,
       "edge": -2.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
-      "latest": "2026-07-23T14:25:28.699429",
-      "ai_probability": 65.0,
-      "market_price": 60.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-23T14:25:11.670022",
-      "ai_probability": 12.0,
-      "market_price": 8.5,
-      "edge": 3.5,
       "confidence": "MEDIUM"
     },
     {
