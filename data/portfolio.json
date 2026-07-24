@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T23:43:40.254802+00:00",
+  "updated_at": "2026-07-24T01:12:56.410520+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,57 +8,66 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-23T23:36:59.880791",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-23T23:36:56.795689",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-23T23:36:53.181204",
-      "ai_probability": 35.0,
-      "market_price": 30.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-23T23:36:49.799387",
-      "ai_probability": 80.0,
-      "market_price": 73.95,
-      "edge": 6.05,
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-07-24T01:09:17.337896",
+      "ai_probability": 2.0,
+      "market_price": 3.55,
+      "edge": -1.55,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-23T22:38:04.549485",
+      "latest": "2026-07-24T01:07:28.213863",
       "ai_probability": 5.0,
       "market_price": 3.85,
       "edge": 1.15,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-24T01:07:24.955882",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-23T22:36:46.300532",
+      "latest": "2026-07-24T01:07:21.679127",
       "ai_probability": 30.0,
-      "market_price": 24.45,
-      "edge": 5.55,
+      "market_price": 25.2,
+      "edge": 4.8,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-24T01:07:18.251158",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-24T01:07:14.819814",
+      "ai_probability": 42.0,
+      "market_price": 30.5,
+      "edge": 11.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-24T01:07:11.313422",
+      "ai_probability": 80.0,
+      "market_price": 73.65,
+      "edge": 6.35,
       "confidence": "MEDIUM"
     },
     {
