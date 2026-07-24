@@ -1,7 +1,103 @@
 {
-  "updated_at": "2026-07-24T15:08:25.336464+00:00",
+  "updated_at": "2026-07-24T17:00:17.919537+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6480,
+      "timestamp": "2026-07-24T16:56:02.497074",
+      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+      "ai_probability": 65.0,
+      "market_price": 60.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6479,
+      "timestamp": "2026-07-24T16:55:58.988543",
+      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
+      "ai_probability": 15.0,
+      "market_price": 19.75,
+      "edge": -4.75,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6478,
+      "timestamp": "2026-07-24T16:55:55.570999",
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "ai_probability": 4.0,
+      "market_price": 3.85,
+      "edge": 0.15,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6477,
+      "timestamp": "2026-07-24T16:55:52.159199",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 6476,
+      "timestamp": "2026-07-24T16:55:48.608952",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6475,
+      "timestamp": "2026-07-24T16:55:45.077902",
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "ai_probability": 25.0,
+      "market_price": 20.549999999999997,
+      "edge": 4.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6474,
+      "timestamp": "2026-07-24T16:55:41.567794",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 82.0,
+      "market_price": 78.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6473,
+      "timestamp": "2026-07-24T16:55:37.888539",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 32.0,
+      "market_price": 27.500000000000004,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 6472,
       "timestamp": "2026-07-24T15:02:55.140540",
@@ -1105,102 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
-    },
-    {
-      "id": 6380,
-      "timestamp": "2026-07-23T16:08:36.467205",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 70.0,
-      "market_price": 74.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6379,
-      "timestamp": "2026-07-23T14:25:39.074637",
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "ai_probability": 2.0,
-      "market_price": 4.35,
-      "edge": -2.35,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6378,
-      "timestamp": "2026-07-23T14:25:35.488352",
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "ai_probability": 15.0,
-      "market_price": 19.950000000000003,
-      "edge": -4.95,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6377,
-      "timestamp": "2026-07-23T14:25:32.203972",
-      "market_question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
-      "ai_probability": 22.0,
-      "market_price": 24.05,
-      "edge": -2.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6376,
-      "timestamp": "2026-07-23T14:25:28.699429",
-      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
-      "ai_probability": 65.0,
-      "market_price": 60.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6375,
-      "timestamp": "2026-07-23T14:25:25.182636",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6374,
-      "timestamp": "2026-07-23T14:25:21.962351",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 5.0,
-      "market_price": 3.85,
-      "edge": 1.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6373,
-      "timestamp": "2026-07-23T14:25:18.534883",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
