@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T20:08:54.044589+00:00",
+  "updated_at": "2026-07-25T22:15:34.839483+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,42 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-07-25T22:12:31.777762",
+      "ai_probability": 5.0,
+      "market_price": 3.35,
+      "edge": -1.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "latest": "2026-07-25T22:08:50.971157",
+      "ai_probability": 35.0,
+      "market_price": 20.95,
+      "edge": 14.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-25T22:08:47.687172",
+      "ai_probability": 31.0,
+      "market_price": 26.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "latest": "2026-07-25T22:08:44.456234",
+      "ai_probability": 85.0,
+      "market_price": 78.05,
+      "edge": 6.95,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
@@ -23,33 +59,6 @@
       "ai_probability": 4.0,
       "market_price": 5.5,
       "edge": -1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
-      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-25T20:02:40.783845",
-      "ai_probability": 35.0,
-      "market_price": 21.85,
-      "edge": 13.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-25T20:02:37.201457",
-      "ai_probability": 32.0,
-      "market_price": 26.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-25T20:02:32.773474",
-      "ai_probability": 82.0,
-      "market_price": 77.7,
-      "edge": 4.3,
       "confidence": "MEDIUM"
     },
     {
@@ -86,15 +95,6 @@
       "ai_probability": 65.0,
       "market_price": 61.5,
       "edge": 3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-07-25T08:51:21.506001",
-      "ai_probability": 4.0,
-      "market_price": 3.45,
-      "edge": 0.55,
       "confidence": "MEDIUM"
     },
     {
