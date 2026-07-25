@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T16:46:20.898515+00:00",
+  "updated_at": "2026-07-25T17:49:31.092929+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,30 +8,39 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-25T17:42:51.633879",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-25T16:39:03.909119",
-      "ai_probability": 30.0,
+      "latest": "2026-07-25T17:42:48.399703",
+      "ai_probability": 32.0,
       "market_price": 25.5,
-      "edge": 4.5,
+      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
       "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
-      "latest": "2026-07-25T16:39:00.813032",
+      "latest": "2026-07-25T17:42:44.910723",
       "ai_probability": 30.0,
-      "market_price": 24.25,
-      "edge": 5.75,
+      "market_price": 24.05,
+      "edge": 5.95,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
       "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "latest": "2026-07-25T16:38:57.406450",
+      "latest": "2026-07-25T17:42:41.350471",
       "ai_probability": 82.0,
-      "market_price": 75.05,
-      "edge": 6.95,
+      "market_price": 75.25,
+      "edge": 6.75,
       "confidence": "MEDIUM"
     },
     {
@@ -41,15 +50,6 @@
       "ai_probability": 15.0,
       "market_price": 9.5,
       "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-25T15:46:38.122506",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
       "confidence": "MEDIUM"
     },
     {
