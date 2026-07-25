@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-07-25T12:58:34.031416+00:00",
+  "updated_at": "2026-07-25T14:43:54.092282+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6550,
+      "timestamp": "2026-07-25T14:39:03.311015",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 6549,
+      "timestamp": "2026-07-25T14:39:00.088018",
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "ai_probability": 5.0,
+      "market_price": 3.95,
+      "edge": 1.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6548,
+      "timestamp": "2026-07-25T14:38:56.437392",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 6547,
+      "timestamp": "2026-07-25T14:38:53.001496",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6546,
+      "timestamp": "2026-07-25T14:38:49.612389",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 32.0,
+      "market_price": 25.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 6545,
+      "timestamp": "2026-07-25T14:38:46.384389",
+      "market_question": "Will the Fed increase interest rates by 25 bps after the July 2026 meeting?",
+      "market_id": "0xb5c0abeecb5502e6e8d83155c27819174d8317af3c425c3afc5a8c45257a3793",
+      "ai_probability": 30.0,
+      "market_price": 24.75,
+      "edge": 5.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6544,
+      "timestamp": "2026-07-25T14:38:43.037537",
+      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
+      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
+      "ai_probability": 82.0,
+      "market_price": 74.95,
+      "edge": 7.05,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6543,
       "timestamp": "2026-07-25T12:51:19.616726",
@@ -1117,90 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
-    },
-    {
-      "id": 6450,
-      "timestamp": "2026-07-24T09:39:24.807248",
-      "market_question": "Will there be no change in Fed interest rates after the July 2026 meeting?",
-      "market_id": "0x8bf1c1536ecb1c08fe13c6b71e8ab1f58bf3461c4cb79f5f1679f869a06aef86",
-      "ai_probability": 82.0,
-      "market_price": 75.75,
-      "edge": 6.25,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6449,
-      "timestamp": "2026-07-24T09:39:15.776954",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 42.0,
-      "market_price": 29.5,
-      "edge": 12.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6448,
-      "timestamp": "2026-07-24T07:13:53.912645",
-      "market_question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
-      "ai_probability": 25.0,
-      "market_price": 22.95,
-      "edge": 2.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6447,
-      "timestamp": "2026-07-24T07:13:45.494110",
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "ai_probability": 15.0,
-      "market_price": 19.85,
-      "edge": -4.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6446,
-      "timestamp": "2026-07-24T07:13:42.041909",
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "ai_probability": 2.0,
-      "market_price": 3.55,
-      "edge": -1.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6445,
-      "timestamp": "2026-07-24T07:13:38.640455",
-      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
-      "ai_probability": 65.0,
-      "market_price": 60.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6444,
-      "timestamp": "2026-07-24T07:13:35.216969",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 5.0,
-      "market_price": 3.85,
-      "edge": 1.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
