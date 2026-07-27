@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T18:11:50.668811+00:00",
+  "updated_at": "2026-07-27T19:58:00.155675+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,10 +10,37 @@
     {
       "market_question": "Will JD Vance win the 2028 US Presidential Election?",
       "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "latest": "2026-07-27T18:07:00.069959",
+      "latest": "2026-07-27T19:53:09.367509",
       "ai_probability": 15.0,
       "market_price": 20.25,
       "edge": -5.25,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
+      "latest": "2026-07-27T19:53:03.795988",
+      "ai_probability": 45.0,
+      "market_price": 42.95,
+      "edge": 2.05,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-27T19:52:56.490075",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-27T19:52:53.097922",
+      "ai_probability": 35.0,
+      "market_price": 21.5,
+      "edge": 13.5,
       "confidence": "MEDIUM"
     },
     {
@@ -23,15 +50,6 @@
       "ai_probability": 65.0,
       "market_price": 62.5,
       "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "latest": "2026-07-27T18:06:52.937157",
-      "ai_probability": 45.0,
-      "market_price": 42.85,
-      "edge": 2.15,
       "confidence": "MEDIUM"
     },
     {
@@ -50,24 +68,6 @@
       "ai_probability": 15.0,
       "market_price": 8.5,
       "edge": -6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-27T18:06:42.155016",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-27T18:06:38.816136",
-      "ai_probability": 18.0,
-      "market_price": 22.5,
-      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
