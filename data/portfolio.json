@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T21:59:54.694163+00:00",
+  "updated_at": "2026-07-28T23:10:02.535749+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,13 +8,49 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "latest": "2026-07-28T23:04:32.980361",
+      "ai_probability": 15.0,
+      "market_price": 10.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-28T23:03:07.020319",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-28T23:03:03.566730",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-07-28T23:02:59.859204",
+      "ai_probability": 5.0,
+      "market_price": 3.75,
+      "edge": 1.25,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-28T21:52:34.601656",
-      "ai_probability": 85.0,
-      "market_price": 21.5,
-      "edge": 63.5,
-      "confidence": "HIGH"
+      "latest": "2026-07-28T23:02:56.327228",
+      "ai_probability": 45.0,
+      "market_price": 23.5,
+      "edge": 21.5,
+      "confidence": "MEDIUM"
     },
     {
       "market_question": "Hantavirus pandemic in 2026?",
@@ -23,42 +59,6 @@
       "ai_probability": 2.0,
       "market_price": 3.35,
       "edge": -1.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-07-28T19:39:59.381933",
-      "ai_probability": 25.0,
-      "market_price": 13.5,
-      "edge": -11.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-28T19:39:55.875351",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-28T19:39:52.326916",
-      "ai_probability": 12.0,
-      "market_price": 8.5,
-      "edge": 3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-28T19:39:48.262241",
-      "ai_probability": 5.0,
-      "market_price": 3.75,
-      "edge": 1.25,
       "confidence": "MEDIUM"
     },
     {
