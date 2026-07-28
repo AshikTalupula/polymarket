@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-28T19:45:33.304471+00:00",
+  "updated_at": "2026-07-28T21:59:54.690422+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6776,
+      "timestamp": "2026-07-28T21:52:34.601656",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 85.0,
+      "market_price": 21.5,
+      "edge": 63.5,
+      "confidence": "HIGH",
+      "direction": "STRONG_BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6775,
       "timestamp": "2026-07-28T19:40:39.636378",
@@ -1189,18 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 6676,
-      "timestamp": "2026-07-27T11:28:33.110200",
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "ai_probability": 25.0,
-      "market_price": 13.5,
-      "edge": 11.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
