@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T12:11:09.935540+00:00",
+  "updated_at": "2026-07-28T14:37:09.735506+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,30 +8,48 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
+      "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
+      "latest": "2026-07-28T14:33:28.309373",
+      "ai_probability": 62.0,
+      "market_price": 55.50000000000001,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
+      "latest": "2026-07-28T14:33:25.327587",
+      "ai_probability": 45.0,
+      "market_price": 42.95,
+      "edge": 2.0,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "latest": "2026-07-28T14:33:21.908469",
+      "ai_probability": 25.0,
+      "market_price": 12.5,
+      "edge": 12.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-28T12:05:00.162865",
-      "ai_probability": 5.0,
+      "latest": "2026-07-28T14:33:11.122981",
+      "ai_probability": 15.0,
       "market_price": 8.5,
-      "edge": -3.5,
+      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-28T12:04:56.464854",
-      "ai_probability": 35.0,
+      "latest": "2026-07-28T14:33:07.701984",
+      "ai_probability": 18.0,
       "market_price": 21.5,
-      "edge": 13.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
-      "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-      "latest": "2026-07-28T10:00:06.110235",
-      "ai_probability": 62.0,
-      "market_price": 55.50000000000001,
-      "edge": 6.5,
+      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
@@ -59,24 +77,6 @@
       "ai_probability": 15.0,
       "market_price": 19.35,
       "edge": -4.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "latest": "2026-07-28T09:59:50.381009",
-      "ai_probability": 45.0,
-      "market_price": 42.95,
-      "edge": 2.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-07-28T09:59:47.169696",
-      "ai_probability": 20.0,
-      "market_price": 12.5,
-      "edge": -7.5,
       "confidence": "MEDIUM"
     },
     {
