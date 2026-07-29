@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T23:10:02.535749+00:00",
+  "updated_at": "2026-07-29T03:37:19.674966+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,99 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-07-28T23:04:32.980361",
-      "ai_probability": 15.0,
-      "market_price": 10.5,
+      "market_question": "Will Bitcoin reach $67,500 in July?",
+      "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
+      "latest": "2026-07-29T03:37:17.666614",
+      "ai_probability": 12.0,
+      "market_price": 8.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Fed rate hike in 2026?",
+      "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
+      "latest": "2026-07-29T03:37:14.255040",
+      "ai_probability": 82.0,
+      "market_price": 75.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Manchester City win the 2026-27 English Premier League (EPL) Championship?",
+      "market_id": "0x86e8f678e6cebb9596ffbb5a736b2ff9f36b12905d5b65b1556329c28533c7a1",
+      "latest": "2026-07-29T03:37:10.702167",
+      "ai_probability": 32.0,
+      "market_price": 29.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+      "latest": "2026-07-29T03:37:07.075903",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
       "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Renan Santos win the 2026 Brazilian presidential election?",
+      "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
+      "latest": "2026-07-29T03:37:03.667278",
+      "ai_probability": 5.0,
+      "market_price": 8.75,
+      "edge": -3.75,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Gavin Newsom win the 2028 US Presidential Election?",
+      "market_id": "0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57",
+      "latest": "2026-07-29T03:37:00.048765",
+      "ai_probability": 8.0,
+      "market_price": 11.65,
+      "edge": -3.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
+      "latest": "2026-07-29T03:36:56.608745",
+      "ai_probability": 45.0,
+      "market_price": 42.95,
+      "edge": 2.0,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Trump acquire Greenland before 2027?",
+      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
+      "latest": "2026-07-29T03:36:52.791512",
+      "ai_probability": 2.0,
+      "market_price": 4.3999999999999995,
+      "edge": -2.4,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-07-29T03:36:49.381538",
+      "ai_probability": 2.0,
+      "market_price": 3.35,
+      "edge": -1.35,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-28T23:03:07.020319",
+      "latest": "2026-07-29T03:36:46.010555",
       "ai_probability": 15.0,
       "market_price": 9.5,
-      "edge": 5.5,
+      "edge": -5.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Putin out as President of Russia by December 31, 2026?",
       "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-28T23:03:03.566730",
+      "latest": "2026-07-29T03:36:42.460406",
       "ai_probability": 15.0,
       "market_price": 8.5,
       "edge": 6.5,
@@ -37,109 +109,37 @@
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-28T23:02:59.859204",
+      "latest": "2026-07-29T03:36:38.640824",
       "ai_probability": 5.0,
       "market_price": 3.75,
       "edge": 1.25,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-29T03:36:35.220549",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-28T23:02:56.327228",
-      "ai_probability": 45.0,
+      "latest": "2026-07-29T03:36:31.925689",
+      "ai_probability": 85.0,
       "market_price": 23.5,
-      "edge": 21.5,
-      "confidence": "MEDIUM"
+      "edge": 61.5,
+      "confidence": "HIGH"
     },
     {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-07-28T19:40:39.636378",
+      "market_question": "Will Jesus Christ return before GTA VI?",
+      "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+      "latest": "2026-07-29T03:36:28.297142",
       "ai_probability": 2.0,
-      "market_price": 3.35,
-      "edge": -1.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
-      "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-      "latest": "2026-07-28T17:56:49.919630",
-      "ai_probability": 62.0,
-      "market_price": 56.49999999999999,
-      "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "latest": "2026-07-28T17:56:46.945069",
-      "ai_probability": 45.0,
-      "market_price": 42.95,
-      "edge": 2.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Billionaire one-time wealth tax passes in California election 2026?",
-      "market_id": "0x9345d5142a67f5541264c96515496affee02580f1c572680759eac9fd2a1588a",
-      "latest": "2026-07-28T10:00:00.346797",
-      "ai_probability": 45.0,
-      "market_price": 33.5,
-      "edge": 11.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Trump out as President before 2027?",
-      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "latest": "2026-07-28T09:59:56.937559",
-      "ai_probability": 15.0,
-      "market_price": 7.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
-      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
-      "latest": "2026-07-28T09:59:53.664302",
-      "ai_probability": 15.0,
-      "market_price": 19.35,
-      "edge": -4.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "latest": "2026-07-28T07:16:04.883262",
-      "ai_probability": 15.0,
-      "market_price": 20.150000000000002,
-      "edge": -5.15,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "latest": "2026-07-28T07:15:57.426095",
-      "ai_probability": 2.0,
-      "market_price": 4.35,
-      "edge": -2.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will no Fed rate cuts happen in 2026?",
-      "market_id": "0xd4e77ba6f29fc093509d24f508631abd445ecf506bbdc9c4c80e60256a318527",
-      "latest": "2026-07-28T04:25:43.164391",
-      "ai_probability": 82.0,
-      "market_price": 85.3,
-      "edge": -3.3,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Fed rate hike in 2026?",
-      "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
-      "latest": "2026-07-28T04:25:39.718459",
-      "ai_probability": 82.0,
-      "market_price": 77.5,
-      "edge": 4.5,
+      "market_price": 49.5,
+      "edge": -47.5,
       "confidence": "MEDIUM"
     }
   ]
