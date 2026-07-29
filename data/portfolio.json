@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T03:37:19.674966+00:00",
+  "updated_at": "2026-07-29T06:22:02.582714+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,51 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Trump acquire Greenland before 2027?",
+      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
+      "latest": "2026-07-29T06:18:23.026573",
+      "ai_probability": 2.0,
+      "market_price": 4.3999999999999995,
+      "edge": -2.4,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-07-29T06:18:14.691580",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-07-29T06:18:06.646342",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-29T06:18:03.256543",
+      "ai_probability": 35.0,
+      "market_price": 23.5,
+      "edge": 11.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before GTA VI?",
+      "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+      "latest": "2026-07-29T06:17:59.821874",
+      "ai_probability": 2.0,
+      "market_price": 49.5,
+      "edge": -47.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Bitcoin reach $67,500 in July?",
       "market_id": "0xbe20fcfd54937c2a48a7b8521ca349e6a2c4373566328ebb950a8c35ab1be3d9",
@@ -71,30 +116,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "latest": "2026-07-29T03:36:52.791512",
-      "ai_probability": 2.0,
-      "market_price": 4.3999999999999995,
-      "edge": -2.4,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Hantavirus pandemic in 2026?",
       "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
       "latest": "2026-07-29T03:36:49.381538",
       "ai_probability": 2.0,
       "market_price": 3.35,
       "edge": -1.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-29T03:36:46.010555",
-      "ai_probability": 15.0,
-      "market_price": 9.5,
-      "edge": -5.5,
       "confidence": "MEDIUM"
     },
     {
@@ -113,33 +140,6 @@
       "ai_probability": 5.0,
       "market_price": 3.75,
       "edge": 1.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-29T03:36:35.220549",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-29T03:36:31.925689",
-      "ai_probability": 85.0,
-      "market_price": 23.5,
-      "edge": 61.5,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will Jesus Christ return before GTA VI?",
-      "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
-      "latest": "2026-07-29T03:36:28.297142",
-      "ai_probability": 2.0,
-      "market_price": 49.5,
-      "edge": -47.5,
       "confidence": "MEDIUM"
     }
   ]
