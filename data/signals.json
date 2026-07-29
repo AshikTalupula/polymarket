@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-07-29T09:19:13.091139+00:00",
+  "updated_at": "2026-07-29T11:39:50.858372+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6816,
+      "timestamp": "2026-07-29T11:36:48.908280",
+      "market_question": "Will Marco Rubio win the 2028 US Presidential Election?",
+      "market_id": "0x2053d8515f1b8cbeea4ccdb56e60e89c2617e43a8660d95166b8e71d27865277",
+      "ai_probability": 8.0,
+      "market_price": 12.35,
+      "edge": -4.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6815,
+      "timestamp": "2026-07-29T11:36:45.566798",
+      "market_question": "Will Gavin Newsom win the 2028 US Presidential Election?",
+      "market_id": "0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57",
+      "ai_probability": 8.0,
+      "market_price": 11.65,
+      "edge": -3.65,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6814,
+      "timestamp": "2026-07-29T11:36:42.228219",
+      "market_question": "Will Trump acquire Greenland before 2027?",
+      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
+      "ai_probability": 2.0,
+      "market_price": 4.3999999999999995,
+      "edge": -2.4,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6813,
+      "timestamp": "2026-07-29T11:36:37.204107",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 9.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 6812,
+      "timestamp": "2026-07-29T11:36:34.041769",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6811,
+      "timestamp": "2026-07-29T11:36:27.050605",
+      "market_question": "Will Jesus Christ return before GTA VI?",
+      "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
+      "ai_probability": 2.0,
+      "market_price": 49.5,
+      "edge": -47.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 6810,
+      "timestamp": "2026-07-29T11:36:23.671891",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 30.0,
+      "market_price": 23.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6809,
       "timestamp": "2026-07-29T09:17:57.012994",
@@ -1117,90 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 6716,
-      "timestamp": "2026-07-27T23:39:03.228985",
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6715,
-      "timestamp": "2026-07-27T23:38:59.727473",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6714,
-      "timestamp": "2026-07-27T23:38:56.360042",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 18.0,
-      "market_price": 22.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6713,
-      "timestamp": "2026-07-27T19:53:09.367509",
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "ai_probability": 15.0,
-      "market_price": 20.25,
-      "edge": -5.25,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 6712,
-      "timestamp": "2026-07-27T19:53:03.795988",
-      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "ai_probability": 45.0,
-      "market_price": 42.95,
-      "edge": 2.05,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6711,
-      "timestamp": "2026-07-27T19:52:56.490075",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6710,
-      "timestamp": "2026-07-27T19:52:53.097922",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 35.0,
-      "market_price": 21.5,
-      "edge": 13.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
