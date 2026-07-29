@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T06:22:02.582714+00:00",
+  "updated_at": "2026-07-29T09:19:13.095018+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,45 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+      "latest": "2026-07-29T09:17:57.012994",
+      "ai_probability": 62.0,
+      "market_price": 57.49999999999999,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Gavin Newsom win the 2028 US Presidential Election?",
+      "market_id": "0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57",
+      "latest": "2026-07-29T09:17:51.791305",
+      "ai_probability": 8.0,
+      "market_price": 11.65,
+      "edge": -3.65,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
+      "latest": "2026-07-29T09:17:48.186747",
+      "ai_probability": 45.0,
+      "market_price": 42.95,
+      "edge": 2.0,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will Trump acquire Greenland before 2027?",
       "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "latest": "2026-07-29T06:18:23.026573",
+      "latest": "2026-07-29T09:17:44.811325",
       "ai_probability": 2.0,
-      "market_price": 4.3999999999999995,
-      "edge": -2.4,
-      "confidence": "MEDIUM"
+      "market_price": 4.35,
+      "edge": -2.35,
+      "confidence": "HIGH"
     },
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-29T06:18:14.691580",
+      "latest": "2026-07-29T09:17:39.894880",
       "ai_probability": 15.0,
       "market_price": 9.5,
       "edge": 5.5,
@@ -28,28 +55,28 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-29T06:18:06.646342",
+      "latest": "2026-07-29T09:17:32.832199",
       "ai_probability": 4.0,
       "market_price": 5.5,
       "edge": -1.5,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-29T06:18:03.256543",
-      "ai_probability": 35.0,
-      "market_price": 23.5,
-      "edge": 11.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Jesus Christ return before GTA VI?",
       "market_id": "0x32b09f6390252b37d674501527e709016d55581b2c1e544bd4b8167f5f732f4c",
-      "latest": "2026-07-29T06:17:59.821874",
+      "latest": "2026-07-29T09:17:29.772652",
       "ai_probability": 2.0,
       "market_price": 49.5,
       "edge": -47.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-29T09:17:26.187129",
+      "ai_probability": 35.0,
+      "market_price": 23.5,
+      "edge": 11.5,
       "confidence": "MEDIUM"
     },
     {
@@ -80,39 +107,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "latest": "2026-07-29T03:37:07.075903",
-      "ai_probability": 62.0,
-      "market_price": 57.49999999999999,
-      "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will Renan Santos win the 2026 Brazilian presidential election?",
       "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
       "latest": "2026-07-29T03:37:03.667278",
       "ai_probability": 5.0,
       "market_price": 8.75,
       "edge": -3.75,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Gavin Newsom win the 2028 US Presidential Election?",
-      "market_id": "0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57",
-      "latest": "2026-07-29T03:37:00.048765",
-      "ai_probability": 8.0,
-      "market_price": 11.65,
-      "edge": -3.65,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "latest": "2026-07-29T03:36:56.608745",
-      "ai_probability": 45.0,
-      "market_price": 42.95,
-      "edge": 2.0,
       "confidence": "MEDIUM"
     },
     {
