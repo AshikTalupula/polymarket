@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T13:28:02.411458+00:00",
+  "updated_at": "2026-07-29T15:41:26.960625+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,27 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Philadelphia Phillies vs. Miami Marlins",
+      "market_id": "0x491b270b1537fe6971fb09d497808f467fff32d79fc9868e4a9058a9137d1471",
+      "latest": "2026-07-29T15:36:59.664952",
+      "ai_probability": 58.0,
+      "market_price": 60.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-29T13:21:56.154038",
+      "latest": "2026-07-29T15:36:52.670975",
       "ai_probability": 15.0,
       "market_price": 9.5,
-      "edge": -5.5,
+      "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-29T13:21:49.217796",
+      "latest": "2026-07-29T15:36:46.164739",
       "ai_probability": 4.0,
       "market_price": 5.5,
       "edge": -1.5,
@@ -28,10 +37,10 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-29T13:21:45.776313",
-      "ai_probability": 30.0,
-      "market_price": 23.5,
-      "edge": 6.5,
+      "latest": "2026-07-29T15:36:38.040786",
+      "ai_probability": 35.0,
+      "market_price": 24.5,
+      "edge": 10.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 2.0,
       "market_price": 3.35,
       "edge": -1.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-07-29T03:36:42.460406",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
       "confidence": "MEDIUM"
     }
   ]
