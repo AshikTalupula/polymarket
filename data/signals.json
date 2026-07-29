@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-29T19:49:21.836288+00:00",
+  "updated_at": "2026-07-29T22:45:37.769246+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6835,
+      "timestamp": "2026-07-29T22:39:32.260249",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 6834,
+      "timestamp": "2026-07-29T22:38:47.425389",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 3.0,
+      "market_price": 5.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6833,
+      "timestamp": "2026-07-29T22:38:41.935237",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 35.0,
+      "market_price": 24.5,
+      "edge": 10.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6832,
       "timestamp": "2026-07-29T19:43:50.200450",
@@ -1165,42 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 6735,
-      "timestamp": "2026-07-28T04:25:43.164391",
-      "market_question": "Will no Fed rate cuts happen in 2026?",
-      "market_id": "0xd4e77ba6f29fc093509d24f508631abd445ecf506bbdc9c4c80e60256a318527",
-      "ai_probability": 82.0,
-      "market_price": 85.3,
-      "edge": -3.3,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6734,
-      "timestamp": "2026-07-28T04:25:39.718459",
-      "market_question": "Fed rate hike in 2026?",
-      "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
-      "ai_probability": 82.0,
-      "market_price": 77.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6733,
-      "timestamp": "2026-07-28T04:25:36.477064",
-      "market_question": "Will bitcoin hit $1m before GTA VI?",
-      "market_id": "0xbb57ccf5853a85487bc3d83d04d669310d28c6c810758953b9d9b91d1aee89d2",
-      "ai_probability": 55.0,
-      "market_price": 49.85,
-      "edge": 5.15,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
