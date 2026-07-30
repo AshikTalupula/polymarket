@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T06:51:31.218004+00:00",
+  "updated_at": "2026-07-30T09:26:11.832798+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,7 +10,7 @@
     {
       "market_question": "Trump out as President before 2027?",
       "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "latest": "2026-07-30T06:46:53.961811",
+      "latest": "2026-07-30T09:22:33.820911",
       "ai_probability": 10.0,
       "market_price": 6.5,
       "edge": -3.5,
@@ -19,7 +19,7 @@
     {
       "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
       "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-07-30T06:46:46.642494",
+      "latest": "2026-07-30T09:22:27.171397",
       "ai_probability": 5.0,
       "market_price": 7.5,
       "edge": -2.5,
@@ -28,7 +28,7 @@
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-30T06:46:43.372187",
+      "latest": "2026-07-30T09:22:24.073006",
       "ai_probability": 15.0,
       "market_price": 8.5,
       "edge": 6.5,
@@ -37,11 +37,11 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-30T06:46:34.570098",
-      "ai_probability": 42.0,
-      "market_price": 27.500000000000004,
-      "edge": 14.5,
-      "confidence": "MEDIUM"
+      "latest": "2026-07-30T09:22:15.691455",
+      "ai_probability": 82.0,
+      "market_price": 26.5,
+      "edge": 55.5,
+      "confidence": "HIGH"
     },
     {
       "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
