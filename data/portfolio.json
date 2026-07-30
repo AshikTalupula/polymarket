@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T17:07:52.197715+00:00",
+  "updated_at": "2026-07-30T18:47:58.807892+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,30 +8,66 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Fed rate hike in 2026?",
+      "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
+      "latest": "2026-07-30T18:44:55.922536",
+      "ai_probability": 70.0,
+      "market_price": 65.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-30T17:02:23.735868",
-      "ai_probability": 5.0,
+      "latest": "2026-07-30T18:42:58.116326",
+      "ai_probability": 4.0,
       "market_price": 6.5,
-      "edge": -1.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-07-30T18:42:54.900355",
+      "ai_probability": 4.0,
+      "market_price": 3.55,
+      "edge": 0.45,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-30T17:02:18.063395",
-      "ai_probability": 12.0,
+      "latest": "2026-07-30T18:42:51.387642",
+      "ai_probability": 15.0,
       "market_price": 8.5,
-      "edge": 3.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-07-30T18:42:48.015755",
+      "ai_probability": 5.0,
+      "market_price": 3.85,
+      "edge": 1.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-07-30T18:42:44.716281",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-30T17:02:09.691495",
-      "ai_probability": 82.0,
-      "market_price": 25.5,
-      "edge": 56.5,
+      "latest": "2026-07-30T18:42:41.246970",
+      "ai_probability": 67.0,
+      "market_price": 24.5,
+      "edge": 42.5,
       "confidence": "HIGH"
     },
     {
@@ -59,24 +95,6 @@
       "ai_probability": 65.0,
       "market_price": 63.5,
       "edge": 1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-07-30T13:10:36.875389",
-      "ai_probability": 2.0,
-      "market_price": 3.35,
-      "edge": -1.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-30T13:10:33.331950",
-      "ai_probability": 4.0,
-      "market_price": 3.85,
-      "edge": 0.15,
       "confidence": "MEDIUM"
     },
     {
@@ -122,24 +140,6 @@
       "ai_probability": 60.0,
       "market_price": 52.5,
       "edge": 7.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
-      "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-      "latest": "2026-07-30T04:17:49.617529",
-      "ai_probability": 58.0,
-      "market_price": 53.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Fed rate hike in 2026?",
-      "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
-      "latest": "2026-07-30T04:17:39.191494",
-      "ai_probability": 71.0,
-      "market_price": 64.5,
-      "edge": 6.5,
       "confidence": "MEDIUM"
     }
   ]
