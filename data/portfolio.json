@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T11:34:58.203873+00:00",
+  "updated_at": "2026-07-30T13:15:39.289899+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,30 +8,57 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+      "latest": "2026-07-30T13:10:49.288785",
+      "ai_probability": 65.0,
+      "market_price": 63.5,
+      "edge": 1.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
       "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-07-30T11:30:04.292481",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
+      "latest": "2026-07-30T13:10:45.793491",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
       "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-30T11:29:59.643166",
+      "latest": "2026-07-30T13:10:42.206065",
       "ai_probability": 15.0,
       "market_price": 8.5,
       "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-07-30T13:10:36.875389",
+      "ai_probability": 2.0,
+      "market_price": 3.35,
+      "edge": -1.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-07-30T13:10:33.331950",
+      "ai_probability": 4.0,
+      "market_price": 3.85,
+      "edge": 0.15,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-30T11:29:49.816006",
-      "ai_probability": 62.0,
+      "latest": "2026-07-30T13:10:30.016995",
+      "ai_probability": 42.0,
       "market_price": 25.5,
-      "edge": 36.5,
+      "edge": 16.5,
       "confidence": "MEDIUM"
     },
     {
@@ -98,15 +125,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
-      "latest": "2026-07-30T04:17:42.884195",
-      "ai_probability": 65.0,
-      "market_price": 63.5,
-      "edge": 1.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Fed rate hike in 2026?",
       "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
       "latest": "2026-07-30T04:17:39.191494",
@@ -122,24 +140,6 @@
       "ai_probability": 12.0,
       "market_price": 8.5,
       "edge": 3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-07-30T04:17:25.020012",
-      "ai_probability": 2.0,
-      "market_price": 3.45,
-      "edge": -1.45,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-07-30T04:17:21.274095",
-      "ai_probability": 5.0,
-      "market_price": 3.85,
-      "edge": 1.15,
       "confidence": "MEDIUM"
     }
   ]
