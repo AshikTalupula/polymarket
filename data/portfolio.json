@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T12:33:07.838518+00:00",
+  "updated_at": "2026-07-31T15:04:22.815348+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,45 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "latest": "2026-07-31T15:01:56.598972",
+      "ai_probability": 55.0,
+      "market_price": 41.5,
+      "edge": 13.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Trump acquire Greenland before 2027?",
+      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
+      "latest": "2026-07-31T15:01:53.126587",
+      "ai_probability": 2.0,
+      "market_price": 4.25,
+      "edge": -2.25,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Trump out as President before 2027?",
+      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
+      "latest": "2026-07-31T15:01:49.895137",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "latest": "2026-07-31T15:01:44.231568",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-07-31T12:27:39.683344",
+      "latest": "2026-07-31T15:01:40.930357",
       "ai_probability": 15.0,
       "market_price": 8.5,
       "edge": -6.5,
@@ -19,46 +55,19 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-07-31T12:27:36.246158",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-07-31T12:27:27.340528",
-      "ai_probability": 67.0,
-      "market_price": 24.5,
-      "edge": 42.5,
-      "confidence": "HIGH"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-07-31T10:21:52.188029",
-      "ai_probability": 55.0,
-      "market_price": 43.5,
-      "edge": 11.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Trump out as President before 2027?",
-      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "latest": "2026-07-31T10:21:47.282089",
-      "ai_probability": 8.0,
+      "latest": "2026-07-31T15:01:37.101288",
+      "ai_probability": 5.0,
       "market_price": 6.5,
       "edge": -1.5,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-07-31T10:21:44.035277",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-07-31T15:01:28.640250",
+      "ai_probability": 37.0,
+      "market_price": 24.5,
+      "edge": 12.5,
       "confidence": "MEDIUM"
     },
     {
@@ -96,15 +105,6 @@
       "market_price": 66.5,
       "edge": 4.5,
       "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "latest": "2026-07-31T07:41:26.665962",
-      "ai_probability": 2.0,
-      "market_price": 4.35,
-      "edge": -2.35,
-      "confidence": "HIGH"
     },
     {
       "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
