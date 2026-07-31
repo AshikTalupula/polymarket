@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-31T10:24:56.475657+00:00",
+  "updated_at": "2026-07-31T12:33:07.835140+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6947,
+      "timestamp": "2026-07-31T12:27:39.683344",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 6946,
+      "timestamp": "2026-07-31T12:27:36.246158",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6945,
+      "timestamp": "2026-07-31T12:27:27.340528",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 67.0,
+      "market_price": 24.5,
+      "edge": 42.5,
+      "confidence": "HIGH",
+      "direction": "STRONG_BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6944,
       "timestamp": "2026-07-31T10:21:52.188029",
@@ -1162,42 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 8.55,
       "edge": -3.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6847,
-      "timestamp": "2026-07-30T04:17:56.940925",
-      "market_question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
-      "ai_probability": 60.0,
-      "market_price": 52.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6846,
-      "timestamp": "2026-07-30T04:17:53.235077",
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "ai_probability": 62.0,
-      "market_price": 58.5,
-      "edge": 3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6845,
-      "timestamp": "2026-07-30T04:17:49.617529",
-      "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
-      "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-      "ai_probability": 58.0,
-      "market_price": 53.5,
-      "edge": 4.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
