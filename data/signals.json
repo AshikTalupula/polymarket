@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-08-01T14:09:35.463903+00:00",
+  "updated_at": "2026-08-01T15:21:49.785019+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7022,
+      "timestamp": "2026-08-01T15:15:46.103840",
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "ai_probability": 4.0,
+      "market_price": 3.65,
+      "edge": -0.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7021,
+      "timestamp": "2026-08-01T15:15:42.570164",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 7020,
+      "timestamp": "2026-08-01T15:15:39.154732",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 7019,
+      "timestamp": "2026-08-01T15:15:35.426175",
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "ai_probability": 5.0,
+      "market_price": 3.95,
+      "edge": 1.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7018,
+      "timestamp": "2026-08-01T15:15:31.988700",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 31.0,
+      "market_price": 24.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 7017,
       "timestamp": "2026-08-01T14:02:33.700718",
@@ -1141,66 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 6922,
-      "timestamp": "2026-07-31T04:48:16.754149",
-      "market_question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
-      "ai_probability": 25.0,
-      "market_price": 23.849999999999998,
-      "edge": 1.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6921,
-      "timestamp": "2026-07-31T04:48:13.574296",
-      "market_question": "Fed rate hike in 2026?",
-      "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
-      "ai_probability": 71.0,
-      "market_price": 66.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6920,
-      "timestamp": "2026-07-31T04:48:10.122602",
-      "market_question": "Will Renan Santos win the 2026 Brazilian presidential election?",
-      "market_id": "0x05297f854d3b757d5e51a1a29c7f225a80b14b2a161d6b7f9a61677da7a80ced",
-      "ai_probability": 5.0,
-      "market_price": 8.450000000000001,
-      "edge": -3.45,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6919,
-      "timestamp": "2026-07-31T04:48:06.941951",
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "ai_probability": 65.0,
-      "market_price": 60.5,
-      "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6918,
-      "timestamp": "2026-07-31T04:48:03.516312",
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "ai_probability": 51.0,
-      "market_price": 44.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
