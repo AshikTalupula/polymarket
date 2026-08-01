@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-07-31T23:41:32.789888+00:00",
+  "updated_at": "2026-08-01T01:18:26.243212+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 6973,
+      "timestamp": "2026-08-01T01:12:22.065268",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 12.0,
+      "market_price": 8.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6972,
+      "timestamp": "2026-08-01T01:12:00.356705",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 6971,
+      "timestamp": "2026-08-01T01:11:56.989507",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 30.0,
+      "market_price": 23.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 6970,
       "timestamp": "2026-07-31T23:34:44.523738",
@@ -1165,42 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 6873,
-      "timestamp": "2026-07-30T17:02:18.063395",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 12.0,
-      "market_price": 8.5,
-      "edge": 3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6872,
-      "timestamp": "2026-07-30T17:02:09.691495",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 82.0,
-      "market_price": 25.5,
-      "edge": 56.5,
-      "confidence": "HIGH",
-      "direction": "STRONG_BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6871,
-      "timestamp": "2026-07-30T15:25:36.855703",
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "ai_probability": 65.0,
-      "market_price": 59.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
