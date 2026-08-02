@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T18:52:24.002984+00:00",
+  "updated_at": "2026-08-02T20:06:37.805259+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-08-02T18:45:41.551989",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-08-02T20:00:32.665124",
+      "ai_probability": 4.0,
+      "market_price": 3.55,
+      "edge": 0.45,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-08-02T18:45:32.939290",
+      "latest": "2026-08-02T20:00:27.341196",
       "ai_probability": 15.0,
       "market_price": 7.5,
       "edge": -7.5,
@@ -28,7 +28,7 @@
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-08-02T18:45:28.005043",
+      "latest": "2026-08-02T20:00:23.732130",
       "ai_probability": 6.0,
       "market_price": 4.05,
       "edge": 1.95,
@@ -37,19 +37,19 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-02T18:45:24.309493",
+      "latest": "2026-08-02T20:00:19.698847",
       "ai_probability": 15.0,
       "market_price": 20.5,
       "edge": -5.5,
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "latest": "2026-08-02T15:32:57.113354",
-      "ai_probability": 4.0,
-      "market_price": 3.55,
-      "edge": 0.45,
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-08-02T18:45:41.551989",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {

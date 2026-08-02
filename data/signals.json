@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-02T18:52:24.000641+00:00",
+  "updated_at": "2026-08-02T20:06:37.801408+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7082,
+      "timestamp": "2026-08-02T20:00:32.665124",
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "ai_probability": 4.0,
+      "market_price": 3.55,
+      "edge": 0.45,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7081,
+      "timestamp": "2026-08-02T20:00:27.341196",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": -7.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7080,
+      "timestamp": "2026-08-02T20:00:23.732130",
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "ai_probability": 6.0,
+      "market_price": 4.05,
+      "edge": 1.95,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7079,
+      "timestamp": "2026-08-02T20:00:19.698847",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 15.0,
+      "market_price": 20.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 7078,
       "timestamp": "2026-08-02T18:45:41.551989",
@@ -1152,54 +1200,6 @@
       "edge": 6.5,
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6982,
-      "timestamp": "2026-08-01T04:42:26.289443",
-      "market_question": "Trump out as President before 2027?",
-      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "ai_probability": 10.0,
-      "market_price": 6.5,
-      "edge": -3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6981,
-      "timestamp": "2026-08-01T04:42:22.702572",
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "ai_probability": 15.0,
-      "market_price": 20.05,
-      "edge": -5.05,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 6980,
-      "timestamp": "2026-08-01T04:42:18.874664",
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6979,
-      "timestamp": "2026-08-01T04:42:15.468750",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": -6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
       "acted_on": 1
     }
   ]
