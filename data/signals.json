@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-02T06:43:57.389193+00:00",
+  "updated_at": "2026-08-02T09:06:55.670272+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7054,
+      "timestamp": "2026-08-02T09:02:19.931160",
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "ai_probability": 45.0,
+      "market_price": 39.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 7053,
+      "timestamp": "2026-08-02T09:02:12.046056",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": 7.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7052,
+      "timestamp": "2026-08-02T09:02:08.946054",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 15.0,
+      "market_price": 19.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 7051,
       "timestamp": "2026-08-02T06:42:06.558327",
@@ -1165,42 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
       "acted_on": 1
-    },
-    {
-      "id": 6954,
-      "timestamp": "2026-07-31T15:01:56.598972",
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "ai_probability": 55.0,
-      "market_price": 41.5,
-      "edge": 13.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 6953,
-      "timestamp": "2026-07-31T15:01:53.126587",
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "ai_probability": 2.0,
-      "market_price": 4.25,
-      "edge": -2.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6952,
-      "timestamp": "2026-07-31T15:01:49.895137",
-      "market_question": "Trump out as President before 2027?",
-      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }

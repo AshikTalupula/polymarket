@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T06:43:57.391568+00:00",
+  "updated_at": "2026-08-02T09:06:55.674115+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "latest": "2026-08-02T09:02:19.931160",
+      "ai_probability": 45.0,
+      "market_price": 39.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-08-02T09:02:12.046056",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": 7.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-08-02T09:02:08.946054",
+      "ai_probability": 15.0,
+      "market_price": 19.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
       "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
@@ -53,15 +80,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-08-02T06:41:49.445869",
-      "ai_probability": 45.0,
-      "market_price": 39.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
       "latest": "2026-08-02T06:41:46.039661",
@@ -95,24 +113,6 @@
       "ai_probability": 2.5,
       "market_price": 4.05,
       "edge": -1.55,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-08-02T06:41:29.758962",
-      "ai_probability": 15.0,
-      "market_price": 7.5,
-      "edge": -7.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-02T06:41:26.511930",
-      "ai_probability": 15.0,
-      "market_price": 19.5,
-      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
