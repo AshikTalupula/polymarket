@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-02T20:06:37.801408+00:00",
+  "updated_at": "2026-08-02T23:18:08.660521+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7084,
+      "timestamp": "2026-08-02T23:10:54.338758",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": -7.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
+    {
+      "id": 7083,
+      "timestamp": "2026-08-02T23:10:44.547457",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 15.0,
+      "market_price": 20.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 7082,
       "timestamp": "2026-08-02T20:00:32.665124",
@@ -1177,30 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 6984,
-      "timestamp": "2026-08-01T04:42:33.507795",
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "ai_probability": 2.5,
-      "market_price": 4.2,
-      "edge": -1.7,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 6983,
-      "timestamp": "2026-08-01T04:42:29.960685",
-      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
-      "ai_probability": 71.0,
-      "market_price": 64.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }
