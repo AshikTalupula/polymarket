@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T11:00:48.918950+00:00",
+  "updated_at": "2026-08-03T13:47:11.272253+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,27 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Fed rate hike in 2026?",
+      "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
+      "latest": "2026-08-03T13:47:09.264234",
+      "ai_probability": 72.0,
+      "market_price": 67.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Harry Kane win the 2026 Ballon d'Or?",
+      "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
+      "latest": "2026-08-03T13:47:05.738277",
+      "ai_probability": 58.0,
+      "market_price": 53.05,
+      "edge": 4.95,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
       "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-      "latest": "2026-08-03T11:00:43.247485",
+      "latest": "2026-08-03T13:47:02.441919",
       "ai_probability": 62.0,
       "market_price": 56.49999999999999,
       "edge": 5.5,
@@ -19,43 +37,61 @@
     {
       "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
       "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "latest": "2026-08-03T11:00:40.066415",
-      "ai_probability": 65.0,
+      "latest": "2026-08-03T13:46:59.664919",
+      "ai_probability": 70.0,
       "market_price": 63.5,
-      "edge": 1.5,
+      "edge": 6.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
       "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "latest": "2026-08-03T11:00:36.437314",
-      "ai_probability": 52.0,
+      "latest": "2026-08-03T13:46:56.272662",
+      "ai_probability": 42.0,
       "market_price": 45.95,
-      "edge": 6.05,
+      "edge": -3.95,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Trump out as President before 2027?",
       "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "latest": "2026-08-03T11:00:32.837022",
-      "ai_probability": 5.0,
+      "latest": "2026-08-03T13:46:52.791531",
+      "ai_probability": 4.0,
       "market_price": 6.5,
-      "edge": -1.5,
+      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-08-03T11:00:29.292023",
-      "ai_probability": 45.0,
-      "market_price": 41.5,
-      "edge": 3.5,
+      "latest": "2026-08-03T13:46:49.518384",
+      "ai_probability": 50.0,
+      "market_price": 42.5,
+      "edge": 7.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+      "latest": "2026-08-03T13:46:46.258519",
+      "ai_probability": 62.0,
+      "market_price": 56.49999999999999,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+      "latest": "2026-08-03T13:46:42.625078",
+      "ai_probability": 70.0,
+      "market_price": 65.5,
+      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will Trump acquire Greenland before 2027?",
       "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "latest": "2026-08-03T11:00:20.185485",
+      "latest": "2026-08-03T13:46:39.303037",
       "ai_probability": 2.0,
       "market_price": 3.85,
       "edge": -1.85,
@@ -64,16 +100,34 @@
     {
       "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
       "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-08-03T11:00:15.700265",
+      "latest": "2026-08-03T13:46:36.091485",
       "ai_probability": 20.0,
       "market_price": 12.5,
       "edge": -7.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-08-03T13:46:32.851540",
+      "ai_probability": 15.0,
+      "market_price": 8.5,
+      "edge": -6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "latest": "2026-08-03T13:46:29.357350",
+      "ai_probability": 5.0,
+      "market_price": 3.95,
+      "edge": 1.05,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-08-03T11:00:06.536641",
+      "latest": "2026-08-03T13:46:25.807151",
       "ai_probability": 15.0,
       "market_price": 7.5,
       "edge": 7.5,
@@ -82,64 +136,10 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-03T11:00:02.458283",
+      "latest": "2026-08-03T13:46:22.391989",
       "ai_probability": 15.0,
       "market_price": 20.5,
       "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Fed rate hike in 2026?",
-      "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
-      "latest": "2026-08-03T07:43:21.153858",
-      "ai_probability": 80.0,
-      "market_price": 67.5,
-      "edge": 12.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Harry Kane win the 2026 Ballon d'Or?",
-      "market_id": "0x12dc2b61723b2a54fc1947a307389b5f32038e7a29a0e936ad1fe410b969d06a",
-      "latest": "2026-08-03T07:43:17.785480",
-      "ai_probability": 58.0,
-      "market_price": 53.05,
-      "edge": 4.95,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
-      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
-      "latest": "2026-08-03T07:43:04.257737",
-      "ai_probability": 22.0,
-      "market_price": 19.15,
-      "edge": 2.85,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
-      "latest": "2026-08-03T07:43:00.655341",
-      "ai_probability": 72.0,
-      "market_price": 65.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
-      "latest": "2026-08-03T07:42:54.116089",
-      "ai_probability": 62.0,
-      "market_price": 56.49999999999999,
-      "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-08-03T07:42:43.932422",
-      "ai_probability": 15.0,
-      "market_price": 8.5,
-      "edge": 6.5,
       "confidence": "MEDIUM"
     }
   ]
