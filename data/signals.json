@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-08-03T13:47:11.268388+00:00",
+  "updated_at": "2026-08-03T16:13:19.854099+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7143,
+      "timestamp": "2026-08-03T16:11:27.211250",
+      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+      "ai_probability": 70.0,
+      "market_price": 63.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 7142,
+      "timestamp": "2026-08-03T16:11:23.949202",
+      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
+      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
+      "ai_probability": 42.0,
+      "market_price": 45.95,
+      "edge": -3.95,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7141,
+      "timestamp": "2026-08-03T16:11:20.625181",
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "ai_probability": 50.0,
+      "market_price": 42.5,
+      "edge": 7.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 7140,
+      "timestamp": "2026-08-03T16:11:13.429188",
+      "market_question": "Will Trump acquire Greenland before 2027?",
+      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
+      "ai_probability": 2.0,
+      "market_price": 3.75,
+      "edge": -1.75,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7139,
+      "timestamp": "2026-08-03T16:11:09.887173",
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "ai_probability": 20.0,
+      "market_price": 12.5,
+      "edge": -7.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7138,
+      "timestamp": "2026-08-03T16:11:02.326542",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": -7.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7137,
+      "timestamp": "2026-08-03T16:10:58.853622",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 15.0,
+      "market_price": 20.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 7136,
       "timestamp": "2026-08-03T13:47:09.264234",
@@ -1117,90 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "BUY_NO",
       "acted_on": 1
-    },
-    {
-      "id": 7043,
-      "timestamp": "2026-08-02T06:41:39.001759",
-      "market_question": "Hantavirus pandemic in 2026?",
-      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
-      "ai_probability": 4.0,
-      "market_price": 3.5999999999999996,
-      "edge": -0.4,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7042,
-      "timestamp": "2026-08-02T06:41:33.054759",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 2.5,
-      "market_price": 4.05,
-      "edge": -1.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7041,
-      "timestamp": "2026-08-02T06:41:29.758962",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 7.5,
-      "edge": -7.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 7040,
-      "timestamp": "2026-08-02T06:41:26.511930",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 15.0,
-      "market_price": 19.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7039,
-      "timestamp": "2026-08-02T04:00:18.129446",
-      "market_question": "Will Gavin Newsom win the 2028 US Presidential Election?",
-      "market_id": "0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57",
-      "ai_probability": 8.0,
-      "market_price": 11.85,
-      "edge": -3.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7038,
-      "timestamp": "2026-08-02T04:00:10.343107",
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "ai_probability": 5.0,
-      "market_price": 10.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 7037,
-      "timestamp": "2026-08-02T04:00:04.157211",
-      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "ai_probability": 42.0,
-      "market_price": 45.15,
-      "edge": -3.15,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
     }
   ]
 }
