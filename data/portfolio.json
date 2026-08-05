@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T12:17:59.018878+00:00",
+  "updated_at": "2026-08-05T14:43:40.360280+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,51 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will Rahm Emanuel win the 2028 Democratic presidential nomination?",
+      "market_id": "0x3dc47a72ac6bb265e9cefebd2a2eeed00966394cb2d07245b5c94138b60e82a3",
+      "latest": "2026-08-05T14:39:54.338120",
+      "ai_probability": 1.8,
+      "market_price": 2.4,
+      "edge": -0.6,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by August 15?",
+      "market_id": "0x49479ffa88e2897569b1d413e3bc558003e21912edee09d080ca6bac6eb20805",
+      "latest": "2026-08-05T14:39:49.030187",
+      "ai_probability": 8.0,
+      "market_price": 2.75,
+      "edge": 5.25,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "latest": "2026-08-05T14:39:44.139939",
+      "ai_probability": 25.0,
+      "market_price": 18.0,
+      "edge": 7.0,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-08-05T14:39:40.433120",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-08-05T14:39:35.295039",
+      "ai_probability": 10.0,
+      "market_price": 15.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
       "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
@@ -17,30 +62,12 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will Rahm Emanuel win the 2028 Democratic presidential nomination?",
-      "market_id": "0x3dc47a72ac6bb265e9cefebd2a2eeed00966394cb2d07245b5c94138b60e82a3",
-      "latest": "2026-08-05T12:14:32.181560",
-      "ai_probability": 1.8,
-      "market_price": 2.35,
-      "edge": -0.55,
-      "confidence": "LOW"
-    },
-    {
       "market_question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
       "latest": "2026-08-05T12:14:28.793099",
       "ai_probability": 50.0,
       "market_price": 45.5,
       "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by August 15?",
-      "market_id": "0x49479ffa88e2897569b1d413e3bc558003e21912edee09d080ca6bac6eb20805",
-      "latest": "2026-08-05T12:14:25.185838",
-      "ai_probability": 15.0,
-      "market_price": 3.25,
-      "edge": -11.75,
       "confidence": "MEDIUM"
     },
     {
@@ -62,24 +89,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-08-05T12:14:14.749219",
-      "ai_probability": 25.0,
-      "market_price": 15.5,
-      "edge": 9.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-08-05T12:14:11.101027",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
       "latest": "2026-08-05T12:14:07.861482",
@@ -95,15 +104,6 @@
       "ai_probability": 5.0,
       "market_price": 3.95,
       "edge": 1.05,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-05T12:14:00.769867",
-      "ai_probability": 12.0,
-      "market_price": 16.5,
-      "edge": -4.5,
       "confidence": "MEDIUM"
     },
     {
