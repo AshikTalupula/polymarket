@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T01:09:42.737101+00:00",
+  "updated_at": "2026-08-06T04:30:43.773739+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,27 +8,63 @@
   "total_fees": 0.0,
   "market_scan": [
     {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-08-06T01:02:34.435615",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
+      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+      "latest": "2026-08-06T04:29:01.774841",
+      "ai_probability": 73.0,
+      "market_price": 68.5,
+      "edge": 4.5,
       "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
+      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
+      "latest": "2026-08-06T04:28:56.689687",
+      "ai_probability": 15.0,
+      "market_price": 20.95,
+      "edge": -5.95,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "latest": "2026-08-06T04:28:47.677283",
+      "ai_probability": 60.0,
+      "market_price": 54.50000000000001,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "latest": "2026-08-06T04:28:44.471692",
+      "ai_probability": 80.0,
+      "market_price": 15.5,
+      "edge": 24.5,
+      "confidence": "HIGH"
     },
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-08-06T01:02:31.169309",
+      "latest": "2026-08-06T04:28:39.098322",
       "ai_probability": 4.0,
       "market_price": 5.5,
       "edge": -1.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-08-06T04:28:35.872554",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-06T01:02:26.103124",
+      "latest": "2026-08-06T04:28:30.482629",
       "ai_probability": 12.0,
       "market_price": 15.5,
       "edge": -3.5,
@@ -41,15 +77,6 @@
       "ai_probability": 70.0,
       "market_price": 64.5,
       "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-08-05T21:14:39.439438",
-      "ai_probability": 25.0,
-      "market_price": 13.5,
-      "edge": 11.5,
       "confidence": "MEDIUM"
     },
     {
@@ -71,15 +98,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-08-05T19:52:33.919939",
-      "ai_probability": 60.0,
-      "market_price": 52.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Strait of Hormuz traffic returns to normal by August 15?",
       "market_id": "0x49479ffa88e2897569b1d413e3bc558003e21912edee09d080ca6bac6eb20805",
       "latest": "2026-08-05T18:05:58.265975",
@@ -95,15 +113,6 @@
       "ai_probability": 1.8,
       "market_price": 2.4,
       "edge": -0.6,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "latest": "2026-08-05T12:17:20.859198",
-      "ai_probability": 80.0,
-      "market_price": 67.5,
-      "edge": 12.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 5.0,
       "market_price": 7.5,
       "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Trump acquire Greenland before 2027?",
-      "market_id": "0xd595eb9b81885ff018738300c79047e3ec89e87294424f57a29a7fa9162bf116",
-      "latest": "2026-08-04T16:43:51.677254",
-      "ai_probability": 2.0,
-      "market_price": 3.75,
-      "edge": -1.75,
       "confidence": "MEDIUM"
     }
   ]
