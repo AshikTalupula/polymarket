@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T06:37:28.268011+00:00",
+  "updated_at": "2026-08-07T07:58:27.322023+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,78 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+      "latest": "2026-08-07T07:58:23.727656",
+      "ai_probability": 72.0,
+      "market_price": 69.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
+      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
+      "latest": "2026-08-07T07:58:18.769081",
+      "ai_probability": 15.0,
+      "market_price": 21.349999999999998,
+      "edge": -6.35,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "latest": "2026-08-07T07:58:10.419720",
+      "ai_probability": 55.0,
+      "market_price": 48.5,
+      "edge": 6.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "latest": "2026-08-07T07:58:05.815134",
+      "ai_probability": 20.0,
+      "market_price": 12.5,
+      "edge": -7.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "latest": "2026-08-07T07:58:02.466943",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-08-07T07:57:59.305430",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-08-07T07:57:54.620865",
+      "ai_probability": 1.0,
+      "market_price": 2.0500000000000003,
+      "edge": -1.05,
+      "confidence": "HIGH"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-08-07T07:57:51.371939",
+      "ai_probability": 23.0,
+      "market_price": 17.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Fed rate hike in 2026?",
       "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
@@ -32,15 +104,6 @@
       "ai_probability": 15.0,
       "market_price": 13.5,
       "edge": 1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "latest": "2026-08-07T06:37:16.194077",
-      "ai_probability": 18.0,
-      "market_price": 21.45,
-      "edge": -3.45,
       "confidence": "MEDIUM"
     },
     {
@@ -77,69 +140,6 @@
       "ai_probability": 82.0,
       "market_price": 87.5,
       "edge": -5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-08-07T06:36:59.408704",
-      "ai_probability": 55.0,
-      "market_price": 48.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-08-07T06:36:56.223138",
-      "ai_probability": 15.0,
-      "market_price": 7.5,
-      "edge": -7.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-08-07T06:36:52.946331",
-      "ai_probability": 20.0,
-      "market_price": 12.5,
-      "edge": -7.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-08-07T06:36:49.409072",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-08-07T06:36:46.129067",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-08-07T06:36:42.941046",
-      "ai_probability": 5.0,
-      "market_price": 3.65,
-      "edge": -1.35,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-07T06:36:39.261460",
-      "ai_probability": 23.0,
-      "market_price": 18.5,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     }
   ]
