@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-07T14:34:47.527973+00:00",
+  "updated_at": "2026-08-07T15:35:04.800902+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7448,
+      "timestamp": "2026-08-07T15:28:25.079817",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7447,
+      "timestamp": "2026-08-07T15:27:56.612716",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7446,
+      "timestamp": "2026-08-07T15:27:53.223797",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 2.0500000000000003,
+      "edge": -0.05,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7445,
+      "timestamp": "2026-08-07T15:27:49.528607",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 15.0,
+      "market_price": 17.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 7444,
       "timestamp": "2026-08-07T14:27:59.715555",
@@ -1150,54 +1198,6 @@
       "ai_probability": 25.0,
       "market_price": 15.5,
       "edge": -9.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7348,
-      "timestamp": "2026-08-06T10:05:19.260026",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7347,
-      "timestamp": "2026-08-06T10:05:15.649447",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7346,
-      "timestamp": "2026-08-06T10:05:12.282163",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 5.0,
-      "market_price": 3.6999999999999997,
-      "edge": -1.3,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7345,
-      "timestamp": "2026-08-06T10:05:08.269355",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 23.0,
-      "market_price": 16.5,
-      "edge": 6.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
