@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-08T03:41:50.198767+00:00",
+  "updated_at": "2026-08-08T04:45:48.409670+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7479,
+      "timestamp": "2026-08-08T04:38:31.179512",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7478,
+      "timestamp": "2026-08-08T04:38:28.173714",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 12.0,
+      "market_price": 16.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 7477,
       "timestamp": "2026-08-08T03:41:11.752896",
@@ -1174,30 +1198,6 @@
       "ai_probability": 2.0,
       "market_price": 3.65,
       "edge": -1.65,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7379,
-      "timestamp": "2026-08-07T00:19:44.329728",
-      "market_question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
-      "ai_probability": 55.0,
-      "market_price": 47.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 7378,
-      "timestamp": "2026-08-07T00:19:40.953271",
-      "market_question": "Will the Democratic Party control the House after the 2026 Midterm elections?",
-      "market_id": "0xd5d9fc47718bd553592d126b1fa5e87183d27f3936975b0c04cc0f2dec1f1bb4",
-      "ai_probability": 82.0,
-      "market_price": 87.5,
-      "edge": -5.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
