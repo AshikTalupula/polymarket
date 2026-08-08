@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-08T07:19:48.579965+00:00",
+  "updated_at": "2026-08-08T09:04:26.233219+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7487,
+      "timestamp": "2026-08-08T08:57:43.510709",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7486,
+      "timestamp": "2026-08-08T08:57:40.107398",
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "ai_probability": 25.0,
+      "market_price": 12.5,
+      "edge": 12.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7485,
+      "timestamp": "2026-08-08T08:57:36.846920",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 4.0,
+      "market_price": 5.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7484,
+      "timestamp": "2026-08-08T08:57:33.416077",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 12.0,
+      "market_price": 16.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 7483,
       "timestamp": "2026-08-08T07:13:05.663752",
@@ -1150,54 +1198,6 @@
       "ai_probability": 4.0,
       "market_price": 6.5,
       "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7387,
-      "timestamp": "2026-08-07T03:22:12.077115",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7386,
-      "timestamp": "2026-08-07T03:22:06.953546",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 22.0,
-      "market_price": 18.5,
-      "edge": 3.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7385,
-      "timestamp": "2026-08-07T00:20:05.092817",
-      "market_question": "Fed rate hike in 2026?",
-      "market_id": "0x80b3af88cb991980e8da1ce86b9794a0957f96ec98c29319dd7ba65e9744d82b",
-      "ai_probability": 65.0,
-      "market_price": 63.5,
-      "edge": 1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7384,
-      "timestamp": "2026-08-07T00:20:01.655648",
-      "market_question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
-      "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
-      "ai_probability": 31.0,
-      "market_price": 26.85,
-      "edge": 4.15,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
