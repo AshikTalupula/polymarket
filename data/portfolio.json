@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T14:51:35.044856+00:00",
+  "updated_at": "2026-08-10T16:44:46.648324+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,36 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+      "latest": "2026-08-10T16:42:56.373782",
+      "ai_probability": 71.0,
+      "market_price": 66.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
       "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-08-10T14:44:17.102928",
+      "latest": "2026-08-10T16:37:54.855441",
       "ai_probability": 5.0,
       "market_price": 3.95,
       "edge": -1.05,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "latest": "2026-08-10T16:37:51.174301",
+      "ai_probability": 2.0,
+      "market_price": 2.0500000000000003,
+      "edge": -0.05,
+      "confidence": "HIGH"
+    },
+    {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-10T14:44:13.615998",
+      "latest": "2026-08-10T16:37:47.922503",
       "ai_probability": 25.0,
       "market_price": 16.5,
       "edge": 8.5,
@@ -122,24 +140,6 @@
       "ai_probability": 5.0,
       "market_price": 8.0,
       "edge": -3.0,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
-      "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-      "latest": "2026-08-09T02:26:55.203759",
-      "ai_probability": 62.0,
-      "market_price": 56.49999999999999,
-      "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "latest": "2026-08-09T02:26:52.320321",
-      "ai_probability": 72.0,
-      "market_price": 69.5,
-      "edge": 2.5,
       "confidence": "MEDIUM"
     }
   ]

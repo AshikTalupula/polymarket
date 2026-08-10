@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-10T14:51:35.040623+00:00",
+  "updated_at": "2026-08-10T16:44:46.644478+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7579,
+      "timestamp": "2026-08-10T16:42:56.373782",
+      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+      "ai_probability": 71.0,
+      "market_price": 66.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7578,
+      "timestamp": "2026-08-10T16:37:54.855441",
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "ai_probability": 5.0,
+      "market_price": 3.95,
+      "edge": -1.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7577,
+      "timestamp": "2026-08-10T16:37:51.174301",
+      "market_question": "Will Jesus Christ return before 2027?",
+      "market_id": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+      "ai_probability": 2.0,
+      "market_price": 2.0500000000000003,
+      "edge": -0.05,
+      "confidence": "HIGH",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7576,
+      "timestamp": "2026-08-10T16:37:47.922503",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 25.0,
+      "market_price": 16.5,
+      "edge": 8.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 7575,
       "timestamp": "2026-08-10T14:44:17.102928",
@@ -1150,54 +1198,6 @@
       "ai_probability": 12.0,
       "market_price": 16.5,
       "edge": -4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7479,
-      "timestamp": "2026-08-08T04:38:31.179512",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 4.0,
-      "market_price": 5.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7478,
-      "timestamp": "2026-08-08T04:38:28.173714",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 12.0,
-      "market_price": 16.5,
-      "edge": -4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7477,
-      "timestamp": "2026-08-08T03:41:11.752896",
-      "market_question": "Will J.D. Vance win the 2028 Republican presidential nomination?",
-      "market_id": "0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919",
-      "ai_probability": 48.0,
-      "market_price": 43.15,
-      "edge": 4.85,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7476,
-      "timestamp": "2026-08-08T03:36:40.068574",
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "ai_probability": 65.0,
-      "market_price": 62.5,
-      "edge": 2.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
