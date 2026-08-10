@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-10T13:46:40.286273+00:00",
+  "updated_at": "2026-08-10T14:51:35.040623+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7575,
+      "timestamp": "2026-08-10T14:44:17.102928",
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "ai_probability": 5.0,
+      "market_price": 3.95,
+      "edge": -1.05,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7574,
+      "timestamp": "2026-08-10T14:44:13.615998",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 25.0,
+      "market_price": 16.5,
+      "edge": 8.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
     {
       "id": 7573,
       "timestamp": "2026-08-10T13:40:36.987287",
@@ -1174,30 +1198,6 @@
       "ai_probability": 65.0,
       "market_price": 62.5,
       "edge": 2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7475,
-      "timestamp": "2026-08-08T03:36:36.680722",
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "ai_probability": 15.0,
-      "market_price": 7.5,
-      "edge": 7.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7474,
-      "timestamp": "2026-08-08T03:36:33.220595",
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "ai_probability": 25.0,
-      "market_price": 12.5,
-      "edge": 12.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
