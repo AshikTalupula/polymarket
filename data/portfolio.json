@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T10:10:49.225296+00:00",
+  "updated_at": "2026-08-10T11:26:05.047983+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,18 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Hantavirus pandemic in 2026?",
+      "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
+      "latest": "2026-08-10T11:22:25.568618",
+      "ai_probability": 2.0,
+      "market_price": 3.65,
+      "edge": -1.65,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-08-10T10:04:45.727926",
+      "latest": "2026-08-10T11:19:48.273476",
       "ai_probability": 65.0,
       "market_price": 63.5,
       "edge": 1.5,
@@ -19,7 +28,7 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-08-10T10:04:42.362153",
+      "latest": "2026-08-10T11:19:45.033803",
       "ai_probability": 5.0,
       "market_price": 4.5,
       "edge": 0.5,
@@ -28,28 +37,28 @@
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-08-10T10:04:39.143966",
-      "ai_probability": 5.0,
+      "latest": "2026-08-10T11:19:41.592349",
+      "ai_probability": 4.0,
       "market_price": 3.75,
-      "edge": 1.25,
+      "edge": 0.25,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
       "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-08-10T10:04:35.740200",
-      "ai_probability": 8.0,
-      "market_price": 4.05,
-      "edge": -3.95,
+      "latest": "2026-08-10T11:19:38.024366",
+      "ai_probability": 5.0,
+      "market_price": 3.85,
+      "edge": -1.15,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-10T10:04:32.379612",
-      "ai_probability": 12.0,
+      "latest": "2026-08-10T11:19:34.627127",
+      "ai_probability": 10.0,
       "market_price": 15.5,
-      "edge": -3.5,
+      "edge": -5.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 72.0,
       "market_price": 69.5,
       "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "latest": "2026-08-09T02:26:45.619405",
-      "ai_probability": 25.0,
-      "market_price": 21.45,
-      "edge": 3.55,
       "confidence": "MEDIUM"
     }
   ]
