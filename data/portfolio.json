@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T07:05:42.003191+00:00",
+  "updated_at": "2026-08-10T08:52:47.780636+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,16 +10,25 @@
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-08-10T06:59:31.787866",
+      "latest": "2026-08-10T08:47:02.783331",
       "ai_probability": 4.0,
       "market_price": 6.5,
       "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "latest": "2026-08-10T08:46:59.215790",
+      "ai_probability": 65.0,
+      "market_price": 63.5,
+      "edge": 1.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-08-10T06:59:28.473299",
+      "latest": "2026-08-10T08:46:55.638376",
       "ai_probability": 3.0,
       "market_price": 4.5,
       "edge": -1.5,
@@ -28,7 +37,7 @@
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-08-10T06:59:25.393947",
+      "latest": "2026-08-10T08:46:52.256702",
       "ai_probability": 5.0,
       "market_price": 3.75,
       "edge": 1.25,
@@ -37,7 +46,7 @@
     {
       "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
       "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-08-10T06:59:22.099480",
+      "latest": "2026-08-10T08:46:48.905190",
       "ai_probability": 5.0,
       "market_price": 3.95,
       "edge": -1.05,
@@ -46,10 +55,10 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-10T06:59:18.730694",
-      "ai_probability": 10.0,
+      "latest": "2026-08-10T08:46:45.338730",
+      "ai_probability": 12.0,
       "market_price": 15.5,
-      "edge": -5.5,
+      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
@@ -68,15 +77,6 @@
       "ai_probability": 40.0,
       "market_price": 35.5,
       "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-08-10T04:05:36.568957",
-      "ai_probability": 65.0,
-      "market_price": 63.5,
-      "edge": 1.5,
       "confidence": "MEDIUM"
     },
     {
