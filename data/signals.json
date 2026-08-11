@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-11T16:16:21.427125+00:00",
+  "updated_at": "2026-08-11T18:17:32.883906+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7623,
+      "timestamp": "2026-08-11T18:10:52.202972",
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "ai_probability": 5.0,
+      "market_price": 7.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7622,
+      "timestamp": "2026-08-11T18:10:48.753886",
+      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
+      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
+      "ai_probability": 5.0,
+      "market_price": 3.75,
+      "edge": -1.25,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7621,
+      "timestamp": "2026-08-11T18:10:45.125588",
+      "market_question": "Will China invade Taiwan by end of 2026?",
+      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
+      "ai_probability": 5.0,
+      "market_price": 3.65,
+      "edge": 1.35,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7620,
+      "timestamp": "2026-08-11T18:10:41.567205",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 15.0,
+      "market_price": 17.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 7619,
       "timestamp": "2026-08-11T16:13:18.187208",
@@ -1152,54 +1200,6 @@
       "edge": 11.25,
       "confidence": "MEDIUM",
       "direction": "BUY_YES",
-      "acted_on": 1
-    },
-    {
-      "id": 7523,
-      "timestamp": "2026-08-09T08:05:06.277240",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 6.5,
-      "edge": -8.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 7522,
-      "timestamp": "2026-08-09T08:05:02.787499",
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "ai_probability": 4.0,
-      "market_price": 6.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7521,
-      "timestamp": "2026-08-09T08:04:59.214947",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 22.0,
-      "market_price": 16.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 7520,
-      "timestamp": "2026-08-09T07:13:37.357501",
-      "market_question": "Will the Iranian regime fall before 2027?",
-      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "ai_probability": 15.0,
-      "market_price": 6.5,
-      "edge": -8.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
       "acted_on": 1
     }
   ]
