@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T14:08:14.381486+00:00",
+  "updated_at": "2026-08-12T17:24:03.045674+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,21 +8,39 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-08-12T17:17:58.846898",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": -7.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "latest": "2026-08-12T17:17:18.234529",
+      "ai_probability": 3.0,
+      "market_price": 4.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-08-12T17:17:12.970131",
+      "ai_probability": 23.0,
+      "market_price": 18.5,
+      "edge": 4.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Hantavirus pandemic in 2026?",
       "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
       "latest": "2026-08-12T14:05:10.903986",
       "ai_probability": 2.0,
       "market_price": 3.9,
       "edge": -1.9,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-08-12T14:02:21.933318",
-      "ai_probability": 5.0,
-      "market_price": 7.5,
-      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -50,24 +68,6 @@
       "ai_probability": 5.0,
       "market_price": 3.75,
       "edge": 1.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-08-12T14:02:08.407078",
-      "ai_probability": 3.0,
-      "market_price": 4.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-12T14:02:05.182595",
-      "ai_probability": 15.0,
-      "market_price": 18.5,
-      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +131,6 @@
       "ai_probability": 62.0,
       "market_price": 46.5,
       "edge": 15.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
-      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
-      "latest": "2026-08-10T16:42:56.373782",
-      "ai_probability": 71.0,
-      "market_price": 66.5,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     }
   ]
