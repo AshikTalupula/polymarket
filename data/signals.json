@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-12T08:44:16.951216+00:00",
+  "updated_at": "2026-08-12T09:53:26.970381+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7661,
+      "timestamp": "2026-08-12T09:46:46.317018",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 4.0,
+      "market_price": 6.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7660,
+      "timestamp": "2026-08-12T09:46:41.359247",
+      "market_question": "Will the US confirm that aliens exist before 2027?",
+      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
+      "ai_probability": 3.0,
+      "market_price": 4.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7659,
+      "timestamp": "2026-08-12T09:46:38.217742",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 23.0,
+      "market_price": 18.5,
+      "edge": -4.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 7658,
       "timestamp": "2026-08-12T08:38:48.947352",
@@ -1162,42 +1198,6 @@
       "ai_probability": 65.0,
       "market_price": 63.5,
       "edge": 1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7561,
-      "timestamp": "2026-08-10T10:04:42.362153",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 5.0,
-      "market_price": 4.5,
-      "edge": 0.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7560,
-      "timestamp": "2026-08-10T10:04:39.143966",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 5.0,
-      "market_price": 3.75,
-      "edge": 1.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7559,
-      "timestamp": "2026-08-10T10:04:35.740200",
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "ai_probability": 8.0,
-      "market_price": 4.05,
-      "edge": -3.95,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
