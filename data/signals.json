@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-08-13T14:54:04.134834+00:00",
+  "updated_at": "2026-08-13T15:51:02.626247+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7745,
+      "timestamp": "2026-08-13T15:46:48.417899",
+      "market_question": "Trump out as President before 2027?",
+      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
+      "ai_probability": 5.0,
+      "market_price": 6.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7744,
+      "timestamp": "2026-08-13T15:43:39.355632",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 15.0,
+      "market_price": 17.5,
+      "edge": -2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 7743,
       "timestamp": "2026-08-13T14:49:49.644993",
@@ -1174,30 +1198,6 @@
       "ai_probability": 23.0,
       "market_price": 18.5,
       "edge": 4.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7645,
-      "timestamp": "2026-08-12T04:20:30.659964",
-      "market_question": "Trump out as President before 2027?",
-      "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "ai_probability": 8.0,
-      "market_price": 6.5,
-      "edge": 1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7644,
-      "timestamp": "2026-08-12T04:19:24.295343",
-      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
-      "ai_probability": 65.0,
-      "market_price": 63.5,
-      "edge": 1.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0

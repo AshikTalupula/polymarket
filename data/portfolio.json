@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:54:04.138652+00:00",
+  "updated_at": "2026-08-13T15:51:02.630122+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,10 +10,19 @@
     {
       "market_question": "Trump out as President before 2027?",
       "market_id": "0x48b0b0bca515f68fccf95af4793dbd0edbfec1f8ec6e8df2c0f69ba74f8c4722",
-      "latest": "2026-08-13T14:49:49.644993",
-      "ai_probability": 10.0,
+      "latest": "2026-08-13T15:46:48.417899",
+      "ai_probability": 5.0,
       "market_price": 6.5,
-      "edge": -3.5,
+      "edge": -1.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-08-13T15:43:39.355632",
+      "ai_probability": 15.0,
+      "market_price": 17.5,
+      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
@@ -41,15 +50,6 @@
       "ai_probability": 5.0,
       "market_price": 3.75,
       "edge": 1.25,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-13T14:47:05.463302",
-      "ai_probability": 15.0,
-      "market_price": 17.5,
-      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
