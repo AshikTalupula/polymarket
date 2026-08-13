@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T06:05:40.057727+00:00",
+  "updated_at": "2026-08-13T07:51:14.765012+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,9 +8,27 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
+      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
+      "latest": "2026-08-13T07:47:00.843720",
+      "ai_probability": 65.0,
+      "market_price": 63.5,
+      "edge": 1.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Putin out as President of Russia by December 31, 2026?",
+      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
+      "latest": "2026-08-13T07:46:57.486271",
+      "ai_probability": 15.0,
+      "market_price": 7.5,
+      "edge": -7.5,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
       "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-08-13T05:59:30.746198",
+      "latest": "2026-08-13T07:46:54.232390",
       "ai_probability": 73.0,
       "market_price": 66.5,
       "edge": 6.5,
@@ -19,7 +37,7 @@
     {
       "market_question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
       "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
-      "latest": "2026-08-13T05:59:27.176845",
+      "latest": "2026-08-13T07:46:50.990413",
       "ai_probability": 67.0,
       "market_price": 32.5,
       "edge": 12.0,
@@ -28,16 +46,16 @@
     {
       "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
       "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "latest": "2026-08-13T05:59:23.652690",
+      "latest": "2026-08-13T07:46:47.628182",
       "ai_probability": 5.0,
-      "market_price": 3.15,
-      "edge": -1.85,
+      "market_price": 2.85,
+      "edge": -2.15,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-08-13T05:59:19.977163",
+      "latest": "2026-08-13T07:46:44.368713",
       "ai_probability": 5.0,
       "market_price": 3.75,
       "edge": 1.25,
@@ -46,7 +64,7 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-08-13T05:59:16.535138",
+      "latest": "2026-08-13T07:46:40.966591",
       "ai_probability": 3.0,
       "market_price": 4.5,
       "edge": -1.5,
@@ -55,7 +73,7 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-13T05:59:13.097310",
+      "latest": "2026-08-13T07:46:37.523178",
       "ai_probability": 22.0,
       "market_price": 17.5,
       "edge": -4.5,
@@ -89,15 +107,6 @@
       "confidence": "MEDIUM"
     },
     {
-      "market_question": "Putin out as President of Russia by December 31, 2026?",
-      "market_id": "0x6bd56627aa21311850825edb27e53434a0e17a4f782be0086bc07f71eee00d0d",
-      "latest": "2026-08-13T04:26:24.044348",
-      "ai_probability": 15.0,
-      "market_price": 7.5,
-      "edge": -7.5,
-      "confidence": "MEDIUM"
-    },
-    {
       "market_question": "Hantavirus pandemic in 2026?",
       "market_id": "0xa4ddc18895cc7b14810283ef8f113939abffd3969c6a0e37f1897110c67e6f73",
       "latest": "2026-08-12T14:05:10.903986",
@@ -113,15 +122,6 @@
       "ai_probability": 12.0,
       "market_price": 6.5,
       "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will Luiz In\u00e1cio Lula da Silva win the 2026 Brazilian presidential election?",
-      "market_id": "0xdf8e2dc5860027decbe6164555c3c1c9645c3bd33e16b9dc57ca87125047d4a8",
-      "latest": "2026-08-12T04:19:24.295343",
-      "ai_probability": 65.0,
-      "market_price": 63.5,
-      "edge": 1.5,
       "confidence": "MEDIUM"
     },
     {
