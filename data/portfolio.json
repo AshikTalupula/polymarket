@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T11:21:11.079344+00:00",
+  "updated_at": "2026-08-13T12:10:50.131643+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -10,7 +10,7 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-08-13T11:13:53.421715",
+      "latest": "2026-08-13T12:03:30.699990",
       "ai_probability": 3.0,
       "market_price": 4.5,
       "edge": -1.5,
@@ -19,10 +19,10 @@
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-13T11:13:50.379519",
-      "ai_probability": 23.0,
+      "latest": "2026-08-13T12:03:27.405938",
+      "ai_probability": 15.0,
       "market_price": 17.5,
-      "edge": 5.5,
+      "edge": -2.5,
       "confidence": "MEDIUM"
     },
     {
