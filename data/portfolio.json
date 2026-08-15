@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T17:08:09.657533+00:00",
+  "updated_at": "2026-08-15T01:29:29.800358+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,18 +8,45 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
+      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
+      "latest": "2026-08-15T01:27:38.561287",
+      "ai_probability": 18.0,
+      "market_price": 22.95,
+      "edge": -4.95,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will China invade Taiwan by end of 2026?",
       "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "latest": "2026-08-14T17:01:29.848830",
+      "latest": "2026-08-15T01:23:59.043224",
       "ai_probability": 5.0,
-      "market_price": 3.75,
-      "edge": 1.25,
+      "market_price": 3.85,
+      "edge": 1.15,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
+      "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
+      "latest": "2026-08-15T01:23:55.471823",
+      "ai_probability": 30.0,
+      "market_price": 24.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "latest": "2026-08-15T01:23:51.215291",
+      "ai_probability": 80.0,
+      "market_price": 74.5,
+      "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-08-14T17:01:26.274281",
+      "latest": "2026-08-15T01:23:47.783329",
       "ai_probability": 15.0,
       "market_price": 6.5,
       "edge": -8.5,
@@ -28,19 +55,19 @@
     {
       "market_question": "Will the US confirm that aliens exist before 2027?",
       "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "latest": "2026-08-14T17:01:22.826186",
-      "ai_probability": 3.0,
+      "latest": "2026-08-15T01:23:44.329454",
+      "ai_probability": 8.0,
       "market_price": 4.5,
-      "edge": -1.5,
+      "edge": 3.5,
       "confidence": "MEDIUM"
     },
     {
       "market_question": "Will the U.S. invade Iran before 2027?",
       "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-14T17:01:19.431916",
-      "ai_probability": 15.0,
-      "market_price": 17.5,
-      "edge": -2.5,
+      "latest": "2026-08-15T01:23:40.928428",
+      "ai_probability": 25.0,
+      "market_price": 16.5,
+      "edge": 8.5,
       "confidence": "MEDIUM"
     },
     {
@@ -50,24 +77,6 @@
       "ai_probability": 25.0,
       "market_price": 14.499999999999998,
       "edge": 10.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-08-14T13:56:45.045060",
-      "ai_probability": 82.0,
-      "market_price": 75.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the Fed increase interest rates by 25 bps after the September 2026 meeting?",
-      "market_id": "0x876506d8b2bd7a0d3fa4fe18c024eee6e1dd81ee24c26795dadd6cfe4a7b5d0d",
-      "latest": "2026-08-14T07:37:15.449401",
-      "ai_probability": 32.0,
-      "market_price": 27.500000000000004,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 50.0,
       "market_price": 45.5,
       "edge": 4.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will JD Vance win the 2028 US Presidential Election?",
-      "market_id": "0x7ad403c3508f8e3912940fd1a913f227591145ca0614074208e0b962d5fcc422",
-      "latest": "2026-08-13T04:28:03.581778",
-      "ai_probability": 25.0,
-      "market_price": 23.05,
-      "edge": 2.0,
       "confidence": "MEDIUM"
     }
   ]
