@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T03:29:14.299642+00:00",
+  "updated_at": "2026-08-15T23:31:58.904620+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -8,12 +8,30 @@
   "total_fees": 0.0,
   "market_scan": [
     {
+      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
+      "latest": "2026-08-15T23:31:20.785125",
+      "ai_probability": 23.0,
+      "market_price": 16.45,
+      "edge": 6.55,
+      "confidence": "MEDIUM"
+    },
+    {
       "market_question": "Will the Iranian regime fall before 2027?",
       "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
-      "latest": "2026-08-15T03:21:59.049160",
-      "ai_probability": 15.0,
+      "latest": "2026-08-15T23:25:51.554805",
+      "ai_probability": 12.0,
       "market_price": 6.5,
-      "edge": -8.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-08-15T23:24:36.232736",
+      "ai_probability": 22.0,
+      "market_price": 16.5,
+      "edge": 5.5,
       "confidence": "MEDIUM"
     },
     {
@@ -23,15 +41,6 @@
       "ai_probability": 8.0,
       "market_price": 4.5,
       "edge": 3.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-15T03:21:52.109666",
-      "ai_probability": 25.0,
-      "market_price": 16.5,
-      "edge": 8.5,
       "confidence": "MEDIUM"
     },
     {
@@ -131,15 +140,6 @@
       "ai_probability": 72.0,
       "market_price": 69.5,
       "edge": 2.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by December 31?",
-      "market_id": "0x5c79dfde05559b79a9cb9f7c4187e4d49632dd042572ae676952f812732591cc",
-      "latest": "2026-08-13T08:59:39.870308",
-      "ai_probability": 50.0,
-      "market_price": 45.5,
-      "edge": 4.5,
       "confidence": "MEDIUM"
     }
   ]
