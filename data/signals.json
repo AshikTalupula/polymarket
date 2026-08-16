@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-16T08:58:21.653837+00:00",
+  "updated_at": "2026-08-16T12:52:06.355746+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7833,
+      "timestamp": "2026-08-16T12:47:51.549501",
+      "market_question": "Strait of Hormuz traffic returns to normal by September 30?",
+      "market_id": "0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc",
+      "ai_probability": 15.0,
+      "market_price": 11.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7832,
+      "timestamp": "2026-08-16T12:44:47.514156",
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "ai_probability": 70.0,
+      "market_price": 73.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7831,
+      "timestamp": "2026-08-16T12:44:44.057194",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 22.0,
+      "market_price": 16.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_NO",
+      "acted_on": 1
+    },
     {
       "id": 7830,
       "timestamp": "2026-08-16T08:56:31.261531",
@@ -1165,42 +1201,6 @@
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
-    },
-    {
-      "id": 7733,
-      "timestamp": "2026-08-13T12:03:27.405938",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 15.0,
-      "market_price": 17.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7732,
-      "timestamp": "2026-08-13T11:13:53.421715",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 3.0,
-      "market_price": 4.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7731,
-      "timestamp": "2026-08-13T11:13:50.379519",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 23.0,
-      "market_price": 17.5,
-      "edge": 5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_YES",
-      "acted_on": 1
     }
   ]
 }

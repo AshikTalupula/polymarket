@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T08:58:21.657889+00:00",
+  "updated_at": "2026-08-16T12:52:06.359726+00:00",
   "open_positions": 4,
   "total_closed": 0,
   "wins": null,
@@ -7,6 +7,33 @@
   "today_pnl": 0.0,
   "total_fees": 0.0,
   "market_scan": [
+    {
+      "market_question": "Strait of Hormuz traffic returns to normal by September 30?",
+      "market_id": "0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc",
+      "latest": "2026-08-16T12:47:51.549501",
+      "ai_probability": 15.0,
+      "market_price": 11.5,
+      "edge": 3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "latest": "2026-08-16T12:44:47.514156",
+      "ai_probability": 70.0,
+      "market_price": 73.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM"
+    },
+    {
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "latest": "2026-08-16T12:44:44.057194",
+      "ai_probability": 22.0,
+      "market_price": 16.5,
+      "edge": -5.5,
+      "confidence": "MEDIUM"
+    },
     {
       "market_question": "Will Fl\u00e1vio Bolsonaro win the 2026 Brazilian presidential election?",
       "market_id": "0x1a01bf78f56a507fcb666d564d8c8b91b0750679163ed6e96746102c9b7d285d",
@@ -23,24 +50,6 @@
       "ai_probability": 15.0,
       "market_price": 6.5,
       "edge": -8.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "latest": "2026-08-16T08:50:59.921377",
-      "ai_probability": 23.0,
-      "market_price": 16.5,
-      "edge": 6.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "latest": "2026-08-16T03:03:16.675852",
-      "ai_probability": 70.0,
-      "market_price": 73.5,
-      "edge": -3.5,
       "confidence": "MEDIUM"
     },
     {
@@ -104,15 +113,6 @@
       "ai_probability": 30.0,
       "market_price": 24.5,
       "edge": 5.5,
-      "confidence": "MEDIUM"
-    },
-    {
-      "market_question": "Strait of Hormuz traffic returns to normal by September 30?",
-      "market_id": "0xa08a5ce99e14ce0b22767af6f16c08a2ab012249444c20887193a9a3e98e11fc",
-      "latest": "2026-08-14T15:02:42.361727",
-      "ai_probability": 25.0,
-      "market_price": 14.499999999999998,
-      "edge": 10.5,
       "confidence": "MEDIUM"
     },
     {
