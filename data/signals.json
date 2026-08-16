@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-16T12:52:06.355746+00:00",
+  "updated_at": "2026-08-16T13:28:20.930222+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7836,
+      "timestamp": "2026-08-16T13:24:40.909233",
+      "market_question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+      "market_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75",
+      "ai_probability": 22.0,
+      "market_price": 17.0,
+      "edge": 5.0,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7835,
+      "timestamp": "2026-08-16T13:21:00.883519",
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "ai_probability": 70.0,
+      "market_price": 73.5,
+      "edge": -3.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7834,
+      "timestamp": "2026-08-16T13:20:57.449041",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 22.0,
+      "market_price": 16.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 7833,
       "timestamp": "2026-08-16T12:47:51.549501",
@@ -1162,42 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 2.3,
       "edge": -2.7,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7736,
-      "timestamp": "2026-08-13T13:43:06.734880",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 3.0,
-      "market_price": 4.5,
-      "edge": -1.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7735,
-      "timestamp": "2026-08-13T13:43:03.085132",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 12.0,
-      "market_price": 17.5,
-      "edge": -5.5,
-      "confidence": "MEDIUM",
-      "direction": "BUY_NO",
-      "acted_on": 1
-    },
-    {
-      "id": 7734,
-      "timestamp": "2026-08-13T12:03:30.699990",
-      "market_question": "Will the US confirm that aliens exist before 2027?",
-      "market_id": "0x747dc809fb79e1b05be09c42d6179459a58de2ef3e40f02484a4e1260f741f75",
-      "ai_probability": 3.0,
-      "market_price": 4.5,
-      "edge": -1.5,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
