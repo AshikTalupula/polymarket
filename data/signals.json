@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-08-16T13:28:20.930222+00:00",
+  "updated_at": "2026-08-17T01:56:33.501808+00:00",
   "count": 100,
   "records": [
+    {
+      "id": 7840,
+      "timestamp": "2026-08-17T01:51:06.011392",
+      "market_question": "Will United Russia (ER) gain the most seats in the next Russian parliamentary election?",
+      "market_id": "0x502a94e5c525766d5ee7f16c6568131ba1b2cbadb69c703af05a6ef00336ed64",
+      "ai_probability": 75.0,
+      "market_price": 72.5,
+      "edge": 2.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
+    {
+      "id": 7839,
+      "timestamp": "2026-08-17T01:50:59.408018",
+      "market_question": "Will the Iranian regime fall before 2027?",
+      "market_id": "0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b",
+      "ai_probability": 12.0,
+      "market_price": 6.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 7838,
+      "timestamp": "2026-08-17T01:50:56.261629",
+      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
+      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
+      "ai_probability": 80.0,
+      "market_price": 74.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "BUY_YES",
+      "acted_on": 1
+    },
+    {
+      "id": 7837,
+      "timestamp": "2026-08-17T01:50:52.909188",
+      "market_question": "Will the U.S. invade Iran before 2027?",
+      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+      "ai_probability": 22.0,
+      "market_price": 16.5,
+      "edge": 5.5,
+      "confidence": "MEDIUM",
+      "direction": "NO_TRADE",
+      "acted_on": 0
+    },
     {
       "id": 7836,
       "timestamp": "2026-08-16T13:24:40.909233",
@@ -1150,54 +1198,6 @@
       "ai_probability": 5.0,
       "market_price": 2.45,
       "edge": -2.55,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7740,
-      "timestamp": "2026-08-13T14:47:08.793476",
-      "market_question": "Will China invade Taiwan by end of 2026?",
-      "market_id": "0xd9fb1184af0064e5e34b129f5b79afa5a17b7e32f2953ab05efed82315fee6d4",
-      "ai_probability": 5.0,
-      "market_price": 3.75,
-      "edge": 1.25,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7739,
-      "timestamp": "2026-08-13T14:47:05.463302",
-      "market_question": "Will the U.S. invade Iran before 2027?",
-      "market_id": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
-      "ai_probability": 15.0,
-      "market_price": 17.5,
-      "edge": -2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7738,
-      "timestamp": "2026-08-13T13:43:18.545276",
-      "market_question": "Will there be no change in Fed interest rates after the September 2026 meeting?",
-      "market_id": "0xa3b36b2d6104d34af4e6c6215fc818e43352e78a748fbfb0b85e3a35f71dec9a",
-      "ai_probability": 75.0,
-      "market_price": 72.5,
-      "edge": 2.5,
-      "confidence": "MEDIUM",
-      "direction": "NO_TRADE",
-      "acted_on": 0
-    },
-    {
-      "id": 7737,
-      "timestamp": "2026-08-13T13:43:12.824711",
-      "market_question": "Strait of Hormuz traffic returns to normal by August 31?",
-      "market_id": "0x60c2c085ee8c16bc8f2419739a94971d4c9d00f637ead10fc0f540afa1be64e8",
-      "ai_probability": 5.0,
-      "market_price": 2.3,
-      "edge": -2.7,
       "confidence": "MEDIUM",
       "direction": "NO_TRADE",
       "acted_on": 0
